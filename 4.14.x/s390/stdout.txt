@@ -12,8 +12,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (485 files)
   INSTALL include/mtd (5 files)
