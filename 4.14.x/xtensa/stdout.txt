@@ -11,9 +11,9 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
-  INSTALL include/misc (1 file)
   INSTALL include/drm (25 files)
+  INSTALL include/misc (1 file)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
@@ -40,10 +40,10 @@
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
   INSTALL include/linux/sched (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
