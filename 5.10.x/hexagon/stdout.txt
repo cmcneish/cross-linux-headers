@@ -10,8 +10,8 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/mman.h
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
