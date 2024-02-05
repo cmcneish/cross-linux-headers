@@ -8,8 +8,8 @@
   WRAP    arch/arc/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
   WRAP    arch/arc/include/generated/uapi/asm/poll.h
@@ -512,8 +512,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h
-  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
+  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
   HDRINST usr/include/linux/nfsd/debug.h
