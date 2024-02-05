@@ -15,8 +15,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
@@ -476,8 +476,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
-  HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
+  HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
@@ -497,8 +497,8 @@
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/if_xdp.h
-  HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
+  HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/blkpg.h
   HDRINST usr/include/linux/fib_rules.h
   HDRINST usr/include/linux/cycx_cfm.h
