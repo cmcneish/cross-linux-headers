@@ -13,8 +13,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
-  WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
@@ -455,8 +455,8 @@
   HDRINST usr/include/linux/android/binder.h
   HDRINST usr/include/linux/android/binderfs.h
   HDRINST usr/include/linux/isst_if.h
-  HDRINST usr/include/linux/btrfs.h
   HDRINST usr/include/linux/openvswitch.h
+  HDRINST usr/include/linux/btrfs.h
   HDRINST usr/include/linux/tc_ematch/tc_em_text.h
   HDRINST usr/include/linux/tc_ematch/tc_em_ipt.h
   HDRINST usr/include/linux/tc_ematch/tc_em_cmp.h
