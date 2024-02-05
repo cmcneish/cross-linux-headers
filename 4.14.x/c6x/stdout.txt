@@ -29,9 +29,9 @@
   WRAP    arch/c6x/include/generated/uapi/asm/types.h
   WRAP    arch/c6x/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/misc (1 file)
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
+  INSTALL include/misc (1 file)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
@@ -57,6 +57,7 @@
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
@@ -65,7 +66,6 @@
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (33 files)
