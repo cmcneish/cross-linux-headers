@@ -352,8 +352,8 @@
   HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
   HDRINST usr/include/linux/netfilter/xt_sctp.h
-  HDRINST usr/include/linux/netfilter/nf_conntrack_tuple_common.h
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
+  HDRINST usr/include/linux/netfilter/nf_conntrack_tuple_common.h
   HDRINST usr/include/linux/netfilter/xt_bpf.h
   HDRINST usr/include/linux/netfilter/xt_rateest.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cthelper.h
@@ -784,8 +784,8 @@
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
-  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
+  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spi.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
@@ -892,8 +892,8 @@
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h
-  HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_ns.h
+  HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_bsg_mpi3mr.h
   HDRINST usr/include/scsi/scsi_netlink.h

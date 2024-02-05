@@ -187,8 +187,8 @@
   HDRINST usr/include/linux/ioam6.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
-  HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
+  HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
@@ -210,8 +210,8 @@
   HDRINST usr/include/linux/ila.h
   HDRINST usr/include/linux/keyboard.h
   HDRINST usr/include/linux/mptcp.h
-  HDRINST usr/include/linux/kd.h
   HDRINST usr/include/linux/reboot.h
+  HDRINST usr/include/linux/kd.h
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
