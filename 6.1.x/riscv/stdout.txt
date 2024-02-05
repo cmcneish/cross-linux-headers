@@ -216,8 +216,8 @@
   HDRINST usr/include/linux/ila.h
   HDRINST usr/include/linux/keyboard.h
   HDRINST usr/include/linux/mptcp.h
-  HDRINST usr/include/linux/kd.h
   HDRINST usr/include/linux/reboot.h
+  HDRINST usr/include/linux/kd.h
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
@@ -247,8 +247,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
