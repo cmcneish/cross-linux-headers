@@ -914,8 +914,8 @@
   HDRINST usr/include/asm/intel_intrin.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/ustack.h
   HDRINST usr/include/asm/intrinsics.h
+  HDRINST usr/include/asm/ustack.h
   HDRINST usr/include/asm/gcc_intrin.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/fpu.h
