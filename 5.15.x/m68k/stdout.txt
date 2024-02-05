@@ -14,8 +14,8 @@
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
