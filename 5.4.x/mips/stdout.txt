@@ -531,8 +531,8 @@
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
-  HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/map_to_7segment.h
+  HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/seccomp.h
   HDRINST usr/include/linux/efs_fs_sb.h
@@ -915,8 +915,8 @@
   HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/inst.h
   HDRINST usr/include/asm/ipcbuf.h
-  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/unistd_nr_n64.h
+  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/unistd_n32.h
   HDRINST usr/include/asm/unistd_nr_o32.h
   HDRINST usr/include/asm/unistd_nr_n32.h
