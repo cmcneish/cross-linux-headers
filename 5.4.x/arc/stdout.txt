@@ -341,8 +341,8 @@
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
-  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
+  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
   HDRINST usr/include/linux/netfilter/xt_sctp.h
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
@@ -668,8 +668,8 @@
   HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/vboxguest.h
-  HDRINST usr/include/linux/qnxtypes.h
   HDRINST usr/include/linux/ax25.h
+  HDRINST usr/include/linux/qnxtypes.h
   HDRINST usr/include/linux/sonet.h
   HDRINST usr/include/linux/sem.h
   HDRINST usr/include/linux/igmp.h

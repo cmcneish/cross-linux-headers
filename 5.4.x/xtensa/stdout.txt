@@ -263,8 +263,8 @@
   HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/elf-em.h
   HDRINST usr/include/linux/mic_ioctl.h
-  HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cec-funcs.h
+  HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
@@ -722,8 +722,8 @@
   HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/virtio_crypto.h
+  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
@@ -821,8 +821,8 @@
   HDRINST usr/include/rdma/mthca-abi.h
   HDRINST usr/include/rdma/rdma_user_cm.h
   HDRINST usr/include/rdma/cxgb3-abi.h
-  HDRINST usr/include/rdma/hfi/hfi1_ioctl.h
   HDRINST usr/include/rdma/mlx5-abi.h
+  HDRINST usr/include/rdma/hfi/hfi1_ioctl.h
   HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
