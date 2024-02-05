@@ -10,10 +10,10 @@
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
@@ -632,10 +632,10 @@
   HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
-  HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
+  HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h

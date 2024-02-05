@@ -9,10 +9,10 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/poll.h
   WRAP    arch/openrisc/include/generated/uapi/asm/posix_types.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/resource.h
   WRAP    arch/openrisc/include/generated/uapi/asm/sembuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/setup.h
@@ -470,8 +470,8 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
@@ -510,8 +510,8 @@
   HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
-  HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/if_pppox.h
+  HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h
