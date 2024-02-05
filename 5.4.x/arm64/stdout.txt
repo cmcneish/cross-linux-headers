@@ -167,8 +167,8 @@
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/vbox_err.h
-  HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
+  HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
@@ -374,8 +374,8 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
-  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
+  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
