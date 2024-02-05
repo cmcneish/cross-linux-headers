@@ -761,8 +761,8 @@
   HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/dlm_device.h
   HDRINST usr/include/linux/mdio.h
-  HDRINST usr/include/linux/soundcard.h
   HDRINST usr/include/linux/atmmpc.h
+  HDRINST usr/include/linux/soundcard.h
   HDRINST usr/include/linux/taskstats.h
   HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h
@@ -871,8 +871,8 @@
   HDRINST usr/include/asm/ia64regs.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ioctls.h
-  HDRINST usr/include/asm/ptrace_offsets.h
   HDRINST usr/include/asm/intel_intrin.h
+  HDRINST usr/include/asm/ptrace_offsets.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/ustack.h
