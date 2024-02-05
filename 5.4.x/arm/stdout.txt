@@ -14,8 +14,8 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
@@ -589,8 +589,8 @@
   HDRINST usr/include/linux/usb/ch11.h
   HDRINST usr/include/linux/usb/charger.h
   HDRINST usr/include/linux/usb/functionfs.h
-  HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/g_printer.h
+  HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
   HDRINST usr/include/linux/usb/cdc-wdm.h
