@@ -12,10 +12,10 @@
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
@@ -693,8 +693,8 @@
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
-  HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/netfilter_ipv4.h
+  HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
   HDRINST usr/include/linux/vboxguest.h
