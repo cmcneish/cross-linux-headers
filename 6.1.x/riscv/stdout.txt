@@ -12,10 +12,10 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
@@ -698,8 +698,8 @@
   HDRINST usr/include/linux/caif/if_caif.h
   HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/netfilter_ipv4.h
-  HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
+  HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/vboxguest.h
   HDRINST usr/include/linux/qnxtypes.h
   HDRINST usr/include/linux/ax25.h
@@ -897,8 +897,8 @@
   HDRINST usr/include/scsi/fc/fc_els.h
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
-  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_bsg_mpi3mr.h
+  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
