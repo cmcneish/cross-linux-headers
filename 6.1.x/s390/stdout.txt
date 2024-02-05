@@ -459,8 +459,8 @@
   HDRINST usr/include/linux/tc_ematch/tc_em_ipt.h
   HDRINST usr/include/linux/tc_ematch/tc_em_cmp.h
   HDRINST usr/include/linux/tc_ematch/tc_em_nbyte.h
-  HDRINST usr/include/linux/tc_ematch/tc_em_meta.h
   HDRINST usr/include/linux/const.h
+  HDRINST usr/include/linux/tc_ematch/tc_em_meta.h
   HDRINST usr/include/linux/pg.h
   HDRINST usr/include/linux/if_vlan.h
   HDRINST usr/include/linux/string.h
@@ -788,8 +788,8 @@
   HDRINST usr/include/linux/spi/spi.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
-  HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/atm_zatm.h
+  HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
   HDRINST usr/include/linux/netconf.h
