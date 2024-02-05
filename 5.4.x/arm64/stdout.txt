@@ -511,8 +511,8 @@
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
   HDRINST usr/include/linux/nfsd/debug.h
-  HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/hidraw.h
+  HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/lirc.h
   HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
@@ -752,8 +752,8 @@
   HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
-  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
+  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
@@ -818,9 +818,9 @@
   HDRINST usr/include/rdma/rvt-abi.h
   HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
   HDRINST usr/include/rdma/efa-abi.h
-  HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
+  HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/siw-abi.h
   HDRINST usr/include/rdma/rdma_netlink.h
   HDRINST usr/include/rdma/rdma_user_ioctl.h
