@@ -2,8 +2,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/hexagon/include/generated/uapi/asm/auxvec.h
   WRAP    arch/hexagon/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/hexagon/include/generated/uapi/asm/errno.h
   WRAP    arch/hexagon/include/generated/uapi/asm/fcntl.h
+  WRAP    arch/hexagon/include/generated/uapi/asm/errno.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctl.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
@@ -62,6 +62,6 @@
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (5 files)
   INSTALL include/linux/usb (13 files)
-  INSTALL include/linux/wimax (1 file)
   INSTALL include/linux/netfilter/ipset (4 files)
+  INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (36 files)
