@@ -7,9 +7,9 @@
   WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
   HOSTCC  scripts/unifdef
-  INSTALL include/misc (1 file)
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
+  INSTALL include/misc (1 file)
   INSTALL include/linux (485 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
