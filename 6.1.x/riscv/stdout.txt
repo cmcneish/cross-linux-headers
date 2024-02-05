@@ -14,8 +14,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
-  WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
@@ -404,8 +404,8 @@
   HDRINST usr/include/linux/nfs4_mount.h
   HDRINST usr/include/linux/random.h
   HDRINST usr/include/linux/sync_file.h
-  HDRINST usr/include/linux/v4l2-dv-timings.h
   HDRINST usr/include/linux/nbd-netlink.h
+  HDRINST usr/include/linux/v4l2-dv-timings.h
   HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/kcov.h
   HDRINST usr/include/linux/in.h
