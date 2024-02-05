@@ -324,8 +324,8 @@
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
-  HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
+  HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
   HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
@@ -545,8 +545,8 @@
   HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/mic_common.h
-  HDRINST usr/include/linux/am437x-vpfe.h
   HDRINST usr/include/linux/virtio_rng.h
+  HDRINST usr/include/linux/am437x-vpfe.h
   HDRINST usr/include/linux/coda.h
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
