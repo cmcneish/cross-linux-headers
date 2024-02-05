@@ -12,13 +12,13 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
@@ -643,9 +643,9 @@
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
+  HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h
-  HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
