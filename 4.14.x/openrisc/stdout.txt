@@ -19,8 +19,8 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/shmparam.h
   WRAP    arch/openrisc/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/openrisc/include/generated/uapi/asm/signal.h
   WRAP    arch/openrisc/include/generated/uapi/asm/socket.h
+  WRAP    arch/openrisc/include/generated/uapi/asm/signal.h
   WRAP    arch/openrisc/include/generated/uapi/asm/sockios.h
   WRAP    arch/openrisc/include/generated/uapi/asm/stat.h
   WRAP    arch/openrisc/include/generated/uapi/asm/statfs.h
@@ -30,14 +30,14 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/types.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
-  INSTALL include/scsi (4 files)
   INSTALL include/rdma/hfi (2 files)
+  INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
