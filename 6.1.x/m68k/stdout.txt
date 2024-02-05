@@ -735,8 +735,8 @@
   HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
-  HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/video.h
+  HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
   HDRINST usr/include/linux/dvb/version.h

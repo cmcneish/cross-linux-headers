@@ -278,8 +278,8 @@
   HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
-  HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/udmabuf.h
+  HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/sched/types.h
@@ -745,8 +745,8 @@
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/ioam6_iptunnel.h
-  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
+  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/vduse.h

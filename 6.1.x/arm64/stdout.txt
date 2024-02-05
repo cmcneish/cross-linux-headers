@@ -14,8 +14,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
-  WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -164,8 +164,8 @@
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
-  HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
+  HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/bcm.h
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
-  HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/version.h
+  HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h

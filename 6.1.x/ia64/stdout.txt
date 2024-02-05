@@ -1,6 +1,6 @@
-  HOSTCC  scripts/basic/fixdep
   WRAP    arch/ia64/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/ia64/include/generated/uapi/asm/errno.h
+  HOSTCC  scripts/basic/fixdep
   WRAP    arch/ia64/include/generated/uapi/asm/ioctl.h
   WRAP    arch/ia64/include/generated/uapi/asm/ioctls.h
   WRAP    arch/ia64/include/generated/uapi/asm/ipcbuf.h
@@ -11,8 +11,8 @@
   WRAP    arch/ia64/include/generated/uapi/asm/socket.h
   WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
   WRAP    arch/ia64/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/ia64/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
