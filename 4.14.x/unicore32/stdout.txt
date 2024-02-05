@@ -19,8 +19,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/setup.h
   WRAP    arch/unicore32/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/shmparam.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/siginfo.h
   WRAP    arch/unicore32/include/generated/uapi/asm/signal.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/siginfo.h
   WRAP    arch/unicore32/include/generated/uapi/asm/socket.h
   WRAP    arch/unicore32/include/generated/uapi/asm/sockios.h
   WRAP    arch/unicore32/include/generated/uapi/asm/stat.h
@@ -32,8 +32,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
   INSTALL include/asm-generic (36 files)
-  INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
+  INSTALL include/drm (25 files)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
@@ -41,11 +41,11 @@
   INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
-  INSTALL include/linux/android (1 file)
   INSTALL include/video (3 files)
+  INSTALL include/xen (4 files)
+  INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
-  INSTALL include/xen (4 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
   INSTALL include/linux/dvb (8 files)
