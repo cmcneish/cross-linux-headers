@@ -669,8 +669,8 @@
   HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
   HDRINST usr/include/linux/i2c-dev.h
-  HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/utime.h
+  HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h

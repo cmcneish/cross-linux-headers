@@ -14,9 +14,9 @@
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
   WRAP    arch/riscv/include/generated/uapi/asm/swab.h
