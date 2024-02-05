@@ -9,12 +9,12 @@
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
-  WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
+  WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  WRAP    arch/x86/include/generated/uapi/asm/types.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
@@ -635,9 +635,9 @@
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
+  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
-  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h
