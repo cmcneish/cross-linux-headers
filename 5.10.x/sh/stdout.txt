@@ -13,15 +13,15 @@
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -817,8 +817,8 @@
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
-  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/linux/selinux_netlink.h
+  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
