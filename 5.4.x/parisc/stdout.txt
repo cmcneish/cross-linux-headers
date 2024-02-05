@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -348,8 +348,8 @@
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
-  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
+  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
   HDRINST usr/include/linux/netfilter/xt_cgroup.h
