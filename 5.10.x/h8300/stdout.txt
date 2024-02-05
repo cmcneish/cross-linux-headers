@@ -13,8 +13,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
@@ -273,11 +273,11 @@
   HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
-  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/fou.h
+  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/minix_fs.h
-  HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/gameport.h
+  HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/elf-em.h
   HDRINST usr/include/linux/cec-funcs.h
