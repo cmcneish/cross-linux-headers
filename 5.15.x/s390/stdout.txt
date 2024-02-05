@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -728,8 +728,8 @@
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
-  HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/version.h
+  HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
@@ -792,8 +792,8 @@
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
-  HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/hid.h
+  HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
