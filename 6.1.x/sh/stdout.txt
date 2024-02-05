@@ -13,16 +13,16 @@
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -919,8 +919,8 @@
   HDRINST usr/include/sound/asequencer.h
   HDRINST usr/include/sound/intel/avs/tokens.h
   HDRINST usr/include/sound/tlv.h
-  HDRINST usr/include/sound/sb16_csp.h
   HDRINST usr/include/sound/snd_ar_tokens.h
+  HDRINST usr/include/sound/sb16_csp.h
   HDRINST usr/include/video/edid.h
   HDRINST usr/include/video/uvesafb.h
   HDRINST usr/include/video/sisfb.h
