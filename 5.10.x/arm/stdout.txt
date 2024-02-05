@@ -12,13 +12,13 @@
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
