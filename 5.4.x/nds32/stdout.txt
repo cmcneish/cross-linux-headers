@@ -2,6 +2,7 @@
   WRAP    arch/nds32/include/generated/uapi/asm/ucontext.h
   WRAP    arch/nds32/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/nds32/include/generated/uapi/asm/bpf_perf_event.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/errno.h
   WRAP    arch/nds32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/nds32/include/generated/uapi/asm/ioctl.h
@@ -10,7 +11,6 @@
   WRAP    arch/nds32/include/generated/uapi/asm/mman.h
   WRAP    arch/nds32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h

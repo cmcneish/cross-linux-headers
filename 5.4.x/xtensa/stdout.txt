@@ -553,9 +553,9 @@
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/errno.h
-  HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
+  HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h
