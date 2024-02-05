@@ -14,8 +14,8 @@
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_spu.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
-  HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
+  HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/statfs.h
   HDRINST usr/include/asm-generic/poll.h
   HDRINST usr/include/asm-generic/unistd.h
@@ -902,8 +902,8 @@
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
   HDRINST usr/include/sound/sof/fw.h
-  HDRINST usr/include/sound/sof/header.h
   HDRINST usr/include/sound/hdsp.h
+  HDRINST usr/include/sound/sof/header.h
   HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/compress_offload.h
   HDRINST usr/include/sound/firewire.h
