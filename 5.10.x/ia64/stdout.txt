@@ -6,13 +6,13 @@
   WRAP    arch/ia64/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/poll.h
+  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   WRAP    arch/ia64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/socket.h
-  WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
-  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
+  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
