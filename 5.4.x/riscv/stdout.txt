@@ -521,8 +521,8 @@
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
   HDRINST usr/include/linux/uleds.h
-  HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/if_macsec.h
+  HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/hysdn_if.h
   HDRINST usr/include/linux/vm_sockets.h
