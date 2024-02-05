@@ -10,8 +10,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
@@ -312,8 +312,8 @@
   HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
-  HDRINST usr/include/linux/netfilter/xt_connmark.h
   HDRINST usr/include/linux/netfilter/xt_mac.h
+  HDRINST usr/include/linux/netfilter/xt_connmark.h
   HDRINST usr/include/linux/netfilter/xt_time.h
   HDRINST usr/include/linux/netfilter/xt_devgroup.h
   HDRINST usr/include/linux/netfilter/xt_socket.h
@@ -934,8 +934,8 @@
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
-  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/unistd_64.h
+  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/unistd_x32.h
   HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/errno.h

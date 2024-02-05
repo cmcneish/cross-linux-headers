@@ -12,15 +12,15 @@
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -357,8 +357,8 @@
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
-  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
+  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
   HDRINST usr/include/linux/netfilter/xt_cgroup.h
@@ -765,9 +765,9 @@
   HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
+  HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
-  HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/virtio_net.h
   HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/dlm_device.h
