@@ -217,8 +217,8 @@
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
-  HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/reiserfs_fs.h
+  HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
@@ -718,8 +718,8 @@
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
-  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/dmx.h
+  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
