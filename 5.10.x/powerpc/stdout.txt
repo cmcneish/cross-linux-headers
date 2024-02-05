@@ -888,9 +888,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
+  HDRINST usr/include/asm/opal-prd.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/elf.h
-  HDRINST usr/include/asm/opal-prd.h
   HDRINST usr/include/asm/vas-api.h
   HDRINST usr/include/asm/nvram.h
   HDRINST usr/include/asm/sembuf.h
