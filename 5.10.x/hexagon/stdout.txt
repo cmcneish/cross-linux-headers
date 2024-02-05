@@ -12,7 +12,6 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/shmbuf.h
@@ -20,6 +19,7 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/socket.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sockios.h
   WRAP    arch/hexagon/include/generated/uapi/asm/stat.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/statfs.h
   WRAP    arch/hexagon/include/generated/uapi/asm/termbits.h
   WRAP    arch/hexagon/include/generated/uapi/asm/termios.h
