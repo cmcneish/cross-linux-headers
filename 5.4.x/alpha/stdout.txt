@@ -309,8 +309,8 @@
   HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
-  HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
+  HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
