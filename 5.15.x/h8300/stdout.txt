@@ -10,9 +10,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
@@ -665,8 +665,8 @@
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
-  HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h
+  HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
@@ -830,8 +830,8 @@
   HDRINST usr/include/linux/time.h
   HDRINST usr/include/linux/virtio_ring.h
   HDRINST usr/include/linux/fuse.h
-  HDRINST usr/include/linux/v4l2-mediabus.h
   HDRINST usr/include/linux/atmdev.h
+  HDRINST usr/include/linux/v4l2-mediabus.h
   HDRINST usr/include/linux/xdp_diag.h
   HDRINST usr/include/linux/virtio_i2c.h
   HDRINST usr/include/linux/bpfilter.h

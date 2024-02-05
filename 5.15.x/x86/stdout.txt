@@ -552,8 +552,8 @@
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
-  HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/virtio_bt.h
+  HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/rkisp1-config.h

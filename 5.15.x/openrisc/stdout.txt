@@ -9,8 +9,8 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/poll.h
   WRAP    arch/openrisc/include/generated/uapi/asm/posix_types.h
   WRAP    arch/openrisc/include/generated/uapi/asm/resource.h

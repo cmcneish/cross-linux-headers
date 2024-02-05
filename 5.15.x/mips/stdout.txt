@@ -926,8 +926,8 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/mman.h
+  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/bitfield.h

@@ -319,8 +319,8 @@
   HDRINST usr/include/linux/netfilter/xt_socket.h
   HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
-  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
+  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
@@ -515,8 +515,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/tee.h
+  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
