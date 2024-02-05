@@ -3,8 +3,8 @@
   WRAP    arch/mips/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/mips/include/generated/uapi/asm/ipcbuf.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n32.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n64.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_o32.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_n32.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_n64.h
@@ -653,8 +653,8 @@
   HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/rpmsg_types.h
   HDRINST usr/include/linux/affs_hardblocks.h
-  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/input.h
+  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
@@ -945,8 +945,8 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/mman.h
+  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/bitfield.h
