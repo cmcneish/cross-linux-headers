@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -365,8 +365,8 @@
   HDRINST usr/include/linux/netfilter/xt_esp.h
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
-  HDRINST usr/include/linux/netfilter/nf_synproxy.h
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
+  HDRINST usr/include/linux/netfilter/nf_synproxy.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h

@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -621,8 +621,8 @@
   HDRINST usr/include/linux/ipx.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
-  HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/atmclip.h
+  HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
