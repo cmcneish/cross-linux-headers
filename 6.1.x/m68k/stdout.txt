@@ -14,10 +14,10 @@
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
-  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
+  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -270,8 +270,8 @@
   HDRINST usr/include/linux/major.h
   HDRINST usr/include/linux/virtio_types.h
   HDRINST usr/include/linux/vdpa.h
-  HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/route.h
+  HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
   HDRINST usr/include/linux/fou.h
@@ -641,8 +641,8 @@
   HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/nfs4.h
   HDRINST usr/include/linux/baycom.h
-  HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/stddef.h
+  HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/if_infiniband.h
   HDRINST usr/include/linux/ppdev.h
   HDRINST usr/include/linux/adfs_fs.h
