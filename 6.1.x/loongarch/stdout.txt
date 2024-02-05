@@ -13,8 +13,8 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/resource.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sembuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/setup.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/siginfo.h
   WRAP    arch/loongarch/include/generated/uapi/asm/socket.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sockios.h
@@ -298,8 +298,8 @@
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/ppp-comp.h
-  HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/sched/types.h
+  HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/virtio_snd.h
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
@@ -401,9 +401,9 @@
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/ipmi.h
+  HDRINST usr/include/linux/fiemap.h
   HDRINST usr/include/linux/nfs4_mount.h
   HDRINST usr/include/linux/random.h
-  HDRINST usr/include/linux/fiemap.h
   HDRINST usr/include/linux/sync_file.h
   HDRINST usr/include/linux/v4l2-dv-timings.h
   HDRINST usr/include/linux/nbd-netlink.h
@@ -732,8 +732,8 @@
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
-  HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/fsi.h
+  HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h

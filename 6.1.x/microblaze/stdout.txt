@@ -13,9 +13,9 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
@@ -25,8 +25,8 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/types.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -916,8 +916,8 @@
   HDRINST usr/include/sound/sof/abi.h
   HDRINST usr/include/sound/sof/fw.h
   HDRINST usr/include/sound/sof/header.h
-  HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/hdsp.h
+  HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/compress_offload.h
   HDRINST usr/include/sound/firewire.h
   HDRINST usr/include/sound/asequencer.h
