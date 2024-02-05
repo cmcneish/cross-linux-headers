@@ -297,8 +297,8 @@
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
-  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
+  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
@@ -704,8 +704,8 @@
   HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
-  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/frontend.h
+  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
