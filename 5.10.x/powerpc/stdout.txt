@@ -158,8 +158,8 @@
   HDRINST usr/include/linux/can/netlink.h
   HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
-  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/bcm.h
+  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/can/isotp.h
   HDRINST usr/include/linux/vbox_err.h
@@ -810,8 +810,8 @@
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
-  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/habanalabs.h
+  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
