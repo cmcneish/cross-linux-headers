@@ -13,12 +13,12 @@
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
-  WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -471,8 +471,8 @@
   HDRINST usr/include/linux/fanotify.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
