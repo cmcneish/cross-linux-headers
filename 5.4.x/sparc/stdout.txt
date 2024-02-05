@@ -144,8 +144,8 @@
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
-  HDRINST usr/include/linux/times.h
   HDRINST usr/include/linux/dqblk_xfs.h
+  HDRINST usr/include/linux/times.h
   HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
@@ -503,8 +503,8 @@
   HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
-  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
+  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/hysdn_if.h
@@ -694,8 +694,8 @@
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
-  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/pci_regs.h
+  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
