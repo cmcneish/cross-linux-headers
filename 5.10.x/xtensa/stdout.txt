@@ -901,8 +901,8 @@
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/auxvec.h
-  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/shmbuf.h
+  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h
   HDRINST usr/include/asm/statfs.h
