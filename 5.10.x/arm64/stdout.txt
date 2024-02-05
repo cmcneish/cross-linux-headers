@@ -7,9 +7,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
