@@ -118,8 +118,8 @@
   HDRINST usr/include/linux/futex.h
   HDRINST usr/include/linux/param.h
   HDRINST usr/include/linux/suspend_ioctls.h
-  HDRINST usr/include/linux/if_ppp.h
   HDRINST usr/include/linux/netfilter_arp/arp_tables.h
+  HDRINST usr/include/linux/if_ppp.h
   HDRINST usr/include/linux/netfilter_arp/arpt_mangle.h
   HDRINST usr/include/linux/in_route.h
   HDRINST usr/include/linux/net_tstamp.h

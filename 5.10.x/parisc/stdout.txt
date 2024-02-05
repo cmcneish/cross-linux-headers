@@ -270,8 +270,8 @@
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
-  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
+  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
@@ -653,8 +653,8 @@
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
-  HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vsockmon.h
+  HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/sonypi.h
