@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/ucontext.h
   WRAP    arch/nds32/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/nds32/include/generated/uapi/asm/bpf_perf_event.h
@@ -12,7 +13,6 @@
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
   WRAP    arch/nds32/include/generated/uapi/asm/shmbuf.h
