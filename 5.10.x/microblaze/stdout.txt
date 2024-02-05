@@ -16,14 +16,14 @@
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
@@ -529,8 +529,8 @@
   HDRINST usr/include/linux/nfsd/debug.h
   HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/hidraw.h
-  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/lirc.h
+  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
@@ -822,8 +822,8 @@
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
-  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
+  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
