@@ -3,8 +3,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/arm64/include/generated/uapi/asm/errno.h
   WRAP    arch/arm64/include/generated/uapi/asm/ioctl.h
-  WRAP    arch/arm64/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arm64/include/generated/uapi/asm/ipcbuf.h
+  WRAP    arch/arm64/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arm64/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/arm64/include/generated/uapi/asm/mman.h
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
