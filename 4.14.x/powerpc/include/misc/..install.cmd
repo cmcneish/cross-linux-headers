@@ -1,1 +1,0 @@
-cmd_/tmp/cross-linux-headers/4.14.x/powerpc/include/misc/.install := /bin/bash scripts/headers_install.sh /tmp/cross-linux-headers/4.14.x/powerpc/include/misc ./include/uapi/misc cxl.h; /bin/bash scripts/headers_install.sh /tmp/cross-linux-headers/4.14.x/powerpc/include/misc ./include/generated/uapi/misc ; touch /tmp/cross-linux-headers/4.14.x/powerpc/include/misc/.install
