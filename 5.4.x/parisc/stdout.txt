@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -226,8 +226,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -637,8 +637,8 @@
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
-  HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/i2c-dev.h
+  HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
