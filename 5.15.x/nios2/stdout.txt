@@ -191,8 +191,8 @@
   HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/ioam6.h
-  HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
+  HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
@@ -414,8 +414,8 @@
   HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
-  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
+  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/wireless.h
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
