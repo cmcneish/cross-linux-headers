@@ -1,9 +1,9 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/powerpc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/powerpc/include/generated/uapi/asm/param.h
-  WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/resource.h
   WRAP    arch/powerpc/include/generated/uapi/asm/siginfo.h
+  WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_32.h
@@ -638,9 +638,9 @@
   HDRINST usr/include/linux/stddef.h
   HDRINST usr/include/linux/if_infiniband.h
   HDRINST usr/include/linux/ppdev.h
+  HDRINST usr/include/linux/adfs_fs.h
   HDRINST usr/include/linux/pfkeyv2.h
   HDRINST usr/include/linux/packet_diag.h
-  HDRINST usr/include/linux/adfs_fs.h
   HDRINST usr/include/linux/hash_info.h
   HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h

@@ -12,11 +12,11 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
   WRAP    arch/riscv/include/generated/uapi/asm/swab.h
@@ -438,8 +438,8 @@
   HDRINST usr/include/linux/virtio_mem.h
   HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/utsname.h
-  HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/ipsec.h
+  HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
@@ -747,8 +747,8 @@
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
-  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/virtio_scmi.h
+  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
