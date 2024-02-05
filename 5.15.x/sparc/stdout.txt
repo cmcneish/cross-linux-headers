@@ -910,16 +910,16 @@
   HDRINST usr/include/asm/traps.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
-  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/ipcbuf.h
+  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/fbio.h
   HDRINST usr/include/asm/pstate.h
   HDRINST usr/include/asm/envctrl.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/resource.h
-  HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
+  HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/display7seg.h
   HDRINST usr/include/asm/psrcompat.h
   HDRINST usr/include/asm/ioctl.h

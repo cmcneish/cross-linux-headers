@@ -11,12 +11,12 @@
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -117,8 +117,8 @@
   HDRINST usr/include/linux/in_route.h
   HDRINST usr/include/linux/net_tstamp.h
   HDRINST usr/include/linux/sysctl.h
-  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/hpet.h
+  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
   HDRINST usr/include/linux/edd.h

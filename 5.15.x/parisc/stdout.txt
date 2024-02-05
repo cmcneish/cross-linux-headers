@@ -168,8 +168,8 @@
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
-  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/kernel.h
+  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/mctp.h
@@ -838,8 +838,8 @@
   HDRINST usr/include/misc/pvpanic.h
   HDRINST usr/include/misc/fastrpc.h
   HDRINST usr/include/misc/ocxl.h
-  HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/nftl-user.h
+  HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/mtd-abi.h
   HDRINST usr/include/mtd/mtd-user.h
   HDRINST usr/include/mtd/ubi-user.h
