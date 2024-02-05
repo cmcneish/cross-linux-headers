@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -380,8 +380,8 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
-  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
+  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
