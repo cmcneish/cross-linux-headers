@@ -1,15 +1,5 @@
-./scripts/gcc-version.sh: line 26: arc-linux-gcc: command not found
-./scripts/gcc-version.sh: line 27: arc-linux-gcc: command not found
-./scripts/gcc-version.sh: line 26: arc-linux-gcc: command not found
-./scripts/gcc-version.sh: line 27: arc-linux-gcc: command not found
-make: arc-linux-gcc: No such file or directory
-./scripts/gcc-version.sh: line 26: arc-linux-gcc: command not found
-./scripts/gcc-version.sh: line 27: arc-linux-gcc: command not found
-make: arc-linux-gcc: No such file or directory
-make: arc-linux-gcc: No such file or directory
-make: arc-linux-gcc: No such file or directory
-make: arc-linux-gcc: No such file or directory
-make: arc-linux-gcc: No such file or directory
+gcc: error: unrecognized command-line option ‘-mmedium-calls’
+gcc: error: unrecognized command-line option ‘-mno-sdata’; did you mean ‘-fno-stats’?
 In file included from /usr/include/string.h:535,
                  from scripts/unifdef.c:56:
 In function ‘strncpy’,
@@ -19,4 +9,3 @@ In function ‘strncpy’,
       |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    96 |                                   __glibc_objsize (__dest));
       |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~
-make: arc-linux-gcc: No such file or directory
