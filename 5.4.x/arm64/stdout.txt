@@ -8,8 +8,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
@@ -186,8 +186,8 @@
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
   HDRINST usr/include/linux/tc_act/tc_connmark.h
-  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
+  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
   HDRINST usr/include/linux/tc_act/tc_nat.h
@@ -486,8 +486,8 @@
   HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
-  HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/membarrier.h
+  HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
   HDRINST usr/include/linux/blkpg.h
@@ -732,8 +732,8 @@
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/dn.h
+  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
