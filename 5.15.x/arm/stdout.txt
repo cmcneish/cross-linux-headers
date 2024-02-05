@@ -15,8 +15,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -794,9 +794,9 @@
   HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
-  HDRINST usr/include/linux/mtio.h
   HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
+  HDRINST usr/include/linux/mtio.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
@@ -947,7 +947,7 @@
   HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
-  HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/shmbuf.h
+  HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/bitsperlong.h
   INSTALL /tmp/cross-linux-headers/5.15.x/arm/include
