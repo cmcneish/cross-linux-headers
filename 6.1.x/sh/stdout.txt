@@ -14,15 +14,15 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -233,8 +233,8 @@
   HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
-  HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/reiserfs_fs.h
+  HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
