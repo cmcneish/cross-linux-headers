@@ -743,8 +743,8 @@
   HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
-  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/rio_cm_cdev.h
+  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
@@ -928,8 +928,8 @@
   HDRINST usr/include/asm/regdef.h
   HDRINST usr/include/asm/compiler.h
   HDRINST usr/include/asm/mman.h
-  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/fpu.h
+  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/console.h
   HDRINST usr/include/asm/termbits.h
