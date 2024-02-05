@@ -6,11 +6,11 @@
   WRAP    arch/nios2/include/generated/uapi/asm/errno.h
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
   WRAP    arch/nios2/include/generated/uapi/asm/poll.h
   WRAP    arch/nios2/include/generated/uapi/asm/posix_types.h

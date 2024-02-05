@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
+  WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -752,8 +752,8 @@
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
-  HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/rtc.h
+  HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
