@@ -395,8 +395,8 @@
   HDRINST usr/include/linux/kcov.h
   HDRINST usr/include/linux/in.h
   HDRINST usr/include/linux/ipmi_msgdefs.h
-  HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/v4l2-subdev.h
+  HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
   HDRINST usr/include/linux/virtio_gpu.h
