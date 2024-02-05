@@ -13,12 +13,12 @@
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -378,8 +378,8 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
-  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
+  HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
