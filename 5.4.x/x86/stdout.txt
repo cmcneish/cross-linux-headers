@@ -10,10 +10,10 @@
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -644,8 +644,8 @@
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
-  HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/psp-sev.h
+  HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
