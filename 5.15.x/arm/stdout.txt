@@ -15,8 +15,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -741,8 +741,8 @@
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
-  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/ioprio.h
+  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
@@ -881,8 +881,8 @@
   HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
-  HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_els.h
+  HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
