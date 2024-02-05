@@ -623,8 +623,8 @@
   HDRINST usr/include/linux/fcntl.h
   HDRINST usr/include/linux/filter.h
   HDRINST usr/include/linux/virtio_console.h
-  HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/nfs4.h
+  HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/baycom.h
   HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/stddef.h
@@ -775,8 +775,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/kdev_t.h
+  HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
