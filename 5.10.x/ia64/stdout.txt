@@ -405,8 +405,8 @@
   HDRINST usr/include/linux/atmsap.h
   HDRINST usr/include/linux/f2fs.h
   HDRINST usr/include/linux/gsmmux.h
-  HDRINST usr/include/linux/ultrasound.h
   HDRINST usr/include/linux/seg6_iptunnel.h
+  HDRINST usr/include/linux/ultrasound.h
   HDRINST usr/include/linux/mman.h
   HDRINST usr/include/linux/v4l2-controls.h
   HDRINST usr/include/linux/snmp.h
@@ -886,8 +886,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/param.h
+  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/ia64regs.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ptrace_offsets.h
