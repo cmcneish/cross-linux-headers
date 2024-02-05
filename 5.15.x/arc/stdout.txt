@@ -629,8 +629,8 @@
   HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/atm_nicstar.h
   HDRINST usr/include/linux/eventpoll.h
-  HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/msdos_fs.h
+  HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
   HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/fcntl.h

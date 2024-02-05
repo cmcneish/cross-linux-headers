@@ -478,8 +478,8 @@
   HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
-  HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
+  HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/ndctl.h

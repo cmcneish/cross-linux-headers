@@ -10,23 +10,23 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -507,8 +507,8 @@
   HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
-  HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/media.h
+  HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
@@ -685,8 +685,8 @@
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vfio_zdev.h
-  HDRINST usr/include/linux/sonypi.h
   HDRINST usr/include/linux/virtio_blk.h
+  HDRINST usr/include/linux/sonypi.h
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h

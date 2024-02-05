@@ -461,8 +461,8 @@
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
-  HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/bpqether.h
+  HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
-  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/ioprio.h
+  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
