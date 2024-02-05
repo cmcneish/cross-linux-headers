@@ -890,8 +890,8 @@
   HDRINST usr/include/asm/ia64regs.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ptrace_offsets.h
-  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/intel_intrin.h
+  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/ustack.h
   HDRINST usr/include/asm/intrinsics.h

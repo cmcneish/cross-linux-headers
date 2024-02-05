@@ -10,12 +10,12 @@
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   HOSTCC  scripts/unifdef
@@ -227,8 +227,8 @@
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
-  HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/reiserfs_fs.h
+  HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
@@ -494,8 +494,8 @@
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/perf_event.h
-  HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
+  HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/mmtimer.h
@@ -753,8 +753,8 @@
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
-  HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/auto_fs4.h
+  HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h

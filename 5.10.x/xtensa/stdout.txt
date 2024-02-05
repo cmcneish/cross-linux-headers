@@ -514,8 +514,8 @@
   HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
-  HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/uleds.h
+  HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/vm_sockets.h
@@ -530,8 +530,8 @@
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
@@ -713,8 +713,8 @@
   HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
-  HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/synclink.h
+  HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h

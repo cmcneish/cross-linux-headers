@@ -505,8 +505,8 @@
   HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/tee.h
+  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
@@ -748,8 +748,8 @@
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
-  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
+  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/atm_zatm.h
