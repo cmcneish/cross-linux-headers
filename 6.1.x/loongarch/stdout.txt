@@ -13,12 +13,12 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/resource.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sembuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/setup.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/socket.h
-  WRAP    arch/loongarch/include/generated/uapi/asm/stat.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sockios.h
+  WRAP    arch/loongarch/include/generated/uapi/asm/stat.h
   WRAP    arch/loongarch/include/generated/uapi/asm/statfs.h
   WRAP    arch/loongarch/include/generated/uapi/asm/swab.h
   WRAP    arch/loongarch/include/generated/uapi/asm/termbits.h
@@ -722,8 +722,8 @@
   HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/close_range.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
@@ -959,8 +959,8 @@
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/errno.h
-  HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/sockios.h
+  HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
