@@ -594,16 +594,16 @@
   HDRINST usr/include/linux/msg.h
   HDRINST usr/include/linux/if_packet.h
   HDRINST usr/include/linux/surface_aggregator/cdev.h
-  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/surface_aggregator/dtx.h
+  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/usb/tmc.h
   HDRINST usr/include/linux/usb/g_uvc.h
   HDRINST usr/include/linux/usb/audio.h
   HDRINST usr/include/linux/usb/ch9.h
   HDRINST usr/include/linux/usb/ch11.h
   HDRINST usr/include/linux/usb/charger.h
-  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/raw_gadget.h
+  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/g_printer.h
   HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h

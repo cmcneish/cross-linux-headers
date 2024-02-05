@@ -644,8 +644,8 @@
   HDRINST usr/include/linux/stddef.h
   HDRINST usr/include/linux/if_infiniband.h
   HDRINST usr/include/linux/ppdev.h
-  HDRINST usr/include/linux/adfs_fs.h
   HDRINST usr/include/linux/pfkeyv2.h
+  HDRINST usr/include/linux/adfs_fs.h
   HDRINST usr/include/linux/packet_diag.h
   HDRINST usr/include/linux/hash_info.h
   HDRINST usr/include/linux/can.h
@@ -714,8 +714,8 @@
   HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/close_range.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
@@ -865,8 +865,8 @@
   HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
-  HDRINST usr/include/rdma/siw-abi.h
   HDRINST usr/include/rdma/irdma-abi.h
+  HDRINST usr/include/rdma/siw-abi.h
   HDRINST usr/include/rdma/rdma_netlink.h
   HDRINST usr/include/rdma/rdma_user_ioctl.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_cmds.h

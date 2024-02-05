@@ -14,14 +14,14 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
+  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -221,8 +221,8 @@
   HDRINST usr/include/linux/elf-fdpic.h
   HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/net_dropmon.h
-  HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/time_types.h
+  HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/tty.h
   HDRINST usr/include/linux/if_ether.h
   HDRINST usr/include/linux/nvram.h
@@ -923,8 +923,8 @@
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/swab.h
-  HDRINST usr/include/asm/hw_breakpoint.h
   HDRINST usr/include/asm/posix_types.h
+  HDRINST usr/include/asm/hw_breakpoint.h
   HDRINST usr/include/asm/cpu-features.h
   HDRINST usr/include/asm/posix_types_32.h
   HDRINST usr/include/asm/byteorder.h
