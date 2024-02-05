@@ -263,8 +263,8 @@
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
-  HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
+  HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
@@ -744,8 +744,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
