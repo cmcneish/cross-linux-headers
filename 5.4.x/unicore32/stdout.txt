@@ -8,8 +8,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -356,9 +356,9 @@
   HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
   HDRINST usr/include/linux/netfilter/xt_dscp.h
+  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
-  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
   HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_addrtype.h

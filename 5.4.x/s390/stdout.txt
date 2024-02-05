@@ -12,9 +12,9 @@
   WRAP    arch/s390/include/generated/uapi/asm/siginfo.h
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
@@ -366,8 +366,8 @@
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
   HDRINST usr/include/linux/netfilter/nf_synproxy.h
-  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
+  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
@@ -639,8 +639,8 @@
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
-  HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/psp-sev.h
+  HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
@@ -710,8 +710,8 @@
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
-  HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/tipc_config.h
+  HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/rio_cm_cdev.h
