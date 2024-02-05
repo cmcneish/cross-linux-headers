@@ -19,9 +19,9 @@
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -409,8 +409,8 @@
   HDRINST usr/include/linux/ipmi_msgdefs.h
   HDRINST usr/include/linux/v4l2-subdev.h
   HDRINST usr/include/linux/if_bonding.h
-  HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
+  HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
@@ -436,8 +436,8 @@
   HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
-  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/rseq.h
+  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mrp_bridge.h
@@ -778,8 +778,8 @@
   HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
-  HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
+  HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/spi/spi.h
   HDRINST usr/include/linux/erspan.h

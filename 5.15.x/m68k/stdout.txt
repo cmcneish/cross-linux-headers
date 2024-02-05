@@ -16,10 +16,10 @@
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
