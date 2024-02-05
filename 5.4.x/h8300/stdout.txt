@@ -7,8 +7,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctl.h
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
@@ -175,8 +175,8 @@
   HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/matroxfb.h
-  HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/gen_stats.h
+  HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
