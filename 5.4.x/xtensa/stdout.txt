@@ -396,8 +396,8 @@
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
   HDRINST usr/include/linux/bpf_perf_event.h
-  HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
+  HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/atmsap.h
   HDRINST usr/include/linux/gsmmux.h
   HDRINST usr/include/linux/seg6_iptunnel.h

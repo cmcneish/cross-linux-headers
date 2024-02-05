@@ -10,16 +10,16 @@
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -270,8 +270,8 @@
   HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/elf-em.h
-  HDRINST usr/include/linux/mic_ioctl.h
   HDRINST usr/include/linux/cec-funcs.h
+  HDRINST usr/include/linux/mic_ioctl.h
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
