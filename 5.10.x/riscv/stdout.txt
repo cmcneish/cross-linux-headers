@@ -10,6 +10,7 @@
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
@@ -17,7 +18,6 @@
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
   WRAP    arch/riscv/include/generated/uapi/asm/swab.h
@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
-  HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
+  HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/atmapi.h
   HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h
