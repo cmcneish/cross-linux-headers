@@ -13,8 +13,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/unicore32/include/generated/uapi/asm/resource.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/unicore32/include/generated/uapi/asm/sembuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/setup.h
   WRAP    arch/unicore32/include/generated/uapi/asm/shmbuf.h
@@ -31,8 +31,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/types.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
@@ -58,6 +58,7 @@
   INSTALL include/linux/netfilter (87 files)
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
@@ -68,6 +69,5 @@
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (33 files)
