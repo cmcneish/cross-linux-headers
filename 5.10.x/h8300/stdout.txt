@@ -482,8 +482,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
@@ -586,8 +586,8 @@
   HDRINST usr/include/linux/udf_fs_i.h
   HDRINST usr/include/linux/atmioc.h
   HDRINST usr/include/linux/if_x25.h
-  HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/nfs_mount.h
+  HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/openat2.h
   HDRINST usr/include/linux/rio_mport_cdev.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
