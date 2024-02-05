@@ -289,8 +289,8 @@
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/fsl_mc.h
-  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
+  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
@@ -506,8 +506,8 @@
   HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
-  HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
+  HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
@@ -924,8 +924,8 @@
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/byteorder.h
-  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
+  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/fp_udfiex_crtl.h
   HDRINST usr/include/asm/signal.h

@@ -13,9 +13,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
   WRAP    arch/h8300/include/generated/uapi/asm/socket.h
@@ -657,8 +657,8 @@
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/fsl_hypervisor.h
-  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
+  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
@@ -918,8 +918,8 @@
   HDRINST usr/include/xen/privcmd.h
   HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntdev.h
-  HDRINST usr/include/linux/version.h
   HDRINST usr/include/xen/gntalloc.h
+  HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/posix_types.h

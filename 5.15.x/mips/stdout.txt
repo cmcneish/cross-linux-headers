@@ -661,8 +661,8 @@
   HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
-  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
+  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/acrn.h
   HDRINST usr/include/linux/i2o-dev.h
@@ -707,8 +707,8 @@
   HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/close_range.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
@@ -802,8 +802,8 @@
   HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
-  HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/ethtool_netlink.h
+  HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/misc/bcm_vk.h
   HDRINST usr/include/linux/dlm_device.h
   HDRINST usr/include/linux/mdio.h
@@ -837,8 +837,8 @@
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/misc/habanalabs.h
-  HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/uacce/uacce.h
+  HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
   HDRINST usr/include/misc/pvpanic.h
@@ -868,8 +868,8 @@
   HDRINST usr/include/rdma/mthca-abi.h
   HDRINST usr/include/rdma/rdma_user_cm.h
   HDRINST usr/include/rdma/mlx5-abi.h
-  HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/hfi/hfi1_ioctl.h
+  HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
   HDRINST usr/include/rdma/ib_user_mad.h
