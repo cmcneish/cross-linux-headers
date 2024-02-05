@@ -11,8 +11,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
-  WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
@@ -171,9 +171,9 @@
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
+  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
@@ -692,8 +692,8 @@
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
   HDRINST usr/include/linux/pcitest.h
-  HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/bsg.h
+  HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
@@ -745,8 +745,8 @@
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
-  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
+  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
@@ -851,8 +851,8 @@
   HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
-  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/ib_user_mad.h
+  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h

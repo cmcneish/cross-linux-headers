@@ -670,8 +670,8 @@
   HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/sonypi.h
-  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
+  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/if_caif.h
   HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/netfilter_ipv4.h

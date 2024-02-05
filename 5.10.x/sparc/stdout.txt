@@ -162,9 +162,9 @@
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
+  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
