@@ -3,13 +3,13 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/xtensa/include/generated/uapi/asm/errno.h
   WRAP    arch/xtensa/include/generated/uapi/asm/fcntl.h
+  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/ioctl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
-  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h

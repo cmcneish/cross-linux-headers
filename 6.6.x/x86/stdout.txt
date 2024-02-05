@@ -5,17 +5,17 @@
   WRAP    arch/x86/include/generated/uapi/asm/ioctl.h
   WRAP    arch/x86/include/generated/uapi/asm/ioctls.h
   WRAP    arch/x86/include/generated/uapi/asm/ipcbuf.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/x86/include/generated/uapi/asm/param.h
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   HOSTCC  scripts/unifdef
@@ -938,8 +938,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/vmx.h
   HDRINST usr/include/asm/ist.h
+  HDRINST usr/include/asm/vmx.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/posix_types_x32.h
   HDRINST usr/include/asm/bootparam.h

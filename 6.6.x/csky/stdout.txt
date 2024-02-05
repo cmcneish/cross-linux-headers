@@ -5,8 +5,8 @@
   WRAP    arch/csky/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/csky/include/generated/uapi/asm/errno.h
   WRAP    arch/csky/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
@@ -251,8 +251,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -262,9 +262,9 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
-  HDRINST usr/include/linux/netfilter_bridge/ebtables.h
   HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/sound.h
+  HDRINST usr/include/linux/netfilter_bridge/ebtables.h
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
@@ -812,8 +812,8 @@
   HDRINST usr/include/linux/hsr_netlink.h
   HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
-  HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
+  HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/mtio.h
   HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
