@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -25,8 +25,8 @@
   HOSTLD  arch/x86/tools/relocs
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
-  HDRINST usr/include/asm-generic/statfs.h
   HDRINST usr/include/asm-generic/param.h
+  HDRINST usr/include/asm-generic/statfs.h
   HDRINST usr/include/asm-generic/poll.h
   HDRINST usr/include/asm-generic/unistd.h
   HDRINST usr/include/asm-generic/sembuf.h
@@ -896,8 +896,8 @@
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
-  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/vmx.h
+  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/ist.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/posix_types_x32.h
