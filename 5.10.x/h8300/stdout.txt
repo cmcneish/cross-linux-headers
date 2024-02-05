@@ -10,9 +10,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
@@ -218,8 +218,8 @@
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
   HDRINST usr/include/linux/elf-fdpic.h
-  HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/net_dropmon.h
+  HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/tty.h
@@ -345,8 +345,8 @@
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
-  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
+  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
   HDRINST usr/include/linux/netfilter/xt_sctp.h
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
@@ -876,8 +876,8 @@
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
-  HDRINST usr/include/sound/emu10k1.h
   HDRINST usr/include/sound/snd_sst_tokens.h
+  HDRINST usr/include/sound/emu10k1.h
   HDRINST usr/include/sound/asoc.h
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
