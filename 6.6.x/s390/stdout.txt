@@ -5,8 +5,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/mman.h
   WRAP    arch/s390/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/s390/include/generated/uapi/asm/param.h
-  WRAP    arch/s390/include/generated/uapi/asm/poll.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/s390/include/generated/uapi/asm/poll.h
   WRAP    arch/s390/include/generated/uapi/asm/resource.h
   WRAP    arch/s390/include/generated/uapi/asm/sembuf.h
   WRAP    arch/s390/include/generated/uapi/asm/shmbuf.h
@@ -336,8 +336,8 @@
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
-  HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
+  HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
@@ -941,8 +941,8 @@
   HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/chpid.h
+  HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/raw3270.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/chsc.h

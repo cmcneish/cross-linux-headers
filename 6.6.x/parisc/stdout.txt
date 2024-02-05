@@ -5,12 +5,12 @@
   WRAP    arch/parisc/include/generated/uapi/asm/resource.h
   WRAP    arch/parisc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/parisc/include/generated/uapi/asm/termios.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
-  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   HOSTCC  scripts/unifdef
@@ -489,8 +489,8 @@
   HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/sev-guest.h
-  HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ndctl.h
+  HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/dw100.h
   HDRINST usr/include/linux/reiserfs_xattr.h
