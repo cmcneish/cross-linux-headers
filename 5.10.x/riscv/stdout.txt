@@ -488,8 +488,8 @@
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
-  HDRINST usr/include/linux/raw.h
   HDRINST usr/include/linux/atalk.h
+  HDRINST usr/include/linux/raw.h
   HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/ndctl.h
   HDRINST usr/include/linux/virtio_9p.h
@@ -741,8 +741,8 @@
   HDRINST usr/include/linux/atmapi.h
   HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h
-  HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
+  HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h

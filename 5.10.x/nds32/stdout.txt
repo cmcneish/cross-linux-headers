@@ -387,8 +387,8 @@
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
-  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
+  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h

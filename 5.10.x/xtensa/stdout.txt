@@ -233,8 +233,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
@@ -440,8 +440,8 @@
   HDRINST usr/include/linux/openvswitch.h
   HDRINST usr/include/linux/tc_ematch/tc_em_text.h
   HDRINST usr/include/linux/tc_ematch/tc_em_ipt.h
-  HDRINST usr/include/linux/tc_ematch/tc_em_cmp.h
   HDRINST usr/include/linux/tc_ematch/tc_em_nbyte.h
+  HDRINST usr/include/linux/tc_ematch/tc_em_cmp.h
   HDRINST usr/include/linux/tc_ematch/tc_em_meta.h
   HDRINST usr/include/linux/const.h
   HDRINST usr/include/linux/pg.h
@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
-  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
+  HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
