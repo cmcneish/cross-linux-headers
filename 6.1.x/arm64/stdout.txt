@@ -13,9 +13,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -241,8 +241,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
