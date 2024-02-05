@@ -9,10 +9,10 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
@@ -180,8 +180,8 @@
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
-  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/kernel.h
+  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
@@ -345,8 +345,8 @@
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
-  HDRINST usr/include/linux/netfilter/nf_tables_compat.h
   HDRINST usr/include/linux/netfilter/xt_state.h
+  HDRINST usr/include/linux/netfilter/nf_tables_compat.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
   HDRINST usr/include/linux/netfilter/xt_sctp.h
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
@@ -876,8 +876,8 @@
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
-  HDRINST usr/include/sound/snd_sst_tokens.h
   HDRINST usr/include/sound/emu10k1.h
+  HDRINST usr/include/sound/snd_sst_tokens.h
   HDRINST usr/include/sound/asoc.h
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
@@ -923,8 +923,8 @@
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/msgbuf.h
-  HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/auxvec.h
+  HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/setup.h
