@@ -402,8 +402,8 @@
   HDRINST usr/include/linux/random.h
   HDRINST usr/include/linux/sync_file.h
   HDRINST usr/include/linux/v4l2-dv-timings.h
-  HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/nbd-netlink.h
+  HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/kcov.h
   HDRINST usr/include/linux/in.h
   HDRINST usr/include/linux/ipmi_msgdefs.h
@@ -523,8 +523,8 @@
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
   HDRINST usr/include/linux/if_pppox.h
-  HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/xattr.h
+  HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
   HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h
