@@ -8,10 +8,10 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctl.h
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
@@ -29,8 +29,8 @@
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
-  HDRINST usr/include/asm-generic/param.h
   HDRINST usr/include/asm-generic/statfs.h
+  HDRINST usr/include/asm-generic/param.h
   HDRINST usr/include/asm-generic/poll.h
   HDRINST usr/include/asm-generic/unistd.h
   HDRINST usr/include/asm-generic/sembuf.h
@@ -149,9 +149,9 @@
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
+  HDRINST usr/include/linux/byteorder/big_endian.h
   HDRINST usr/include/linux/ethtool.h
   HDRINST usr/include/linux/atmsvc.h
-  HDRINST usr/include/linux/byteorder/big_endian.h
   HDRINST usr/include/linux/cm4000_cs.h
   HDRINST usr/include/linux/unistd.h
   HDRINST usr/include/linux/pktcdvd.h

@@ -502,8 +502,8 @@
   HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/memfd.h
+  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
@@ -694,8 +694,8 @@
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h
-  HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/nilfs2_api.h
+  HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/dvb/osd.h

@@ -1,7 +1,7 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/mips/include/generated/uapi/asm/kvm_para.h
-  WRAP    arch/mips/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/mips/include/generated/uapi/asm/bpf_perf_event.h
+  WRAP    arch/mips/include/generated/uapi/asm/ipcbuf.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_32_o32.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_64_n32.h
   UPD     include/generated/uapi/linux/version.h
