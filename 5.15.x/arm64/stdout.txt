@@ -10,8 +10,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
@@ -317,8 +317,8 @@
   HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
-  HDRINST usr/include/linux/netfilter/xt_mac.h
   HDRINST usr/include/linux/netfilter/xt_connmark.h
+  HDRINST usr/include/linux/netfilter/xt_mac.h
   HDRINST usr/include/linux/netfilter/xt_time.h
   HDRINST usr/include/linux/netfilter/xt_devgroup.h
   HDRINST usr/include/linux/netfilter/xt_socket.h
