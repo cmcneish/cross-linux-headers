@@ -10,12 +10,12 @@
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   HOSTCC  scripts/unifdef
@@ -464,8 +464,8 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
@@ -900,8 +900,8 @@
   HDRINST usr/include/asm/msr.h
   HDRINST usr/include/asm/vsyscall.h
   HDRINST usr/include/asm/kvm_perf.h
-  HDRINST usr/include/asm/vm86.h
   HDRINST usr/include/asm/posix_types_32.h
+  HDRINST usr/include/asm/vm86.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/hwcap2.h
   HDRINST usr/include/asm/kvm.h

@@ -528,8 +528,8 @@
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
-  HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/seccomp.h
+  HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/efs_fs_sb.h
   HDRINST usr/include/linux/i2c.h
   HDRINST usr/include/linux/ioctl.h
