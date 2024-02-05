@@ -334,8 +334,8 @@
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
@@ -487,8 +487,8 @@
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
-  HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/if_tun.h
+  HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/sev-guest.h
   HDRINST usr/include/linux/ndctl.h
   HDRINST usr/include/linux/virtio_9p.h
