@@ -149,8 +149,8 @@
   HDRINST usr/include/linux/pktcdvd.h
   HDRINST usr/include/linux/pps.h
   HDRINST usr/include/linux/agpgart.h
-  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/sysinfo.h
+  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/capi.h
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h

@@ -9,8 +9,8 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h

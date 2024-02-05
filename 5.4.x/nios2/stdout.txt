@@ -8,10 +8,10 @@
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/poll.h
   WRAP    arch/nios2/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nios2/include/generated/uapi/asm/resource.h
@@ -630,8 +630,8 @@
   HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
-  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
+  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/ipx.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
@@ -805,8 +805,8 @@
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
-  HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/misc/habanalabs.h
+  HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
   HDRINST usr/include/misc/fastrpc.h
