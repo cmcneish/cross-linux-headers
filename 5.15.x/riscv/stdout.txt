@@ -17,11 +17,11 @@
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
-  WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
   WRAP    arch/riscv/include/generated/uapi/asm/swab.h
   WRAP    arch/riscv/include/generated/uapi/asm/termbits.h
+  WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
   WRAP    arch/riscv/include/generated/uapi/asm/termios.h
   WRAP    arch/riscv/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -163,9 +163,9 @@
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
+  HDRINST usr/include/linux/dqblk_xfs.h
   HDRINST usr/include/linux/times.h
   HDRINST usr/include/linux/bfs_fs.h
-  HDRINST usr/include/linux/dqblk_xfs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
   HDRINST usr/include/linux/can/vxcan.h
