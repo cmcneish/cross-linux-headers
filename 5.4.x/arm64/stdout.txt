@@ -116,8 +116,8 @@
   HDRINST usr/include/linux/in_route.h
   HDRINST usr/include/linux/net_tstamp.h
   HDRINST usr/include/linux/sysctl.h
-  HDRINST usr/include/linux/hpet.h
   HDRINST usr/include/linux/if_alg.h
+  HDRINST usr/include/linux/hpet.h
   HDRINST usr/include/linux/elfcore.h
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
@@ -531,8 +531,8 @@
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
