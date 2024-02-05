@@ -15,8 +15,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -28,11 +28,11 @@
   INSTALL include/rdma (25 files)
   INSTALL include/rdma/hfi (2 files)
   INSTALL include/scsi (4 files)
-  INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (16 files)
+  INSTALL include/scsi/fc (4 files)
   INSTALL include/video (3 files)
-  INSTALL include/linux/android (1 file)
   INSTALL include/xen (4 files)
+  INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)

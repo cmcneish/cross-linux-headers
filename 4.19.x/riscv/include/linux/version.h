@@ -1,2 +1,2 @@
-#define LINUX_VERSION_CODE 267048
+#define LINUX_VERSION_CODE 267049
 #define KERNEL_VERSION(a,b,c) (((a) << 16) + ((b) << 8) + (c))
