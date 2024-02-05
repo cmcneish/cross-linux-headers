@@ -9,9 +9,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
   WRAP    arch/unicore32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/unicore32/include/generated/uapi/asm/resource.h
@@ -883,9 +883,9 @@
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/sigcontext.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h

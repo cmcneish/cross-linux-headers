@@ -11,13 +11,13 @@
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
@@ -593,8 +593,8 @@
   HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
-  HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/dm-log-userspace.h
+  HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/sunrpc/debug.h
   HDRINST usr/include/linux/sock_diag.h
   HDRINST usr/include/linux/magic.h
