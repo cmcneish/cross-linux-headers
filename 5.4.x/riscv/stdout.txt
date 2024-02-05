@@ -351,8 +351,8 @@
   HDRINST usr/include/linux/netfilter/xt_rateest.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cthelper.h
   HDRINST usr/include/linux/netfilter/xt_MARK.h
-  HDRINST usr/include/linux/netfilter/xt_dscp.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
+  HDRINST usr/include/linux/netfilter/xt_dscp.h
   HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h

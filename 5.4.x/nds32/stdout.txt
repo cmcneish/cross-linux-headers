@@ -886,9 +886,9 @@
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/sigcontext.h
-  HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/fp_udfiex_crtl.h
+  HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
