@@ -4,6 +4,7 @@
   WRAP    arch/nios2/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/nios2/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/nios2/include/generated/uapi/asm/errno.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
@@ -17,7 +18,6 @@
   WRAP    arch/nios2/include/generated/uapi/asm/sembuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/setup.h
   WRAP    arch/nios2/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/siginfo.h
   WRAP    arch/nios2/include/generated/uapi/asm/socket.h
   WRAP    arch/nios2/include/generated/uapi/asm/sockios.h
@@ -289,8 +289,8 @@
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
-  HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
+  HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h

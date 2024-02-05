@@ -16,8 +16,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -790,8 +790,8 @@
   HDRINST usr/include/linux/taskstats.h
   HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h
-  HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/n_r3964.h
+  HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h
   HDRINST usr/include/linux/if_cablemodem.h
