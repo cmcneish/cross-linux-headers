@@ -3,8 +3,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/c6x/include/generated/uapi/asm/auxvec.h
   WRAP    arch/c6x/include/generated/uapi/asm/bitsperlong.h
-  WRAP    arch/c6x/include/generated/uapi/asm/fcntl.h
   WRAP    arch/c6x/include/generated/uapi/asm/errno.h
+  WRAP    arch/c6x/include/generated/uapi/asm/fcntl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctls.h
   WRAP    arch/c6x/include/generated/uapi/asm/ipcbuf.h
@@ -64,8 +64,8 @@
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/asm (33 files)
