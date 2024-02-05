@@ -835,8 +835,8 @@
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
-  HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/usb_stream.h
+  HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h

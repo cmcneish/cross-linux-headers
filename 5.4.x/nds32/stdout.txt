@@ -10,9 +10,9 @@
   WRAP    arch/nds32/include/generated/uapi/asm/mman.h
   WRAP    arch/nds32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
   WRAP    arch/nds32/include/generated/uapi/asm/shmbuf.h
@@ -736,9 +736,9 @@
   HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
-  HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
+  HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
@@ -748,8 +748,8 @@
   HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
-  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/fs.h
+  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
