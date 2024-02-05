@@ -421,8 +421,8 @@
   HDRINST usr/include/linux/v4l2-controls.h
   HDRINST usr/include/linux/snmp.h
   HDRINST usr/include/linux/atmbr2684.h
-  HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/batadv_packet.h
+  HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/virtio_mem.h
@@ -719,8 +719,8 @@
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
-  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nvme_ioctl.h
+  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h

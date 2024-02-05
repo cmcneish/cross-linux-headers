@@ -6,16 +6,16 @@
   WRAP    arch/x86/include/generated/uapi/asm/ioctls.h
   WRAP    arch/x86/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/x86/include/generated/uapi/asm/param.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  WRAP    arch/x86/include/generated/uapi/asm/types.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   HOSTCC  scripts/unifdef
