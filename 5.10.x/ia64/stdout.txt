@@ -9,8 +9,8 @@
   WRAP    arch/ia64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
+  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -812,8 +812,8 @@
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
-  HDRINST usr/include/misc/cxl.h
   HDRINST usr/include/misc/pvpanic.h
+  HDRINST usr/include/misc/cxl.h
   HDRINST usr/include/misc/fastrpc.h
   HDRINST usr/include/misc/ocxl.h
   HDRINST usr/include/mtd/nftl-user.h
