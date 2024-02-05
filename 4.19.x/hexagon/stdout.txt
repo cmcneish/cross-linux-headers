@@ -25,8 +25,8 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (26 files)
   INSTALL include/asm-generic (37 files)
+  INSTALL include/drm (26 files)
   INSTALL include/misc (2 files)
   INSTALL include/linux (497 files)
   INSTALL include/mtd (5 files)
@@ -50,10 +50,10 @@
   INSTALL include/linux/isdn (1 file)
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (88 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
