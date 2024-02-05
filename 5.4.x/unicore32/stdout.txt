@@ -7,8 +7,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
@@ -257,8 +257,8 @@
   HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
-  HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/ncsi.h
+  HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
   HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/dlm.h

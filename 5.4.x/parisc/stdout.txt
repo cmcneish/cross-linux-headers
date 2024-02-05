@@ -129,8 +129,8 @@
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
-  HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
+  HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
@@ -218,8 +218,8 @@
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
-  HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/smc.h
+  HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
@@ -352,8 +352,8 @@
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
-  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_multiport.h
+  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_recent.h
   HDRINST usr/include/linux/netfilter/xt_dccp.h
   HDRINST usr/include/linux/netfilter/xt_osf.h

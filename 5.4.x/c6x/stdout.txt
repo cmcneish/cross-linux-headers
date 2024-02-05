@@ -8,8 +8,8 @@
   WRAP    arch/c6x/include/generated/uapi/asm/ioctl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctls.h
   WRAP    arch/c6x/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/c6x/include/generated/uapi/asm/param.h
   WRAP    arch/c6x/include/generated/uapi/asm/poll.h
@@ -532,8 +532,8 @@
   HDRINST usr/include/linux/vm_sockets_diag.h
   HDRINST usr/include/linux/nubus.h
   HDRINST usr/include/linux/if_arcnet.h
-  HDRINST usr/include/linux/fscrypt.h
   HDRINST usr/include/linux/kernelcapi.h
+  HDRINST usr/include/linux/fscrypt.h
   HDRINST usr/include/linux/nfs_idmap.h
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h

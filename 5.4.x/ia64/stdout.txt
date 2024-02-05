@@ -277,8 +277,8 @@
   HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
-  HDRINST usr/include/linux/netfilter/xt_nfacct.h
   HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
+  HDRINST usr/include/linux/netfilter/xt_nfacct.h
   HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
@@ -416,8 +416,8 @@
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mmc/ioctl.h
-  HDRINST usr/include/linux/iio/events.h
   HDRINST usr/include/linux/iio/types.h
+  HDRINST usr/include/linux/iio/events.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/apm_bios.h
@@ -761,8 +761,8 @@
   HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/dlm_device.h
   HDRINST usr/include/linux/mdio.h
-  HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/soundcard.h
+  HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/taskstats.h
   HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h

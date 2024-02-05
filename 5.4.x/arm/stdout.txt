@@ -10,14 +10,14 @@
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -44,9 +44,9 @@
   HDRINST usr/include/asm-generic/errno.h
   HDRINST usr/include/asm-generic/ucontext.h
   HDRINST usr/include/asm-generic/fcntl.h
+  HDRINST usr/include/asm-generic/sockios.h
   HDRINST usr/include/asm-generic/kvm_para.h
   HDRINST usr/include/asm-generic/msgbuf.h
-  HDRINST usr/include/asm-generic/sockios.h
   HDRINST usr/include/asm-generic/auxvec.h
   HDRINST usr/include/asm-generic/siginfo.h
   HDRINST usr/include/asm-generic/shmbuf.h
@@ -320,8 +320,8 @@
   HDRINST usr/include/linux/netfilter/xt_comment.h
   HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
