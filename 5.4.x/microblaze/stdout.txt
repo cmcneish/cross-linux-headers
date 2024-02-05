@@ -12,15 +12,15 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
@@ -183,8 +183,8 @@
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
-  HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/if_hippi.h
+  HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
@@ -355,8 +355,8 @@
   HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
   HDRINST usr/include/linux/netfilter/xt_dscp.h
-  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
+  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
   HDRINST usr/include/linux/netfilter/xt_set.h
@@ -502,8 +502,8 @@
   HDRINST usr/include/linux/fib_rules.h
   HDRINST usr/include/linux/cycx_cfm.h
   HDRINST usr/include/linux/mpls.h
-  HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/termios.h
+  HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_p.h
   HDRINST usr/include/linux/raid/md_u.h
