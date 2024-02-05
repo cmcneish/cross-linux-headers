@@ -478,8 +478,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/pidfd.h
-  HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
+  HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
@@ -620,8 +620,8 @@
   HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
   HDRINST usr/include/linux/cryptouser.h
-  HDRINST usr/include/linux/filter.h
   HDRINST usr/include/linux/fcntl.h
+  HDRINST usr/include/linux/filter.h
   HDRINST usr/include/linux/virtio_console.h
   HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/nfs4.h
