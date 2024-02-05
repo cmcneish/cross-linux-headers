@@ -12,15 +12,15 @@
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -180,8 +180,8 @@
   HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
-  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/oom.h
+  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
@@ -380,8 +380,8 @@
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
-  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
+  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/ipmi.h
