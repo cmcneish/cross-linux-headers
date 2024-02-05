@@ -3,14 +3,13 @@
   WRAP    arch/sh/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/sh/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/sh/include/generated/uapi/asm/errno.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/fcntl.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/ioctl.h
   UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
@@ -18,6 +17,7 @@
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h

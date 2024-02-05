@@ -4,10 +4,10 @@
   WRAP    arch/csky/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/csky/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/csky/include/generated/uapi/asm/errno.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/fcntl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
@@ -489,8 +489,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
