@@ -888,8 +888,8 @@
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/bootinfo-atari.h
   HDRINST usr/include/asm/bootinfo-amiga.h
-  HDRINST usr/include/asm/bootinfo-vme.h
   HDRINST usr/include/asm/bootinfo-hp300.h
+  HDRINST usr/include/asm/bootinfo-vme.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/bootinfo-q40.h
   HDRINST usr/include/asm/fcntl.h
