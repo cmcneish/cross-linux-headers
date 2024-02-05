@@ -20,8 +20,8 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (485 files)
   INSTALL include/mtd (5 files)
@@ -31,9 +31,9 @@
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
-  INSTALL include/xen (4 files)
   INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
+  INSTALL include/xen (4 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
@@ -51,7 +51,6 @@
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/sched (1 file)
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
@@ -59,4 +58,5 @@
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/asm (37 files)

@@ -22,8 +22,8 @@
   WRAP    arch/tile/include/generated/uapi/asm/types.h
   WRAP    arch/tile/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
@@ -61,5 +61,5 @@
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/linux/netfilter/ipset (4 files)
-  INSTALL include/arch (17 files)
   INSTALL include/asm (35 files)
+  INSTALL include/arch (17 files)
