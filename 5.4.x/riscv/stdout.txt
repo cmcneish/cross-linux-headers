@@ -9,8 +9,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
@@ -648,8 +648,8 @@
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
-  HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
+  HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
