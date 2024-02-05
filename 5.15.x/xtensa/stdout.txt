@@ -692,14 +692,14 @@
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
   HDRINST usr/include/linux/pkt_sched.h
-  HDRINST usr/include/linux/if_fddi.h
   HDRINST usr/include/linux/psample.h
+  HDRINST usr/include/linux/if_fddi.h
   HDRINST usr/include/linux/vhost.h
-  HDRINST usr/include/linux/coff.h
   HDRINST usr/include/linux/netfilter_arp.h
+  HDRINST usr/include/linux/coff.h
   HDRINST usr/include/linux/pcitest.h
-  HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/bsg.h
+  HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
@@ -714,10 +714,10 @@
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
+  HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
   HDRINST usr/include/linux/dvb/video.h
-  HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
