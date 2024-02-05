@@ -815,8 +815,8 @@
   HDRINST usr/include/mtd/nftl-user.h
   HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/mtd-abi.h
-  HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/mtd/mtd-user.h
+  HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/rdma/ib_user_ioctl_verbs.h
   HDRINST usr/include/rdma/mlx4-abi.h
   HDRINST usr/include/rdma/i40iw-abi.h
@@ -914,8 +914,8 @@
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
-  HDRINST usr/include/asm/psr.h
   HDRINST usr/include/asm/socket.h
+  HDRINST usr/include/asm/psr.h
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h
