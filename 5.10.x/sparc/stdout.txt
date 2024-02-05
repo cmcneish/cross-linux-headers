@@ -730,10 +730,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
@@ -840,8 +838,8 @@
   HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
-  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/ib_user_mad.h
+  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
