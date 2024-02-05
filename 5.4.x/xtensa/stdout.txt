@@ -709,8 +709,8 @@
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
-  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/rfkill.h
+  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
@@ -830,8 +830,8 @@
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
-  HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
+  HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h

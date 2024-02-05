@@ -14,8 +14,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
@@ -180,8 +180,8 @@
   HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
-  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/oom.h
+  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
@@ -463,8 +463,8 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
@@ -633,8 +633,8 @@
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
-  HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/timex.h
+  HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
