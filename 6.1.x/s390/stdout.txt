@@ -16,8 +16,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   WRAP    arch/s390/include/generated/uapi/asm/termios.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -450,8 +450,8 @@
   HDRINST usr/include/linux/kexec.h
   HDRINST usr/include/linux/hdlcdrv.h
   HDRINST usr/include/linux/toshiba.h
-  HDRINST usr/include/linux/android/binder.h
   HDRINST usr/include/linux/android/binderfs.h
+  HDRINST usr/include/linux/android/binder.h
   HDRINST usr/include/linux/isst_if.h
   HDRINST usr/include/linux/btrfs.h
   HDRINST usr/include/linux/openvswitch.h
@@ -927,8 +927,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/statfs.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/uvdevice.h
   HDRINST usr/include/asm/virtio-ccw.h
   HDRINST usr/include/asm/ioctls.h
@@ -938,8 +938,8 @@
   HDRINST usr/include/asm/chpid.h
   HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/bpf_perf_event.h
-  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/chsc.h
+  HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/runtime_instr.h
   HDRINST usr/include/asm/sclp_ctl.h
   HDRINST usr/include/asm/sie.h
