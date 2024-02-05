@@ -12,9 +12,9 @@
   WRAP    arch/s390/include/generated/uapi/asm/siginfo.h
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
@@ -423,8 +423,8 @@
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mmc/ioctl.h
-  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
+  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/apm_bios.h
@@ -927,8 +927,8 @@
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/unistd_64.h
   HDRINST usr/include/asm/ioctl.h
-  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/fcntl.h
+  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
