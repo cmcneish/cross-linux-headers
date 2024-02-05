@@ -92,6 +92,7 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
+  HDRINST usr/include/linux/watch_queue.h
   HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/nfc.h
   HDRINST usr/include/linux/serial.h

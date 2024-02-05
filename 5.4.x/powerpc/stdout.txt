@@ -93,6 +93,7 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
+  HDRINST usr/include/linux/watch_queue.h
   HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/nfc.h
   HDRINST usr/include/linux/serial.h
@@ -826,8 +827,8 @@
   HDRINST usr/include/rdma/hfi/hfi1_ioctl.h
   HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
-  HDRINST usr/include/rdma/ib_user_mad.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
+  HDRINST usr/include/rdma/ib_user_mad.h
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h

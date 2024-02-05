@@ -97,6 +97,7 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
+  HDRINST usr/include/linux/watch_queue.h
   HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/nfc.h
   HDRINST usr/include/linux/serial.h
@@ -231,8 +232,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -740,8 +741,8 @@
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
-  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/netdevice.h
+  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h

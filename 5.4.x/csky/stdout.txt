@@ -10,9 +10,9 @@
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
   WRAP    arch/csky/include/generated/uapi/asm/resource.h
   WRAP    arch/csky/include/generated/uapi/asm/sembuf.h
@@ -108,6 +108,7 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
+  HDRINST usr/include/linux/watch_queue.h
   HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/nfc.h
   HDRINST usr/include/linux/serial.h
