@@ -156,8 +156,8 @@
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/vbox_err.h
-  HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
+  HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
@@ -435,8 +435,8 @@
   HDRINST usr/include/linux/tc_ematch/tc_em_meta.h
   HDRINST usr/include/linux/const.h
   HDRINST usr/include/linux/pg.h
-  HDRINST usr/include/linux/if_vlan.h
   HDRINST usr/include/linux/string.h
+  HDRINST usr/include/linux/if_vlan.h
   HDRINST usr/include/linux/if_tunnel.h
   HDRINST usr/include/linux/neighbour.h
   HDRINST usr/include/linux/userfaultfd.h
