@@ -718,8 +718,8 @@
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
-  HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/switchtec_ioctl.h
+  HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/netrom.h
