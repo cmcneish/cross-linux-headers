@@ -2,8 +2,8 @@
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/basic/fixdep
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (485 files)
   INSTALL include/mtd (5 files)
