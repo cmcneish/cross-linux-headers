@@ -19,8 +19,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
