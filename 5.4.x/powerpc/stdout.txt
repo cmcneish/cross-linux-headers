@@ -828,8 +828,8 @@
   HDRINST usr/include/rdma/hfi/hfi1_user.h
   HDRINST usr/include/rdma/vmw_pvrdma-abi.h
   HDRINST usr/include/rdma/ib_user_ioctl_cmds.h
-  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/ib_user_mad.h
+  HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
@@ -874,8 +874,8 @@
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/nvram.h
-  HDRINST usr/include/asm/cputable.h
   HDRINST usr/include/asm/sembuf.h
+  HDRINST usr/include/asm/cputable.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/perf_regs.h
