@@ -139,8 +139,8 @@
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
-  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
+  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
@@ -458,8 +458,8 @@
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
-  HDRINST usr/include/linux/wimax/i2400m.h
   HDRINST usr/include/linux/bpqether.h
+  HDRINST usr/include/linux/wimax/i2400m.h
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
@@ -651,9 +651,9 @@
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
+  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
-  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/virtio_blk.h
