@@ -39,7 +39,7 @@
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (5 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/usb (13 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/asm (47 files)
