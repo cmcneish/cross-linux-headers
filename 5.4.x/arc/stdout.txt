@@ -902,8 +902,8 @@
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
-  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
+  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/fcntl.h

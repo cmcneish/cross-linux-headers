@@ -437,8 +437,8 @@
   HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
   HDRINST usr/include/linux/types.h
-  HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/apm_bios.h
+  HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/resource.h
   HDRINST usr/include/linux/kexec.h
   HDRINST usr/include/linux/hdlcdrv.h
@@ -912,7 +912,7 @@
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
-  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/stat.h
+  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/bitsperlong.h
   INSTALL /tmp/cross-linux-headers/5.4.x/unicore32/include

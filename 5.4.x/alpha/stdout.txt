@@ -356,8 +356,8 @@
   HDRINST usr/include/linux/netfilter/xt_esp.h
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
-  HDRINST usr/include/linux/netfilter/nf_synproxy.h
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
+  HDRINST usr/include/linux/netfilter/nf_synproxy.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
@@ -706,8 +706,8 @@
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
-  HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
+  HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
@@ -866,8 +866,8 @@
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
-  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/pal.h
+  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/sysinfo.h
   HDRINST usr/include/asm/reg.h
