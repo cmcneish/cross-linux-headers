@@ -218,8 +218,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -320,8 +320,8 @@
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
-  HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
+  HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
