@@ -684,8 +684,8 @@
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
-  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
+  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
@@ -869,8 +869,8 @@
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/statfs.h
-  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/unistd.h
+  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/swab.h

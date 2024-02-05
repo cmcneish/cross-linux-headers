@@ -11,9 +11,9 @@
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
@@ -714,12 +714,12 @@
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
-  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
+  HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
-  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/rfkill.h
+  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
