@@ -9,17 +9,17 @@
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
+  WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
+  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
-  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -167,8 +167,8 @@
   HDRINST usr/include/linux/can/bcm.h
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
-  HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/matroxfb.h
+  HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
@@ -291,8 +291,8 @@
   HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
-  HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
+  HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/xt_u32.h
   HDRINST usr/include/linux/netfilter/xt_conntrack.h
   HDRINST usr/include/linux/netfilter/xt_helper.h
