@@ -1,8 +1,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/riscv/include/generated/uapi/asm/errno.h
-  WRAP    arch/riscv/include/generated/uapi/asm/fcntl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctls.h
+  WRAP    arch/riscv/include/generated/uapi/asm/fcntl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/mman.h
   WRAP    arch/riscv/include/generated/uapi/asm/msgbuf.h
@@ -11,10 +11,9 @@
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
@@ -941,6 +940,7 @@
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
+  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/signal.h
@@ -965,6 +965,5 @@
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
-  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/stat.h
   INSTALL /tmp/cross-linux-headers/6.1.x/riscv/include
