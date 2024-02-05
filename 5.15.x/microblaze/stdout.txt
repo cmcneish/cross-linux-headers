@@ -11,18 +11,18 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
@@ -243,8 +243,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h

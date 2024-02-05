@@ -15,8 +15,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
@@ -727,8 +727,8 @@
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
   HDRINST usr/include/linux/dvb/video.h
-  HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
+  HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/frontend.h
   HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/dmx.h
