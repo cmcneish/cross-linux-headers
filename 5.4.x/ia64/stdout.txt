@@ -220,8 +220,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -615,8 +615,8 @@
   HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
   HDRINST usr/include/linux/nfsacl.h
-  HDRINST usr/include/linux/ipx.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
+  HDRINST usr/include/linux/ipx.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
