@@ -9,8 +9,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
-  WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
+  WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
@@ -354,8 +354,8 @@
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
-  HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
+  HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
   HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
@@ -648,8 +648,8 @@
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
-  HDRINST usr/include/linux/kvm_para.h
   HDRINST usr/include/linux/i2c-dev.h
+  HDRINST usr/include/linux/kvm_para.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
@@ -720,8 +720,8 @@
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
-  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rio_cm_cdev.h
+  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
