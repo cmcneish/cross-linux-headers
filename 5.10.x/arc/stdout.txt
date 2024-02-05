@@ -8,8 +8,8 @@
   WRAP    arch/arc/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
   WRAP    arch/arc/include/generated/uapi/asm/poll.h
@@ -356,8 +356,8 @@
   HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
   HDRINST usr/include/linux/netfilter/xt_dscp.h
-  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
+  HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
   HDRINST usr/include/linux/netfilter/xt_set.h
@@ -561,8 +561,8 @@
   HDRINST usr/include/linux/if_eql.h
   HDRINST usr/include/linux/mei.h
   HDRINST usr/include/linux/if_phonet.h
-  HDRINST usr/include/linux/xilinx-v4l2-controls.h
   HDRINST usr/include/linux/rtnetlink.h
+  HDRINST usr/include/linux/xilinx-v4l2-controls.h
   HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/um_timetravel.h

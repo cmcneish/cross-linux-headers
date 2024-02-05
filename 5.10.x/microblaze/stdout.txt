@@ -12,8 +12,8 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   UPD     include/generated/uapi/linux/version.h
