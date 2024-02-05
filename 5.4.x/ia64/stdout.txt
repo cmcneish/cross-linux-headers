@@ -123,8 +123,8 @@
   HDRINST usr/include/linux/poll.h
   HDRINST usr/include/linux/virtio_scsi.h
   HDRINST usr/include/linux/stm.h
-  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/patchkey.h
+  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
@@ -161,8 +161,8 @@
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
+  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
@@ -197,8 +197,8 @@
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
-  HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/elf-fdpic.h
+  HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/net_dropmon.h
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
@@ -207,8 +207,8 @@
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/gigaset_dev.h
   HDRINST usr/include/linux/aio_abi.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/netlink.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
@@ -459,8 +459,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
@@ -520,8 +520,8 @@
   HDRINST usr/include/linux/kernelcapi.h
   HDRINST usr/include/linux/nfs_idmap.h
   HDRINST usr/include/linux/seg6_local.h
-  HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/atm_idt77105.h
+  HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
