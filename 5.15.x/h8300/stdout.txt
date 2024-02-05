@@ -9,11 +9,11 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
@@ -751,8 +751,8 @@
   HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
-  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/rio_cm_cdev.h
+  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
@@ -796,8 +796,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
@@ -891,8 +891,8 @@
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
-  HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/scsi/scsi_netlink.h
+  HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h
