@@ -15,9 +15,9 @@
   WRAP    arch/arc/include/generated/uapi/asm/posix_types.h
   WRAP    arch/arc/include/generated/uapi/asm/resource.h
   WRAP    arch/arc/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/socket.h
   WRAP    arch/arc/include/generated/uapi/asm/sockios.h
   WRAP    arch/arc/include/generated/uapi/asm/stat.h

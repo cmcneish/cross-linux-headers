@@ -36,8 +36,8 @@
   HDRINST usr/include/asm-generic/swab.h
   HDRINST usr/include/asm-generic/posix_types.h
   HDRINST usr/include/asm-generic/bpf_perf_event.h
-  HDRINST usr/include/asm-generic/mman.h
   HDRINST usr/include/asm-generic/types.h
+  HDRINST usr/include/asm-generic/mman.h
   HDRINST usr/include/asm-generic/resource.h
   HDRINST usr/include/asm-generic/termbits.h
   HDRINST usr/include/asm-generic/termios.h
