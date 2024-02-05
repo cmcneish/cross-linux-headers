@@ -11,8 +11,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
@@ -401,8 +401,8 @@
   HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
-  HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
+  HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/bpf_perf_event.h
   HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
