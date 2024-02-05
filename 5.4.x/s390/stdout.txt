@@ -634,8 +634,8 @@
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
-  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/cciss_defs.h
+  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
-  HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/nbd.h
+  HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
