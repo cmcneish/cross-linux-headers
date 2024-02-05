@@ -13,8 +13,8 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
-  WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/siginfo.h
   WRAP    arch/hexagon/include/generated/uapi/asm/socket.h
@@ -948,6 +948,6 @@
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
-  HDRINST usr/include/asm/stat.h
   HDRINST usr/include/asm/bitsperlong.h
+  HDRINST usr/include/asm/stat.h
   INSTALL /tmp/cross-linux-headers/5.15.x/hexagon/include

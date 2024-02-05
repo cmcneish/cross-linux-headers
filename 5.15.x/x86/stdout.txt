@@ -381,8 +381,8 @@
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
   HDRINST usr/include/linux/netfilter/nf_synproxy.h
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
-  HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
+  HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_hook.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
@@ -390,9 +390,9 @@
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
+  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
-  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/ipmi.h
