@@ -767,8 +767,8 @@
   HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
-  HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/dlm_device.h
+  HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/mdio.h
   HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/soundcard.h
