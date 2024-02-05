@@ -258,8 +258,8 @@
   HDRINST usr/include/linux/mqueue.h
   HDRINST usr/include/linux/major.h
   HDRINST usr/include/linux/virtio_types.h
-  HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/aspeed-p2a-ctrl.h
+  HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
   HDRINST usr/include/linux/if_frad.h

@@ -11,15 +11,15 @@
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -304,8 +304,8 @@
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
-  HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
+  HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
@@ -725,8 +725,8 @@
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
   HDRINST usr/include/linux/atmapi.h
-  HDRINST usr/include/linux/x25.h
   HDRINST usr/include/linux/socket.h
+  HDRINST usr/include/linux/x25.h
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
