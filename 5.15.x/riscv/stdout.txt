@@ -12,8 +12,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
-  WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
@@ -382,8 +382,8 @@
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
   HDRINST usr/include/linux/netfilter/nf_synproxy.h
-  HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
+  HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_hook.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
@@ -927,9 +927,9 @@
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
+  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
