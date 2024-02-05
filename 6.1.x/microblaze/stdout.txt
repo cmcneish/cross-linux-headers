@@ -11,17 +11,17 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
@@ -173,8 +173,8 @@
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
-  HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/vxcan.h
+  HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h

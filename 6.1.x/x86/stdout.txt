@@ -528,8 +528,8 @@
   HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
-  HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h
+  HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
@@ -895,8 +895,8 @@
   HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
-  HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_els.h
+  HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_bsg_mpi3mr.h
