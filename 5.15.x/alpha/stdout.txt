@@ -756,8 +756,8 @@
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/cfm_bridge.h
-  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
+  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
@@ -780,8 +780,8 @@
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
   HDRINST usr/include/linux/kdev_t.h
-  HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
   HDRINST usr/include/linux/hid.h
