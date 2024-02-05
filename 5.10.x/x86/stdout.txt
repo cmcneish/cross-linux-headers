@@ -902,8 +902,8 @@
   HDRINST usr/include/asm/ist.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/posix_types_x32.h
-  HDRINST usr/include/asm/bootparam.h
   HDRINST usr/include/asm/unistd.h
+  HDRINST usr/include/asm/bootparam.h
   HDRINST usr/include/asm/boot.h
   HDRINST usr/include/asm/prctl.h
   HDRINST usr/include/asm/sembuf.h
