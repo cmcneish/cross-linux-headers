@@ -808,8 +808,8 @@
   HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
-  HDRINST usr/include/linux/hsi/hsi_char.h
   HDRINST usr/include/linux/if_cablemodem.h
+  HDRINST usr/include/linux/hsi/hsi_char.h
   HDRINST usr/include/linux/ipv6.h
   HDRINST usr/include/linux/cec.h
   HDRINST usr/include/linux/if_link.h
