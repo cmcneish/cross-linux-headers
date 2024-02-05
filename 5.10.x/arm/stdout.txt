@@ -12,12 +12,12 @@
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  WRAP    arch/arm/include/generated/uapi/asm/termios.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -166,8 +166,8 @@
   HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
-  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
+  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/isotp.h
   HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/matroxfb.h
@@ -719,8 +719,8 @@
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
-  HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/serial_core.h
+  HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
@@ -906,8 +906,8 @@
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
-  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
+  HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/stat.h
   HDRINST usr/include/asm/unistd-common.h
   HDRINST usr/include/asm/param.h

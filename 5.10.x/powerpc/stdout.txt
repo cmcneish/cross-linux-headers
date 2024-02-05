@@ -149,8 +149,8 @@
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
-  HDRINST usr/include/linux/times.h
   HDRINST usr/include/linux/dqblk_xfs.h
+  HDRINST usr/include/linux/times.h
   HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
@@ -807,8 +807,8 @@
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
-  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/linux/selinux_netlink.h
+  HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
