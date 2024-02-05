@@ -10,8 +10,8 @@
   WRAP    arch/c6x/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/c6x/include/generated/uapi/asm/mman.h
   WRAP    arch/c6x/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/param.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/poll.h
   WRAP    arch/c6x/include/generated/uapi/asm/posix_types.h
   WRAP    arch/c6x/include/generated/uapi/asm/resource.h
