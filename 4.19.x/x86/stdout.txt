@@ -3,8 +3,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   HOSTCC  arch/x86/tools/relocs_32.o
   HOSTCC  arch/x86/tools/relocs_64.o
@@ -39,8 +39,8 @@
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
-  INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/netfilter/ipset (4 files)
+  INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
   INSTALL include/linux/sched (1 file)
