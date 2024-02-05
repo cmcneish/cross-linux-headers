@@ -326,8 +326,8 @@
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
-  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
+  HDRINST usr/include/linux/netfilter/xt_state.h
   HDRINST usr/include/linux/netfilter/nfnetlink.h
   HDRINST usr/include/linux/netfilter/xt_sctp.h
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
@@ -416,8 +416,8 @@
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mmc/ioctl.h
-  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
+  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/apm_bios.h
