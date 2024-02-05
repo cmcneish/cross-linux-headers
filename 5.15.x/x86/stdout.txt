@@ -744,8 +744,8 @@
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
-  HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/tipc_config.h
+  HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/virtio_mmio.h
@@ -840,8 +840,8 @@
   HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
-  HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
+  HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
