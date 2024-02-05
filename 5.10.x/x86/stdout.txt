@@ -11,11 +11,11 @@
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
-  WRAP    arch/x86/include/generated/uapi/asm/termios.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
+  WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   HOSTCC  scripts/unifdef
@@ -129,8 +129,8 @@
   HDRINST usr/include/linux/max2175.h
   HDRINST usr/include/linux/btrfs_tree.h
   HDRINST usr/include/linux/ife.h
-  HDRINST usr/include/linux/pkt_cls.h
   HDRINST usr/include/linux/devlink.h
+  HDRINST usr/include/linux/pkt_cls.h
   HDRINST usr/include/linux/uvcvideo.h
   HDRINST usr/include/linux/poll.h
   HDRINST usr/include/linux/virtio_scsi.h
@@ -382,8 +382,8 @@
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
-  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
+  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
@@ -640,8 +640,8 @@
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
-  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/fsl_hypervisor.h
+  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
