@@ -7,9 +7,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -158,8 +158,8 @@
   HDRINST usr/include/linux/pktcdvd.h
   HDRINST usr/include/linux/pps.h
   HDRINST usr/include/linux/agpgart.h
-  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/sysinfo.h
+  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/capi.h
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
@@ -314,8 +314,8 @@
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_limit.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
   HDRINST usr/include/linux/netfilter/xt_mac.h

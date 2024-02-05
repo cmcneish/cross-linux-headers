@@ -912,8 +912,8 @@
   HDRINST usr/include/asm/mce.h
   HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/posix_types_64.h
-  HDRINST usr/include/asm/debugreg.h
   HDRINST usr/include/asm/a.out.h
+  HDRINST usr/include/asm/debugreg.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/e820.h
   HDRINST usr/include/asm/auxvec.h
