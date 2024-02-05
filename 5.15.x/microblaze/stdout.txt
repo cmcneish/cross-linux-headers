@@ -12,16 +12,16 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
@@ -649,8 +649,8 @@
   HDRINST usr/include/linux/pfkeyv2.h
   HDRINST usr/include/linux/packet_diag.h
   HDRINST usr/include/linux/hash_info.h
-  HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h
+  HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/rpmsg_types.h
   HDRINST usr/include/linux/affs_hardblocks.h
@@ -726,8 +726,8 @@
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h
-  HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/nilfs2_api.h
+  HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/virtio_gpio.h

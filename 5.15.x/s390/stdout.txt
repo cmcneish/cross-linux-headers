@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -327,8 +327,8 @@
   HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
-  HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_length.h
+  HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
@@ -767,8 +767,8 @@
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/cfm_bridge.h
   HDRINST usr/include/linux/rtc.h
-  HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/auto_fs.h
+  HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/nbd.h
