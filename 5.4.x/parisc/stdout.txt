@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
-  HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h
+  HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h

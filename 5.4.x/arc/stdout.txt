@@ -6,9 +6,9 @@
   WRAP    arch/arc/include/generated/uapi/asm/errno.h
   WRAP    arch/arc/include/generated/uapi/asm/fcntl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
