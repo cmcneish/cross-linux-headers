@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  WRAP    arch/powerpc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/powerpc/include/generated/uapi/asm/param.h
   WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/resource.h
@@ -752,8 +753,8 @@
   HDRINST usr/include/linux/x25.h
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
-  HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
+  HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
@@ -920,7 +921,6 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/papr_pdsm.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/types.h
@@ -953,6 +953,7 @@
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/unistd_32.h
+  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/unistd_64.h
   HDRINST usr/include/asm/sockios.h

@@ -93,9 +93,9 @@
   HDRINST usr/include/linux/virtio_pcidev.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_srh.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_hl.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_frag.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_LOG.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_opts.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ah.h
@@ -728,8 +728,8 @@
   HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
-  HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/audio.h
+  HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
   HDRINST usr/include/linux/dvb/version.h

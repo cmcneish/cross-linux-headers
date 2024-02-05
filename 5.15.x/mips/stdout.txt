@@ -800,9 +800,9 @@
   HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
   HDRINST usr/include/linux/hiddev.h
+  HDRINST usr/include/linux/ethtool_netlink.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
-  HDRINST usr/include/linux/ethtool_netlink.h
   HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/misc/bcm_vk.h
   HDRINST usr/include/linux/dlm_device.h
