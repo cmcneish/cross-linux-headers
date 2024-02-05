@@ -503,8 +503,8 @@
   HDRINST usr/include/linux/nfsd/stats.h
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
-  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
+  HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/hysdn_if.h
@@ -872,9 +872,9 @@
   HDRINST usr/include/asm/sysinfo.h
   HDRINST usr/include/asm/reg.h
   HDRINST usr/include/asm/ioctls.h
+  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/regdef.h
-  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/compiler.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/fpu.h

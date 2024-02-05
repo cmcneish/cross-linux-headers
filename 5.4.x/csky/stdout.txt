@@ -7,9 +7,9 @@
   WRAP    arch/csky/include/generated/uapi/asm/fcntl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
@@ -466,8 +466,8 @@
   HDRINST usr/include/linux/wimax/i2400m.h
   HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/net_namespace.h
-  HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/atmlec.h
+  HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h

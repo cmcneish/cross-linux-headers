@@ -8,8 +8,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -632,9 +632,9 @@
   HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
+  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
-  HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
