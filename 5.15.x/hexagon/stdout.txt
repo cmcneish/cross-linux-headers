@@ -241,8 +241,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -274,8 +274,8 @@
   HDRINST usr/include/linux/vdpa.h
   HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/route.h
-  HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
+  HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/fou.h
   HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/gameport.h
@@ -516,8 +516,8 @@
   HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/termios.h
-  HDRINST usr/include/linux/raid/md_p.h
   HDRINST usr/include/linux/chio.h
+  HDRINST usr/include/linux/raid/md_p.h
   HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
