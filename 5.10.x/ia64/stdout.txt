@@ -578,8 +578,8 @@
   HDRINST usr/include/linux/openat2.h
   HDRINST usr/include/linux/rio_mport_cdev.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
-  HDRINST usr/include/linux/lightnvm.h
   HDRINST usr/include/linux/wireguard.h
+  HDRINST usr/include/linux/lightnvm.h
   HDRINST usr/include/linux/msg.h
   HDRINST usr/include/linux/if_packet.h
   HDRINST usr/include/linux/usb/video.h
