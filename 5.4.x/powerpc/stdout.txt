@@ -125,8 +125,8 @@
   HDRINST usr/include/linux/poll.h
   HDRINST usr/include/linux/virtio_scsi.h
   HDRINST usr/include/linux/stm.h
-  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/patchkey.h
+  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
