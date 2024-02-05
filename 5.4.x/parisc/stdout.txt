@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -373,8 +373,8 @@
   HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
-  HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/fd.h
+  HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/ipmi.h
   HDRINST usr/include/linux/fiemap.h
   HDRINST usr/include/linux/nfs4_mount.h
