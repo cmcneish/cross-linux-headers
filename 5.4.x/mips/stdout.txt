@@ -212,8 +212,8 @@
   HDRINST usr/include/linux/tty.h
   HDRINST usr/include/linux/if_ether.h
   HDRINST usr/include/linux/nvram.h
-  HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/gigaset_dev.h
+  HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
   HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
@@ -256,8 +256,8 @@
   HDRINST usr/include/linux/mqueue.h
   HDRINST usr/include/linux/major.h
   HDRINST usr/include/linux/virtio_types.h
-  HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/aspeed-p2a-ctrl.h
+  HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
   HDRINST usr/include/linux/if_frad.h
@@ -647,8 +647,8 @@
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
-  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
+  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/zorro_ids.h
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
@@ -753,8 +753,8 @@
   HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
   HDRINST usr/include/linux/stat.h
-  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
+  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h

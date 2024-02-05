@@ -234,8 +234,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
@@ -874,8 +874,8 @@
   HDRINST usr/include/sound/sb16_csp.h
   HDRINST usr/include/video/edid.h
   HDRINST usr/include/video/uvesafb.h
-  HDRINST usr/include/video/sisfb.h
   HDRINST usr/include/xen/privcmd.h
+  HDRINST usr/include/video/sisfb.h
   HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
