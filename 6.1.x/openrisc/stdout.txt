@@ -14,8 +14,8 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/posix_types.h
   WRAP    arch/openrisc/include/generated/uapi/asm/resource.h
   WRAP    arch/openrisc/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/setup.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/openrisc/include/generated/uapi/asm/signal.h
@@ -312,9 +312,9 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
-  HDRINST usr/include/linux/netfilter/xt_u32.h
   HDRINST usr/include/linux/netfilter/xt_conntrack.h
   HDRINST usr/include/linux/netfilter/xt_helper.h
+  HDRINST usr/include/linux/netfilter/xt_u32.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_policy.h
   HDRINST usr/include/linux/netfilter/xt_LOG.h

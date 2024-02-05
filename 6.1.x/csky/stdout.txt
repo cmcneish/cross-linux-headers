@@ -392,8 +392,8 @@
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/nfnetlink_hook.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
-  HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
+  HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
   HDRINST usr/include/linux/dvb/video.h
