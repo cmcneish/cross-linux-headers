@@ -120,8 +120,8 @@
   HDRINST usr/include/linux/uvcvideo.h
   HDRINST usr/include/linux/poll.h
   HDRINST usr/include/linux/virtio_scsi.h
-  HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/stm.h
+  HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
@@ -625,8 +625,8 @@
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
-  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
+  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
