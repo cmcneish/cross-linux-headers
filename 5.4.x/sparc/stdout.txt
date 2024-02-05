@@ -551,8 +551,8 @@
   HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
-  HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/sctp.h
+  HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h
   HDRINST usr/include/linux/kcmp.h
@@ -568,8 +568,8 @@
   HDRINST usr/include/linux/lightnvm.h
   HDRINST usr/include/linux/msg.h
   HDRINST usr/include/linux/if_packet.h
-  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/usb/tmc.h
+  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/usb/g_uvc.h
   HDRINST usr/include/linux/usb/audio.h
   HDRINST usr/include/linux/usb/ch9.h
@@ -631,8 +631,8 @@
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
-  HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/i2o-dev.h
+  HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
