@@ -9,14 +9,15 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
@@ -26,7 +27,6 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -538,8 +538,8 @@
   HDRINST usr/include/linux/nfs_idmap.h
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/qrtr.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
