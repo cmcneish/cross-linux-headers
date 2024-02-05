@@ -9,7 +9,6 @@
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
   WRAP    arch/arc/include/generated/uapi/asm/poll.h
@@ -18,6 +17,7 @@
   WRAP    arch/arc/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arc/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/socket.h
   WRAP    arch/arc/include/generated/uapi/asm/sockios.h
   WRAP    arch/arc/include/generated/uapi/asm/stat.h
