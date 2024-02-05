@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
@@ -714,8 +714,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
@@ -895,8 +895,8 @@
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
-  HDRINST usr/include/sound/asound_fm.h
   HDRINST usr/include/sound/snd_sst_tokens.h
+  HDRINST usr/include/sound/asound_fm.h
   HDRINST usr/include/sound/emu10k1.h
   HDRINST usr/include/sound/asoc.h
   HDRINST usr/include/sound/sof/tokens.h
