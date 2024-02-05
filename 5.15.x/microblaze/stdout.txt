@@ -194,8 +194,8 @@
   HDRINST usr/include/linux/ioam6.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
-  HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
+  HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
@@ -309,8 +309,8 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
-  HDRINST usr/include/linux/netfilter/xt_conntrack.h
   HDRINST usr/include/linux/netfilter/xt_u32.h
+  HDRINST usr/include/linux/netfilter/xt_conntrack.h
   HDRINST usr/include/linux/netfilter/xt_helper.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_policy.h
@@ -346,8 +346,8 @@
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h

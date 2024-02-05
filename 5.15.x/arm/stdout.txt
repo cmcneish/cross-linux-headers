@@ -13,12 +13,12 @@
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -880,9 +880,9 @@
   HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
-  HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h
   HDRINST usr/include/scsi/fc/fc_ns.h
+  HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
