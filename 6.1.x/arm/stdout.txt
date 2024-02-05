@@ -551,8 +551,8 @@
   HDRINST usr/include/linux/nfs_idmap.h
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/qrtr.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/virtio_bt.h
   HDRINST usr/include/linux/map_to_7segment.h
