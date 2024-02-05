@@ -13,9 +13,9 @@
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
   WRAP    arch/nds32/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/siginfo.h
   WRAP    arch/nds32/include/generated/uapi/asm/signal.h
   WRAP    arch/nds32/include/generated/uapi/asm/socket.h
@@ -440,8 +440,8 @@
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
-  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
+  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mrp_bridge.h
   HDRINST usr/include/linux/mmc/ioctl.h

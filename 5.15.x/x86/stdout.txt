@@ -930,8 +930,8 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
-  HDRINST usr/include/asm/mtrr.h
   HDRINST usr/include/asm/mman.h
+  HDRINST usr/include/asm/mtrr.h
   HDRINST usr/include/asm/hw_breakpoint.h
   HDRINST usr/include/asm/svm.h
   HDRINST usr/include/asm/msr.h
