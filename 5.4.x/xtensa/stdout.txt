@@ -566,8 +566,8 @@
   HDRINST usr/include/linux/udf_fs_i.h
   HDRINST usr/include/linux/atmioc.h
   HDRINST usr/include/linux/if_x25.h
-  HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/tcp.h
+  HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/rio_mport_cdev.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
   HDRINST usr/include/linux/lightnvm.h
