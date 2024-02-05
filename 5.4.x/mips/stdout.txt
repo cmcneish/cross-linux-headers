@@ -9,9 +9,9 @@
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n32.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n64.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_o32.h
-  SYSNR  arch/mips/include/generated/uapi/asm/unistd_nr_n32.h
-  SYSNR  arch/mips/include/generated/uapi/asm/unistd_nr_n64.h
-  SYSNR  arch/mips/include/generated/uapi/asm/unistd_nr_o32.h
+  SYSNR   arch/mips/include/generated/uapi/asm/unistd_nr_n32.h
+  SYSNR   arch/mips/include/generated/uapi/asm/unistd_nr_n64.h
+  SYSNR   arch/mips/include/generated/uapi/asm/unistd_nr_o32.h
   HOSTCC  scripts/unifdef
   HOSTCC  arch/mips/tools/elf-entry
   HOSTCC  arch/mips/boot/tools/relocs_32.o
