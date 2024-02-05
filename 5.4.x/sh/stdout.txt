@@ -400,8 +400,8 @@
   HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
-  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
+  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/wireless.h
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h

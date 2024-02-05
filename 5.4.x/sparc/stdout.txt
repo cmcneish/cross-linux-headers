@@ -184,8 +184,8 @@
   HDRINST usr/include/linux/tc_act/tc_ct.h
   HDRINST usr/include/linux/tc_act/tc_mirred.h
   HDRINST usr/include/linux/tc_act/tc_vlan.h
-  HDRINST usr/include/linux/tc_act/tc_skbedit.h
   HDRINST usr/include/linux/tc_act/tc_ipt.h
+  HDRINST usr/include/linux/tc_act/tc_skbedit.h
   HDRINST usr/include/linux/tc_act/tc_defact.h
   HDRINST usr/include/linux/mroute.h
   HDRINST usr/include/linux/phonet.h
