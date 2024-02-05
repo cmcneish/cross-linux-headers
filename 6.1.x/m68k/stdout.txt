@@ -14,8 +14,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
-  WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
@@ -527,8 +527,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/memfd.h
+  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/debug.h
