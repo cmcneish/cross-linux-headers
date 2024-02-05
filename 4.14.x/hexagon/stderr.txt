@@ -1,10 +1,1 @@
 gcc: error: unrecognized command-line option ‘-G0’
-In file included from /usr/include/string.h:535,
-                 from scripts/unifdef.c:56:
-In function ‘strncpy’,
-    inlined from ‘Mpass’ at scripts/unifdef.c:453:28:
-/usr/include/x86_64-linux-gnu/bits/string_fortified.h:95:10: warning: ‘__builtin_strncpy’ output truncated before terminating nul copying 4 bytes from a string of the same length [-Wstringop-truncation]
-   95 |   return __builtin___strncpy_chk (__dest, __src, __len,
-      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   96 |                                   __glibc_objsize (__dest));
-      |                                   ~~~~~~~~~~~~~~~~~~~~~~~~~
