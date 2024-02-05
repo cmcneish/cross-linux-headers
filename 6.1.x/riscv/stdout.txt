@@ -12,6 +12,7 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
@@ -19,7 +20,6 @@
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
   WRAP    arch/riscv/include/generated/uapi/asm/statfs.h
   WRAP    arch/riscv/include/generated/uapi/asm/swab.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/termbits.h
   WRAP    arch/riscv/include/generated/uapi/asm/termios.h
   WRAP    arch/riscv/include/generated/uapi/asm/types.h
