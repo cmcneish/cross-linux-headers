@@ -7,9 +7,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -192,8 +192,8 @@
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
-  HDRINST usr/include/linux/tc_act/tc_csum.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
+  HDRINST usr/include/linux/tc_act/tc_csum.h
   HDRINST usr/include/linux/tc_act/tc_connmark.h
   HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
