@@ -611,8 +611,8 @@
   HDRINST usr/include/linux/usb/tmc.h
   HDRINST usr/include/linux/usb/g_uvc.h
   HDRINST usr/include/linux/usb/audio.h
-  HDRINST usr/include/linux/usb/ch9.h
   HDRINST usr/include/linux/usb/ch11.h
+  HDRINST usr/include/linux/usb/ch9.h
   HDRINST usr/include/linux/usb/charger.h
   HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/raw_gadget.h
@@ -794,8 +794,8 @@
   HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
   HDRINST usr/include/linux/stat.h
-  HDRINST usr/include/linux/hsr_netlink.h
   HDRINST usr/include/linux/atm.h
+  HDRINST usr/include/linux/hsr_netlink.h
   HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h
