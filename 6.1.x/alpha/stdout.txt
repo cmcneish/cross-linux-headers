@@ -477,8 +477,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/pidfd.h
-  HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
+  HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
@@ -542,8 +542,8 @@
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
-  HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/virtio_bt.h
+  HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h

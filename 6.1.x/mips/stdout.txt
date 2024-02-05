@@ -759,8 +759,8 @@
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
-  HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/vduse.h
+  HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/atmapi.h
   HDRINST usr/include/linux/amt.h
   HDRINST usr/include/linux/socket.h
