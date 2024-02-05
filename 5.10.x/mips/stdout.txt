@@ -281,8 +281,8 @@
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
-  HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
+  HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
@@ -567,8 +567,8 @@
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/kvm.h
   HDRINST usr/include/linux/errno.h
-  HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/netlink_diag.h
+  HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
   HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
@@ -862,9 +862,9 @@
   HDRINST usr/include/scsi/fc/fc_els.h
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
-  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
+  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h
