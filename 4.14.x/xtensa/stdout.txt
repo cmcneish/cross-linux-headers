@@ -11,8 +11,8 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
@@ -26,8 +26,8 @@
   INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
-  INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
+  INSTALL include/linux/can (6 files)
   INSTALL include/linux/dvb (8 files)
   INSTALL include/linux/genwqe (1 file)
   INSTALL include/linux/hdlc (1 file)
