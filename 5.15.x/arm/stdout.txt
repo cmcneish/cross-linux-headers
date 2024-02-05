@@ -15,8 +15,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -772,8 +772,8 @@
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
-  HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
+  HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
@@ -838,8 +838,8 @@
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/misc/habanalabs.h
-  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
+  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
   HDRINST usr/include/misc/pvpanic.h
