@@ -30,8 +30,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
   INSTALL include/asm-generic (36 files)
-  INSTALL include/misc (1 file)
   INSTALL include/drm (25 files)
+  INSTALL include/misc (1 file)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
