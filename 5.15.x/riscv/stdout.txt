@@ -12,8 +12,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
@@ -240,8 +240,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -252,8 +252,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
   HDRINST usr/include/linux/dma-heap.h
@@ -693,8 +693,8 @@
   HDRINST usr/include/linux/vboxguest.h
   HDRINST usr/include/linux/qnxtypes.h
   HDRINST usr/include/linux/ax25.h
-  HDRINST usr/include/linux/sonet.h
   HDRINST usr/include/linux/sem.h
+  HDRINST usr/include/linux/sonet.h
   HDRINST usr/include/linux/igmp.h
   HDRINST usr/include/linux/atmarp.h
   HDRINST usr/include/linux/coresight-stm.h
