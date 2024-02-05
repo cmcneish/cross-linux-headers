@@ -10,8 +10,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
-  WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
@@ -660,8 +660,8 @@
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/b1lli.h
-  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/sonypi.h
+  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
   HDRINST usr/include/linux/seg6_hmac.h
@@ -890,8 +890,8 @@
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/bitsperlong.h
-  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
+  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sembuf.h

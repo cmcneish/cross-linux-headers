@@ -879,8 +879,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/registers.h
   HDRINST usr/include/asm/param.h
+  HDRINST usr/include/asm/registers.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/byteorder.h

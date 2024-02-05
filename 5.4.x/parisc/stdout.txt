@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -411,8 +411,8 @@
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/wmi.h
-  HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
+  HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
@@ -885,8 +885,8 @@
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/pdc.h
   HDRINST usr/include/asm/sigcontext.h
-  HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/msgbuf.h
+  HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h

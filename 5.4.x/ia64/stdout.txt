@@ -278,8 +278,8 @@
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_nfacct.h
-  HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
+  HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
