@@ -114,8 +114,8 @@
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
   HDRINST usr/include/linux/edd.h
-  HDRINST usr/include/linux/dccp.h
   HDRINST usr/include/linux/max2175.h
+  HDRINST usr/include/linux/dccp.h
   HDRINST usr/include/linux/btrfs_tree.h
   HDRINST usr/include/linux/ife.h
   HDRINST usr/include/linux/devlink.h
