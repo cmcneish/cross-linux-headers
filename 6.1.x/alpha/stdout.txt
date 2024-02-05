@@ -435,8 +435,8 @@
   HDRINST usr/include/linux/iio/events.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
-  HDRINST usr/include/linux/apm_bios.h
   HDRINST usr/include/linux/resource.h
+  HDRINST usr/include/linux/apm_bios.h
   HDRINST usr/include/linux/kexec.h
   HDRINST usr/include/linux/hdlcdrv.h
   HDRINST usr/include/linux/toshiba.h
