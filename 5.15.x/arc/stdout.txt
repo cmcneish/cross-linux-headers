@@ -800,8 +800,8 @@
   HDRINST usr/include/linux/mtio.h
   HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
-  HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
+  HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/rpl.h
   HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
