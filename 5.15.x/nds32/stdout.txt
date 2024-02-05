@@ -619,8 +619,8 @@
   HDRINST usr/include/linux/usb/raw_gadget.h
   HDRINST usr/include/linux/usb/g_printer.h
   HDRINST usr/include/linux/usb/gadgetfs.h
-  HDRINST usr/include/linux/usb/cdc.h
   HDRINST usr/include/linux/usb/midi.h
+  HDRINST usr/include/linux/usb/cdc.h
   HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/sunrpc/debug.h
@@ -714,8 +714,8 @@
   HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
-  HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
+  HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
@@ -865,8 +865,8 @@
   HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
-  HDRINST usr/include/rdma/irdma-abi.h
   HDRINST usr/include/rdma/siw-abi.h
+  HDRINST usr/include/rdma/irdma-abi.h
   HDRINST usr/include/rdma/rdma_netlink.h
   HDRINST usr/include/rdma/rdma_user_ioctl.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_cmds.h
