@@ -445,8 +445,8 @@
   HDRINST usr/include/linux/string.h
   HDRINST usr/include/linux/if_tunnel.h
   HDRINST usr/include/linux/neighbour.h
-  HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/userfaultfd.h
+  HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/wimax/i2400m.h
@@ -688,8 +688,8 @@
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
-  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
+  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h

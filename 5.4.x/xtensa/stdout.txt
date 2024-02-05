@@ -668,9 +668,9 @@
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
   HDRINST usr/include/linux/pkt_sched.h
+  HDRINST usr/include/linux/psample.h
   HDRINST usr/include/linux/if_fddi.h
   HDRINST usr/include/linux/vhost.h
-  HDRINST usr/include/linux/psample.h
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
   HDRINST usr/include/linux/pcitest.h
