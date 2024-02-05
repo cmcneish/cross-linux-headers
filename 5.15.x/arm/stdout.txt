@@ -809,8 +809,8 @@
   HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/soundcard.h
   HDRINST usr/include/linux/taskstats.h
-  HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/uuid.h
+  HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h

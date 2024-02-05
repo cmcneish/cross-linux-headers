@@ -21,8 +21,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -491,8 +491,8 @@
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
-  HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
+  HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/atalk.h
