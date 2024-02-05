@@ -939,8 +939,8 @@
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/hypfs.h
   HDRINST usr/include/asm/vtoc.h
-  HDRINST usr/include/asm/tape390.h
   HDRINST usr/include/asm/sthyi.h
+  HDRINST usr/include/asm/tape390.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/monwriter.h
   HDRINST usr/include/asm/kvm_para.h
