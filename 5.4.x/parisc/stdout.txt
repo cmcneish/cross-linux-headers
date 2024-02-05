@@ -237,8 +237,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
-  HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
+  HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
@@ -723,8 +723,8 @@
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
+  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
