@@ -15,8 +15,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
@@ -135,8 +135,8 @@
   HDRINST usr/include/linux/virtio_scsi.h
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
-  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
+  HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -681,8 +681,8 @@
   HDRINST usr/include/linux/vhost.h
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
-  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/pcitest.h
+  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
