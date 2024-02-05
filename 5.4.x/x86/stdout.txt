@@ -464,8 +464,8 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
@@ -813,8 +813,8 @@
   HDRINST usr/include/mtd/nftl-user.h
   HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/mtd-abi.h
-  HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/mtd/mtd-user.h
+  HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/rdma/ib_user_ioctl_verbs.h
   HDRINST usr/include/rdma/mlx4-abi.h
   HDRINST usr/include/rdma/i40iw-abi.h
@@ -900,8 +900,8 @@
   HDRINST usr/include/asm/msr.h
   HDRINST usr/include/asm/vsyscall.h
   HDRINST usr/include/asm/kvm_perf.h
-  HDRINST usr/include/asm/posix_types_32.h
   HDRINST usr/include/asm/vm86.h
+  HDRINST usr/include/asm/posix_types_32.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/hwcap2.h
   HDRINST usr/include/asm/kvm.h
