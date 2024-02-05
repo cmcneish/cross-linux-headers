@@ -20,9 +20,9 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
+  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
-  INSTALL include/asm-generic (36 files)
   INSTALL include/linux (486 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
