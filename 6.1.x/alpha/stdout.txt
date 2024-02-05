@@ -219,8 +219,8 @@
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
-  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
+  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
@@ -230,8 +230,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
@@ -477,8 +477,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/pidfd.h
-  HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/signalfd.h
+  HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
@@ -542,8 +542,8 @@
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
-  HDRINST usr/include/linux/virtio_bt.h
   HDRINST usr/include/linux/virtio_iommu.h
+  HDRINST usr/include/linux/virtio_bt.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h

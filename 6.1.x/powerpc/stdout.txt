@@ -489,8 +489,8 @@
   HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/if_tun.h
-  HDRINST usr/include/linux/ndctl.h
   HDRINST usr/include/linux/sev-guest.h
+  HDRINST usr/include/linux/ndctl.h
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/dw100.h
