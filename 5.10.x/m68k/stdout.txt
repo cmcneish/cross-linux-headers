@@ -481,8 +481,8 @@
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
-  HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
+  HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/raw.h
@@ -756,15 +756,15 @@
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
-  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
+  HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
-  HDRINST usr/include/linux/seg6_genl.h
   HDRINST usr/include/linux/netconf.h
+  HDRINST usr/include/linux/seg6_genl.h
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
