@@ -14,8 +14,8 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
@@ -250,8 +250,8 @@
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
-  HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
+  HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/dlm.h
   HDRINST usr/include/linux/if_bridge.h

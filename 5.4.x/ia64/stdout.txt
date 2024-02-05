@@ -728,8 +728,8 @@
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
-  HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/nbd.h
+  HDRINST usr/include/linux/media-bus-format.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
