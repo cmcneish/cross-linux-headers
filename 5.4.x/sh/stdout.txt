@@ -14,10 +14,10 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   UPD     include/generated/uapi/linux/version.h
@@ -646,8 +646,8 @@
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
-  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
+  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h

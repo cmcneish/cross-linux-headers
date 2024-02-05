@@ -10,8 +10,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
@@ -896,8 +896,8 @@
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/a.out.h
   HDRINST usr/include/asm/setup.h
-  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h
+  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/bootinfo.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/sembuf.h
