@@ -142,8 +142,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/atm_tcp.h
+  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -170,8 +170,8 @@
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
-  HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/vxcan.h
+  HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
   HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h

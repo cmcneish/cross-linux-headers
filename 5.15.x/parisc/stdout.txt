@@ -310,8 +310,8 @@
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_limit.h
-  HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
+  HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
   HDRINST usr/include/linux/netfilter/xt_mac.h
   HDRINST usr/include/linux/netfilter/xt_connmark.h
   HDRINST usr/include/linux/netfilter/xt_time.h
@@ -617,8 +617,8 @@
   HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/atm_nicstar.h
   HDRINST usr/include/linux/eventpoll.h
-  HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/cgroupstats.h
+  HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/virtio_fs.h
   HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/fcntl.h
