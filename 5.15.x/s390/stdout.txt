@@ -524,8 +524,8 @@
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
-  HDRINST usr/include/linux/nfsd/debug.h
   HDRINST usr/include/linux/nfsd/stats.h
+  HDRINST usr/include/linux/nfsd/debug.h
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
   HDRINST usr/include/linux/uleds.h

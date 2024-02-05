@@ -15,8 +15,8 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/socket.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sockios.h
   WRAP    arch/hexagon/include/generated/uapi/asm/stat.h
