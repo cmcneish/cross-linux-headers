@@ -7,9 +7,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -71,8 +71,8 @@
   HDRINST usr/include/drm/drm_sarea.h
   HDRINST usr/include/drm/i915_drm.h
   HDRINST usr/include/drm/lima_drm.h
-  HDRINST usr/include/drm/drm_fourcc.h
   HDRINST usr/include/drm/nouveau_drm.h
+  HDRINST usr/include/drm/drm_fourcc.h
   HDRINST usr/include/drm/etnaviv_drm.h
   HDRINST usr/include/drm/radeon_drm.h
   HDRINST usr/include/drm/armada_drm.h
@@ -463,8 +463,8 @@
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
-  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/wimax/i2400m.h
+  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
