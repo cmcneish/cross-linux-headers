@@ -5,21 +5,21 @@
   WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ioctl.h
   WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/mman.h
+  WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
+  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
-  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -488,8 +488,8 @@
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
-  HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/mmtimer.h
+  HDRINST usr/include/linux/if_xdp.h
   HDRINST usr/include/linux/icmp.h
   HDRINST usr/include/linux/blkpg.h
   HDRINST usr/include/linux/fib_rules.h
