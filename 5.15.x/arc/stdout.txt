@@ -816,8 +816,8 @@
   HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/soundcard.h
   HDRINST usr/include/linux/taskstats.h
-  HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/uuid.h
+  HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h
@@ -864,8 +864,8 @@
   HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
-  HDRINST usr/include/rdma/irdma-abi.h
   HDRINST usr/include/rdma/siw-abi.h
+  HDRINST usr/include/rdma/irdma-abi.h
   HDRINST usr/include/rdma/rdma_netlink.h
   HDRINST usr/include/rdma/rdma_user_ioctl.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_cmds.h

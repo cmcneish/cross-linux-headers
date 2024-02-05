@@ -146,8 +146,8 @@
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
-  HDRINST usr/include/linux/ccs.h
   HDRINST usr/include/linux/audit.h
+  HDRINST usr/include/linux/ccs.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
