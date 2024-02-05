@@ -634,8 +634,8 @@
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
-  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
+  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
@@ -718,8 +718,8 @@
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
-  HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
+  HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h

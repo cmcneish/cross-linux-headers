@@ -890,9 +890,9 @@
   HDRINST usr/include/asm/opal-prd.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/elf.h
-  HDRINST usr/include/asm/vas-api.h
   HDRINST usr/include/asm/nvram.h
   HDRINST usr/include/asm/sembuf.h
+  HDRINST usr/include/asm/vas-api.h
   HDRINST usr/include/asm/cputable.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ipcbuf.h
