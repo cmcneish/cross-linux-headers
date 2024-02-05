@@ -16,8 +16,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
+  WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -481,8 +481,8 @@
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
-  HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/serio.h
+  HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/raw.h
@@ -756,8 +756,8 @@
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
-  HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/spi/spidev.h
+  HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/atm_zatm.h
@@ -790,8 +790,8 @@
   HDRINST usr/include/linux/taskstats.h
   HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h
-  HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/iommu.h
+  HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h
   HDRINST usr/include/linux/if_cablemodem.h

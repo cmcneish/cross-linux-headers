@@ -15,8 +15,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
@@ -664,8 +664,8 @@
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
-  HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
+  HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/sonypi.h
@@ -894,9 +894,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
+  HDRINST usr/include/asm/ptrace_32.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/cachectl.h
-  HDRINST usr/include/asm/ptrace_32.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
