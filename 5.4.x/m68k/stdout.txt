@@ -10,16 +10,16 @@
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -398,8 +398,8 @@
   HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
-  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
+  HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/wireless.h
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
@@ -729,10 +729,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h
