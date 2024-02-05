@@ -8,9 +8,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctl.h
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
@@ -860,8 +860,8 @@
   HDRINST usr/include/rdma/ib_user_mad.h
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
-  HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/rdma/qedr-abi.h
+  HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
