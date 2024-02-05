@@ -904,9 +904,9 @@
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/chsc.h
   HDRINST usr/include/asm/types.h
+  HDRINST usr/include/asm/runtime_instr.h
   HDRINST usr/include/asm/sclp_ctl.h
   HDRINST usr/include/asm/termios.h
-  HDRINST usr/include/asm/runtime_instr.h
   HDRINST usr/include/asm/sie.h
   HDRINST usr/include/asm/dasd.h
   HDRINST usr/include/asm/pkey.h
