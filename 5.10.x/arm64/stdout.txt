@@ -11,9 +11,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
@@ -425,8 +425,8 @@
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
-  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
+  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mrp_bridge.h
   HDRINST usr/include/linux/mmc/ioctl.h
@@ -466,8 +466,8 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/nitro_enclaves.h
-  HDRINST usr/include/linux/fanotify.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
+  HDRINST usr/include/linux/fanotify.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
@@ -910,8 +910,8 @@
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
-  HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/poll.h
+  HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ipcbuf.h
