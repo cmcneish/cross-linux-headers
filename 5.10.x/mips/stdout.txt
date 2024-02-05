@@ -636,8 +636,8 @@
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
-  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/fsl_hypervisor.h
+  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h

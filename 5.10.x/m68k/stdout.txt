@@ -144,8 +144,8 @@
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
   HDRINST usr/include/linux/byteorder/big_endian.h
-  HDRINST usr/include/linux/ethtool.h
   HDRINST usr/include/linux/atmsvc.h
+  HDRINST usr/include/linux/ethtool.h
   HDRINST usr/include/linux/cm4000_cs.h
   HDRINST usr/include/linux/unistd.h
   HDRINST usr/include/linux/pktcdvd.h

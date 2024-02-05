@@ -16,13 +16,13 @@
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -385,8 +385,8 @@
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
-  HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/dlm_netlink.h
+  HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
   HDRINST usr/include/linux/ipmi.h
@@ -632,8 +632,8 @@
   HDRINST usr/include/linux/packet_diag.h
   HDRINST usr/include/linux/wimax.h
   HDRINST usr/include/linux/hash_info.h
-  HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h
+  HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
