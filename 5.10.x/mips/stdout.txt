@@ -402,8 +402,8 @@
   HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
-  HDRINST usr/include/linux/nl80211.h
   HDRINST usr/include/linux/usbip.h
+  HDRINST usr/include/linux/nl80211.h
   HDRINST usr/include/linux/bpf_perf_event.h
   HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
@@ -500,8 +500,8 @@
   HDRINST usr/include/linux/blkpg.h
   HDRINST usr/include/linux/fib_rules.h
   HDRINST usr/include/linux/cycx_cfm.h
-  HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/userio.h
+  HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/termios.h
   HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_p.h
@@ -582,8 +582,8 @@
   HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/openat2.h
-  HDRINST usr/include/linux/genwqe/genwqe_card.h
   HDRINST usr/include/linux/rio_mport_cdev.h
+  HDRINST usr/include/linux/genwqe/genwqe_card.h
   HDRINST usr/include/linux/lightnvm.h
   HDRINST usr/include/linux/wireguard.h
   HDRINST usr/include/linux/msg.h
@@ -760,8 +760,8 @@
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
-  HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/ptrace.h
+  HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
   HDRINST usr/include/linux/netconf.h

@@ -21,10 +21,10 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
   SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
