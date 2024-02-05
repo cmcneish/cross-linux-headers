@@ -11,8 +11,8 @@
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
-  WRAP    arch/csky/include/generated/uapi/asm/poll.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/csky/include/generated/uapi/asm/poll.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
   WRAP    arch/csky/include/generated/uapi/asm/resource.h
   WRAP    arch/csky/include/generated/uapi/asm/sembuf.h
@@ -386,8 +386,8 @@
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
-  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/uio.h
+  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
@@ -877,8 +877,8 @@
   HDRINST usr/include/sound/sb16_csp.h
   HDRINST usr/include/video/edid.h
   HDRINST usr/include/video/uvesafb.h
-  HDRINST usr/include/video/sisfb.h
   HDRINST usr/include/xen/privcmd.h
+  HDRINST usr/include/video/sisfb.h
   HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
