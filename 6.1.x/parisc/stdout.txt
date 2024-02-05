@@ -2,9 +2,9 @@
   WRAP    arch/parisc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/parisc/include/generated/uapi/asm/param.h
   WRAP    arch/parisc/include/generated/uapi/asm/poll.h
+  WRAP    arch/parisc/include/generated/uapi/asm/resource.h
   WRAP    arch/parisc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
-  WRAP    arch/parisc/include/generated/uapi/asm/resource.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
   WRAP    arch/parisc/include/generated/uapi/asm/termios.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
@@ -131,8 +131,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/rpl_iptunnel.h
+  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -652,8 +652,8 @@
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
-  HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/atmclip.h
+  HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
