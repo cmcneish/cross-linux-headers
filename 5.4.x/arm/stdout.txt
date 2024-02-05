@@ -9,15 +9,15 @@
   WRAP    arch/arm/include/generated/uapi/asm/param.h
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
