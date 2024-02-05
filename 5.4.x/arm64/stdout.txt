@@ -11,9 +11,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
@@ -54,8 +54,8 @@
   HDRINST usr/include/asm-generic/int-l64.h
   HDRINST usr/include/asm-generic/stat.h
   HDRINST usr/include/asm-generic/hugetlb_encode.h
-  HDRINST usr/include/asm-generic/bitsperlong.h
   HDRINST usr/include/asm-generic/errno-base.h
+  HDRINST usr/include/asm-generic/bitsperlong.h
   HDRINST usr/include/drm/amdgpu_drm.h
   HDRINST usr/include/drm/drm.h
   HDRINST usr/include/drm/vc4_drm.h
