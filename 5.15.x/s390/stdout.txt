@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -184,8 +184,8 @@
   HDRINST usr/include/linux/ioam6.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
-  HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gate.h
+  HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
