@@ -7,8 +7,8 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
+  WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
@@ -892,8 +892,8 @@
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sembuf.h
-  HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/ioctls.h
+  HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/bpf_perf_event.h
