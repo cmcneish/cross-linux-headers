@@ -493,8 +493,8 @@
   HDRINST usr/include/linux/blkpg.h
   HDRINST usr/include/linux/fib_rules.h
   HDRINST usr/include/linux/cycx_cfm.h
-  HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/userio.h
+  HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/termios.h
   HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_p.h
