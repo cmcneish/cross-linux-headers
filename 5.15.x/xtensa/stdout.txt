@@ -8,8 +8,8 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
-  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -325,8 +325,8 @@
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
-  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
+  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
@@ -613,8 +613,8 @@
   HDRINST usr/include/linux/landlock.h
   HDRINST usr/include/linux/sock_diag.h
   HDRINST usr/include/linux/magic.h
-  HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/atm_nicstar.h
+  HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/eventpoll.h
   HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/cgroupstats.h
@@ -752,10 +752,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/cfm_bridge.h

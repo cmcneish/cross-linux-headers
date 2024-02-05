@@ -14,19 +14,19 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -125,8 +125,8 @@
   HDRINST usr/include/linux/netfilter_arp/arpt_mangle.h
   HDRINST usr/include/linux/in_route.h
   HDRINST usr/include/linux/net_tstamp.h
-  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/sysctl.h
+  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/hpet.h
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
@@ -608,8 +608,8 @@
   HDRINST usr/include/linux/msg.h
   HDRINST usr/include/linux/if_packet.h
   HDRINST usr/include/linux/surface_aggregator/cdev.h
-  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/surface_aggregator/dtx.h
+  HDRINST usr/include/linux/usb/video.h
   HDRINST usr/include/linux/usb/tmc.h
   HDRINST usr/include/linux/usb/g_uvc.h
   HDRINST usr/include/linux/usb/audio.h
@@ -767,10 +767,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
-  HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/cfm_bridge.h
