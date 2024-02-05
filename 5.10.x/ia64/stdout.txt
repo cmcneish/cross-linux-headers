@@ -58,8 +58,8 @@
   HDRINST usr/include/drm/lima_drm.h
   HDRINST usr/include/drm/nouveau_drm.h
   HDRINST usr/include/drm/drm_fourcc.h
-  HDRINST usr/include/drm/radeon_drm.h
   HDRINST usr/include/drm/etnaviv_drm.h
+  HDRINST usr/include/drm/radeon_drm.h
   HDRINST usr/include/drm/armada_drm.h
   HDRINST usr/include/drm/vgem_drm.h
   HDRINST usr/include/drm/msm_drm.h
@@ -145,8 +145,8 @@
   HDRINST usr/include/linux/pps.h
   HDRINST usr/include/linux/agpgart.h
   HDRINST usr/include/linux/sysinfo.h
-  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/capi.h
+  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
