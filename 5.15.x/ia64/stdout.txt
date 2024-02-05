@@ -10,9 +10,9 @@
   WRAP    arch/ia64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/socket.h
   WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
+  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
-  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
