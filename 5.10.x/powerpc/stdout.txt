@@ -916,8 +916,8 @@
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/sigcontext.h
-  HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/bootx.h
+  HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/spu_info.h
