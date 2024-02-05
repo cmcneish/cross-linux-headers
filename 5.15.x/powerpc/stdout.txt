@@ -7,8 +7,8 @@
   WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_spu.h
@@ -331,8 +331,8 @@
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h

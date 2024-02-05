@@ -1,0 +1,7 @@
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied

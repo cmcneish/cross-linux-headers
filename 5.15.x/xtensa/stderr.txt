@@ -1,2 +1,9 @@
 gcc: error: unrecognized command-line option ‘-mlongcalls’
 gcc: error: unrecognized command-line option ‘-mtext-section-literals’
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
+/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
