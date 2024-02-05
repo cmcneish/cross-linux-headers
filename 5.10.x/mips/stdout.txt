@@ -230,8 +230,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
@@ -607,8 +607,8 @@
   HDRINST usr/include/linux/sock_diag.h
   HDRINST usr/include/linux/magic.h
   HDRINST usr/include/linux/netfilter.h
-  HDRINST usr/include/linux/eventpoll.h
   HDRINST usr/include/linux/atm_nicstar.h
+  HDRINST usr/include/linux/eventpoll.h
   HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
@@ -862,9 +862,9 @@
   HDRINST usr/include/scsi/fc/fc_els.h
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
+  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
-  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h
