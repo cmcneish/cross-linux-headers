@@ -16,8 +16,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   WRAP    arch/s390/include/generated/uapi/asm/termios.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -256,8 +256,8 @@
   HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/if_plip.h
-  HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
+  HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
   HDRINST usr/include/linux/posix_types.h
@@ -658,8 +658,8 @@
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
-  HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
+  HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
@@ -717,8 +717,8 @@
   HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/close_range.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
@@ -909,8 +909,8 @@
   HDRINST usr/include/sound/sof/abi.h
   HDRINST usr/include/sound/sof/fw.h
   HDRINST usr/include/sound/sof/header.h
-  HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/hdsp.h
+  HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/compress_offload.h
   HDRINST usr/include/sound/firewire.h
   HDRINST usr/include/sound/asequencer.h
@@ -936,8 +936,8 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/chpid.h
-  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/cmb.h
+  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/chsc.h
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/runtime_instr.h
