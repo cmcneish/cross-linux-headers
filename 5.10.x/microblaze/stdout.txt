@@ -11,8 +11,8 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
@@ -235,9 +235,9 @@
   HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
-  HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
+  HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
@@ -451,8 +451,8 @@
   HDRINST usr/include/linux/android/binderfs.h
   HDRINST usr/include/linux/isst_if.h
   HDRINST usr/include/linux/btrfs.h
-  HDRINST usr/include/linux/tc_ematch/tc_em_text.h
   HDRINST usr/include/linux/openvswitch.h
+  HDRINST usr/include/linux/tc_ematch/tc_em_text.h
   HDRINST usr/include/linux/tc_ematch/tc_em_ipt.h
   HDRINST usr/include/linux/tc_ematch/tc_em_cmp.h
   HDRINST usr/include/linux/tc_ematch/tc_em_nbyte.h
