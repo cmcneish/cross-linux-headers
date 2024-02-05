@@ -75,8 +75,8 @@
   HDRINST usr/include/drm/vmwgfx_drm.h
   HDRINST usr/include/drm/savage_drm.h
   HDRINST usr/include/linux/dlm_plock.h
-  HDRINST usr/include/linux/gpio.h
   HDRINST usr/include/linux/virtio_pcidev.h
+  HDRINST usr/include/linux/gpio.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_srh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
@@ -919,9 +919,9 @@
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/pal.h
-  HDRINST usr/include/asm/sysinfo.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/reg.h
+  HDRINST usr/include/asm/sysinfo.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
