@@ -1,5 +1,4 @@
   HOSTCC  scripts/basic/fixdep
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/loongarch/include/generated/uapi/asm/errno.h
   WRAP    arch/loongarch/include/generated/uapi/asm/fcntl.h
@@ -14,6 +13,7 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/resource.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sembuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/setup.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/siginfo.h
   WRAP    arch/loongarch/include/generated/uapi/asm/socket.h
