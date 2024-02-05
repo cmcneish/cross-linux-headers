@@ -15,8 +15,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
@@ -553,8 +553,8 @@
   HDRINST usr/include/linux/if_phonet.h
   HDRINST usr/include/linux/xilinx-v4l2-controls.h
   HDRINST usr/include/linux/rtnetlink.h
-  HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
+  HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/mic_common.h
   HDRINST usr/include/linux/virtio_rng.h
   HDRINST usr/include/linux/am437x-vpfe.h
@@ -877,9 +877,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
+  HDRINST usr/include/asm/ptrace_32.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/cachectl.h
-  HDRINST usr/include/asm/ptrace_32.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
