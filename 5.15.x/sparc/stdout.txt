@@ -918,8 +918,8 @@
   HDRINST usr/include/asm/envctrl.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/resource.h
-  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/termbits.h
+  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/display7seg.h
   HDRINST usr/include/asm/psrcompat.h
   HDRINST usr/include/asm/ioctl.h
