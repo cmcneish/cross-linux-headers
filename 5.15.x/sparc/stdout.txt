@@ -107,8 +107,8 @@
   HDRINST usr/include/linux/in_route.h
   HDRINST usr/include/linux/net_tstamp.h
   HDRINST usr/include/linux/sysctl.h
-  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/hpet.h
+  HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
   HDRINST usr/include/linux/edd.h
@@ -721,9 +721,9 @@
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
+  HDRINST usr/include/linux/pci_regs.h
   HDRINST usr/include/linux/virtio_scmi.h
   HDRINST usr/include/linux/serial_core.h
-  HDRINST usr/include/linux/pci_regs.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h

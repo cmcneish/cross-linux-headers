@@ -195,8 +195,8 @@
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
   HDRINST usr/include/linux/tc_act/tc_connmark.h
-  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
+  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
   HDRINST usr/include/linux/tc_act/tc_nat.h
@@ -524,8 +524,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/tee.h
+  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
@@ -840,8 +840,8 @@
   HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
-  HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/linux/virtio_input.h
+  HDRINST usr/include/linux/selinux_netlink.h
   HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
