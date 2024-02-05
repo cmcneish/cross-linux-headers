@@ -2,25 +2,25 @@
   WRAP    arch/sh/include/generated/uapi/asm/ucontext.h
   WRAP    arch/sh/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/sh/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/sh/include/generated/uapi/asm/errno.h
   WRAP    arch/sh/include/generated/uapi/asm/fcntl.h
   WRAP    arch/sh/include/generated/uapi/asm/ioctl.h
   WRAP    arch/sh/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  WRAP    arch/sh/include/generated/uapi/asm/errno.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -172,9 +172,9 @@
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
+  HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
