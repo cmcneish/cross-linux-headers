@@ -274,8 +274,8 @@
   HDRINST usr/include/linux/elf-em.h
   HDRINST usr/include/linux/cec-funcs.h
   HDRINST usr/include/linux/errqueue.h
-  HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/cuda.h
+  HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/kernel-page-flags.h
@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
-  HDRINST usr/include/linux/bcache.h
   HDRINST usr/include/linux/netrom.h
+  HDRINST usr/include/linux/bcache.h
   HDRINST usr/include/linux/atmapi.h
   HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h

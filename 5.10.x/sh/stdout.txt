@@ -10,19 +10,19 @@
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
-  WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  WRAP    arch/sh/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -154,8 +154,8 @@
   HDRINST usr/include/linux/pktcdvd.h
   HDRINST usr/include/linux/pps.h
   HDRINST usr/include/linux/agpgart.h
-  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/sysinfo.h
+  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/capi.h
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
@@ -662,8 +662,8 @@
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
-  HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
+  HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vfio_zdev.h
