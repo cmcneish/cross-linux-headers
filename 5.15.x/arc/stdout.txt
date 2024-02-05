@@ -826,6 +826,7 @@
   HDRINST usr/include/linux/cec.h
   HDRINST usr/include/linux/if_link.h
   HDRINST usr/include/linux/net.h
+  HDRINST usr/include/linux/cyclades.h
   HDRINST usr/include/linux/time.h
   HDRINST usr/include/linux/virtio_ring.h
   HDRINST usr/include/linux/fuse.h

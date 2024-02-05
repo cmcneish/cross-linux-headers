@@ -313,8 +313,8 @@
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
-  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
+  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
@@ -826,6 +826,7 @@
   HDRINST usr/include/linux/cec.h
   HDRINST usr/include/linux/if_link.h
   HDRINST usr/include/linux/net.h
+  HDRINST usr/include/linux/cyclades.h
   HDRINST usr/include/linux/time.h
   HDRINST usr/include/linux/virtio_ring.h
   HDRINST usr/include/linux/fuse.h
