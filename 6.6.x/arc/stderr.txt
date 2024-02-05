@@ -1,0 +1,2 @@
+gcc: error: unrecognized command-line option ‘-mmedium-calls’
+gcc: error: unrecognized command-line option ‘-mno-sdata’; did you mean ‘-fno-stats’?
