@@ -114,8 +114,8 @@
   HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
   HDRINST usr/include/linux/edd.h
-  HDRINST usr/include/linux/max2175.h
   HDRINST usr/include/linux/dccp.h
+  HDRINST usr/include/linux/max2175.h
   HDRINST usr/include/linux/btrfs_tree.h
   HDRINST usr/include/linux/ife.h
   HDRINST usr/include/linux/devlink.h
@@ -227,8 +227,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
