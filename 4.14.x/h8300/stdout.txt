@@ -13,8 +13,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/posix_types.h
-  WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
+  WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmparam.h
@@ -29,20 +29,20 @@
   WRAP    arch/h8300/include/generated/uapi/asm/types.h
   WRAP    arch/h8300/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
-  INSTALL include/rdma/hfi (2 files)
   INSTALL include/scsi (4 files)
+  INSTALL include/rdma/hfi (2 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
+  INSTALL include/xen (4 files)
   INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
-  INSTALL include/xen (4 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
@@ -55,8 +55,8 @@
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (87 files)
   INSTALL include/linux/netfilter_arp (2 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_bridge (17 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
