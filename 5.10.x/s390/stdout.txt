@@ -354,8 +354,8 @@
   HDRINST usr/include/linux/netfilter/xt_CT.h
   HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
-  HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
+  HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
