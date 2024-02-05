@@ -215,8 +215,8 @@
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/tty.h
-  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/if_ether.h
+  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
   HDRINST usr/include/linux/serial_reg.h
@@ -750,8 +750,8 @@
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/ioam6_iptunnel.h
-  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
+  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/vduse.h
