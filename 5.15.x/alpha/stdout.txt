@@ -1,6 +1,6 @@
   HOSTCC  scripts/basic/fixdep
-  WRAP    arch/alpha/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/bpf_perf_event.h
+  WRAP    arch/alpha/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/poll.h
   WRAP    arch/alpha/include/generated/uapi/asm/sembuf.h
