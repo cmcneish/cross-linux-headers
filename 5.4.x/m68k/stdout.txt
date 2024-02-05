@@ -5,8 +5,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ioctl.h
   WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/m68k/include/generated/uapi/asm/mman.h
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
+  WRAP    arch/m68k/include/generated/uapi/asm/mman.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
