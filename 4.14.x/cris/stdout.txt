@@ -15,8 +15,8 @@
   WRAP    arch/cris/include/generated/uapi/asm/sembuf.h
   WRAP    arch/cris/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/cris/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/cris/include/generated/uapi/asm/sockios.h
   WRAP    arch/cris/include/generated/uapi/asm/socket.h
+  WRAP    arch/cris/include/generated/uapi/asm/sockios.h
   WRAP    arch/cris/include/generated/uapi/asm/statfs.h
   WRAP    arch/cris/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -46,7 +46,6 @@
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (87 files)
   INSTALL include/linux/netfilter_arp (2 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
@@ -59,6 +58,7 @@
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/arch-v10 (0 file)
   INSTALL include/arch-v32 (0 file)
   INSTALL include/asm (40 files)
