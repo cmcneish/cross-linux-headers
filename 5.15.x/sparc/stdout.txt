@@ -179,8 +179,8 @@
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
-  HDRINST usr/include/linux/tc_act/tc_connmark.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
+  HDRINST usr/include/linux/tc_act/tc_connmark.h
   HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
-  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
+  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/vduse.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
