@@ -222,8 +222,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -872,9 +872,9 @@
   HDRINST usr/include/asm/sysinfo.h
   HDRINST usr/include/asm/reg.h
   HDRINST usr/include/asm/ioctls.h
-  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/regdef.h
+  HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/compiler.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/fpu.h

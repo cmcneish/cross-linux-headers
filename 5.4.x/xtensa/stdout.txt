@@ -8,8 +8,8 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
-  SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
+  SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -267,8 +267,8 @@
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
-  HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
+  HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h

@@ -577,8 +577,8 @@
   HDRINST usr/include/linux/usb/ch9.h
   HDRINST usr/include/linux/usb/ch11.h
   HDRINST usr/include/linux/usb/charger.h
-  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/g_printer.h
+  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h

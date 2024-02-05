@@ -8,9 +8,9 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
@@ -329,8 +329,8 @@
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
-  HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
+  HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
@@ -502,8 +502,8 @@
   HDRINST usr/include/linux/termios.h
   HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_p.h
-  HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
+  HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/netfilter_ipv6.h
   HDRINST usr/include/linux/if_pppox.h
   HDRINST usr/include/linux/xattr.h
@@ -713,8 +713,8 @@
   HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
-  HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/synclink.h
+  HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
