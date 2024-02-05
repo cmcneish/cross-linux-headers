@@ -7,11 +7,11 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h

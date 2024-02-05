@@ -557,8 +557,8 @@
   HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
-  HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/virtio_balloon.h
+  HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h
   HDRINST usr/include/linux/kcmp.h
   HDRINST usr/include/linux/seg6.h
@@ -912,8 +912,8 @@
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
-  HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/unistd_32.h
+  HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/unistd_64.h
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/siginfo.h
