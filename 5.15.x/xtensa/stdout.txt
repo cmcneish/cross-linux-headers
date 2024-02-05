@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
-  HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/loop.h
+  HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
