@@ -360,8 +360,8 @@
   HDRINST usr/include/linux/netfilter/xt_esp.h
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
-  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_synproxy.h
+  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
