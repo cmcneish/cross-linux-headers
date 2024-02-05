@@ -7,11 +7,11 @@
   WRAP    arch/arm64/include/generated/uapi/asm/mman.h
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
@@ -220,8 +220,8 @@
   HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
-  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/qnx4_fs.h
+  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
@@ -371,8 +371,8 @@
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
-  HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
+  HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h

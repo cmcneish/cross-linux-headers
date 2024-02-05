@@ -887,9 +887,9 @@
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/byteorder.h
+  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h

@@ -7,10 +7,10 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
   WRAP    arch/unicore32/include/generated/uapi/asm/posix_types.h
@@ -159,8 +159,8 @@
   HDRINST usr/include/linux/pps.h
   HDRINST usr/include/linux/agpgart.h
   HDRINST usr/include/linux/sysinfo.h
-  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/capi.h
+  HDRINST usr/include/linux/nexthop.h
   HDRINST usr/include/linux/prctl.h
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
