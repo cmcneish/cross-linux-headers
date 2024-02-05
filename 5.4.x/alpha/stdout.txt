@@ -276,8 +276,8 @@
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_nfacct.h
-  HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/x_tables.h
+  HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
@@ -506,8 +506,8 @@
   HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/rpmsg.h
-  HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/hysdn_if.h
+  HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/vm_sockets.h
   HDRINST usr/include/linux/nsfs.h
   HDRINST usr/include/linux/omapfb.h
