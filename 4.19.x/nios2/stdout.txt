@@ -5,8 +5,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/nios2/include/generated/uapi/asm/errno.h
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
+  WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
@@ -35,16 +35,14 @@
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (25 files)
   INSTALL include/rdma/hfi (2 files)
-  INSTALL include/scsi (4 files)
-  INSTALL include/scsi/fc (4 files)
-  INSTALL include/sound (16 files)
-  INSTALL include/video (3 files)
-  INSTALL include/xen (4 files)
   INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
+  INSTALL include/scsi (4 files)
+  INSTALL include/scsi/fc (4 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
+  INSTALL include/sound (16 files)
   INSTALL include/linux/dvb (8 files)
   INSTALL include/linux/genwqe (1 file)
   INSTALL include/linux/hdlc (1 file)
@@ -66,5 +64,7 @@
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (5 files)
   INSTALL include/linux/usb (13 files)
+  INSTALL include/video (3 files)
+  INSTALL include/xen (4 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (34 files)
