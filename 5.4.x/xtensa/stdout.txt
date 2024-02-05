@@ -154,8 +154,8 @@
   HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
-  HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/netlink.h
+  HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
   HDRINST usr/include/linux/can/raw.h
@@ -164,8 +164,8 @@
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/dma-buf.h
+  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
@@ -370,8 +370,8 @@
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
-  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
+  HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
