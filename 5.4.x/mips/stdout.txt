@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
-  HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/media-bus-format.h
+  HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
   HDRINST usr/include/linux/fs.h
@@ -874,10 +874,10 @@
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
-  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/hwcap.h
   HDRINST usr/include/asm/statfs.h
+  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sgidefs.h
   HDRINST usr/include/asm/unistd.h
