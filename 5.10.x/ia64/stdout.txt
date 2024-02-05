@@ -230,8 +230,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -306,8 +306,8 @@
   HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
-  HDRINST usr/include/linux/netfilter/xt_mac.h
   HDRINST usr/include/linux/netfilter/xt_connmark.h
+  HDRINST usr/include/linux/netfilter/xt_mac.h
   HDRINST usr/include/linux/netfilter/xt_time.h
   HDRINST usr/include/linux/netfilter/xt_devgroup.h
   HDRINST usr/include/linux/netfilter/xt_socket.h
@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/netfilter_decnet.h
+  HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h

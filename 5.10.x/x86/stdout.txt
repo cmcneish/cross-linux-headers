@@ -11,11 +11,11 @@
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
   HOSTCC  scripts/unifdef
@@ -695,8 +695,8 @@
   HDRINST usr/include/linux/vhost.h
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
-  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/pcitest.h
+  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h

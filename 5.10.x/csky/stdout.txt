@@ -8,8 +8,8 @@
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/csky/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
@@ -499,8 +499,8 @@
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/reiserfs_xattr.h
-  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
+  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/if_xdp.h

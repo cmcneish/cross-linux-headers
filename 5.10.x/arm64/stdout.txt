@@ -11,9 +11,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
@@ -287,8 +287,8 @@
   HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/netfilter/xt_string.h
-  HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_nfacct.h
+  HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
@@ -399,8 +399,8 @@
   HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
-  HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/virtio_gpu.h
+  HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
@@ -523,8 +523,8 @@
   HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/rpmsg.h
-  HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/vm_sockets.h
+  HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/nsfs.h
   HDRINST usr/include/linux/omapfb.h
   HDRINST usr/include/linux/vm_sockets_diag.h
@@ -694,8 +694,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/atmppp.h
+  HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
