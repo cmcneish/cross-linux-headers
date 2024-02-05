@@ -8,9 +8,9 @@
   WRAP    arch/riscv/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
@@ -333,8 +333,8 @@
   HDRINST usr/include/linux/netfilter/xt_comment.h
   HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
@@ -838,9 +838,9 @@
   HDRINST usr/include/linux/quota.h
   HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/ip_vs.h
-  HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
+  HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/misc/habanalabs.h
   HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
