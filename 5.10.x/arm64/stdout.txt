@@ -187,8 +187,8 @@
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
-  HDRINST usr/include/linux/tc_act/tc_connmark.h
   HDRINST usr/include/linux/tc_act/tc_sample.h
+  HDRINST usr/include/linux/tc_act/tc_connmark.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
@@ -539,8 +539,8 @@
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
-  HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
+  HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/seccomp.h
   HDRINST usr/include/linux/efs_fs_sb.h
@@ -685,8 +685,8 @@
   HDRINST usr/include/linux/if_team.h
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
-  HDRINST usr/include/linux/pkt_sched.h
   HDRINST usr/include/linux/psample.h
+  HDRINST usr/include/linux/pkt_sched.h
   HDRINST usr/include/linux/if_fddi.h
   HDRINST usr/include/linux/vhost.h
   HDRINST usr/include/linux/netfilter_arp.h
