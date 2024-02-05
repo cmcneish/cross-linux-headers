@@ -820,8 +820,8 @@
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
-  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/habanalabs.h
+  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
@@ -860,8 +860,8 @@
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
-  HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h
+  HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h

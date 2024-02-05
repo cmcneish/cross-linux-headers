@@ -9,12 +9,12 @@
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
@@ -270,8 +270,8 @@
   HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/gameport.h
   HDRINST usr/include/linux/udp.h
-  HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/elf-em.h
+  HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/cec-funcs.h
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
