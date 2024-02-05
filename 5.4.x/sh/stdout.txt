@@ -15,8 +15,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
@@ -415,8 +415,8 @@
   HDRINST usr/include/linux/v4l2-controls.h
   HDRINST usr/include/linux/snmp.h
   HDRINST usr/include/linux/atmbr2684.h
-  HDRINST usr/include/linux/batadv_packet.h
   HDRINST usr/include/linux/smc_diag.h
+  HDRINST usr/include/linux/batadv_packet.h
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/wmi.h

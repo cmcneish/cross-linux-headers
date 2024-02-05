@@ -5,10 +5,10 @@
   WRAP    arch/c6x/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/c6x/include/generated/uapi/asm/errno.h
   WRAP    arch/c6x/include/generated/uapi/asm/fcntl.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctls.h
   WRAP    arch/c6x/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/mman.h
   WRAP    arch/c6x/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/c6x/include/generated/uapi/asm/param.h
@@ -281,8 +281,8 @@
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
-  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
+  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
