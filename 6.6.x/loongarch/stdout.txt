@@ -3,9 +3,9 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/loongarch/include/generated/uapi/asm/errno.h
   WRAP    arch/loongarch/include/generated/uapi/asm/fcntl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ioctl.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/mman.h
   WRAP    arch/loongarch/include/generated/uapi/asm/msgbuf.h
@@ -795,8 +795,8 @@
   HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/spi/spi.h
-  HDRINST usr/include/linux/ipmi_ssif_bmc.h
   HDRINST usr/include/linux/erspan.h
+  HDRINST usr/include/linux/ipmi_ssif_bmc.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h
   HDRINST usr/include/linux/atm_zatm.h

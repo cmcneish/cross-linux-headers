@@ -5,20 +5,20 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/errno.h
   WRAP    arch/microblaze/include/generated/uapi/asm/fcntl.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ioctl.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h

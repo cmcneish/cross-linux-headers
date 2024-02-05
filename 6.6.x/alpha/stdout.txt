@@ -4,8 +4,8 @@
   WRAP    arch/alpha/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/poll.h
   WRAP    arch/alpha/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/alpha/include/generated/uapi/asm/shmbuf.h
   SYSHDR  arch/alpha/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/alpha/include/generated/uapi/asm/shmbuf.h
   SYSTBL  arch/alpha/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -213,8 +213,8 @@
   HDRINST usr/include/linux/if_ether.h
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/netlink.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/aspeed-video.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h

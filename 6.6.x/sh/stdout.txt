@@ -11,9 +11,9 @@
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h

@@ -5,8 +5,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/nios2/include/generated/uapi/asm/errno.h
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
@@ -378,8 +378,8 @@
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
-  HDRINST usr/include/linux/netfilter/xt_multiport.h
   HDRINST usr/include/linux/netfilter/xt_cgroup.h
+  HDRINST usr/include/linux/netfilter/xt_multiport.h
   HDRINST usr/include/linux/netfilter/xt_recent.h
   HDRINST usr/include/linux/netfilter/xt_dccp.h
   HDRINST usr/include/linux/netfilter/xt_osf.h
@@ -390,8 +390,8 @@
   HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/nfnetlink_hook.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
@@ -447,8 +447,8 @@
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mrp_bridge.h
   HDRINST usr/include/linux/mmc/ioctl.h
-  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/buffer.h
+  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
@@ -914,8 +914,8 @@
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
-  HDRINST usr/include/sound/emu10k1.h
   HDRINST usr/include/sound/snd_sst_tokens.h
+  HDRINST usr/include/sound/emu10k1.h
   HDRINST usr/include/sound/asoc.h
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
@@ -938,8 +938,8 @@
   HDRINST usr/include/xen/gntdev.h
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/signal.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/byteorder.h
