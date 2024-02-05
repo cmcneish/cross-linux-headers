@@ -311,8 +311,8 @@
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
-  HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
+  HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
@@ -596,8 +596,8 @@
   HDRINST usr/include/linux/if_x25.h
   HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/tcp.h
-  HDRINST usr/include/linux/openat2.h
   HDRINST usr/include/linux/rio_mport_cdev.h
+  HDRINST usr/include/linux/openat2.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
   HDRINST usr/include/linux/wireguard.h
   HDRINST usr/include/linux/msg.h
