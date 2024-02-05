@@ -12,8 +12,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/m68k/include/generated/uapi/asm/shmparam.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
+  WRAP    arch/m68k/include/generated/uapi/asm/shmparam.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
@@ -46,8 +46,8 @@
   INSTALL include/linux/isdn (1 file)
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (88 files)
-  INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter/ipset (4 files)
+  INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (13 files)
