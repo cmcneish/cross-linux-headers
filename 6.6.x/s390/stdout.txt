@@ -6,8 +6,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/s390/include/generated/uapi/asm/param.h
   WRAP    arch/s390/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/sembuf.h
   WRAP    arch/s390/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/s390/include/generated/uapi/asm/siginfo.h

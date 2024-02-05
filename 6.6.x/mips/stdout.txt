@@ -3,8 +3,8 @@
   WRAP    arch/mips/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/mips/include/generated/uapi/asm/ipcbuf.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n32.h
-  SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/mips/include/generated/uapi/asm/unistd_n64.h
   SYSHDR  arch/mips/include/generated/uapi/asm/unistd_o32.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_n32.h
   SYSTBL  arch/mips/include/generated/asm/syscall_table_n64.h
@@ -522,8 +522,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/ioam6_genl.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/memfd.h
+  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/debug.h

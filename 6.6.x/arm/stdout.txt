@@ -4,18 +4,18 @@
   WRAP    arch/arm/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/arm/include/generated/uapi/asm/errno.h
   WRAP    arch/arm/include/generated/uapi/asm/ioctl.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/msgbuf.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/param.h
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h

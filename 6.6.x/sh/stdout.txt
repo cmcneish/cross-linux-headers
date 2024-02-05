@@ -4,17 +4,17 @@
   WRAP    arch/sh/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/sh/include/generated/uapi/asm/errno.h
   WRAP    arch/sh/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/sh/include/generated/uapi/asm/ioctl.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/ioctl.h
   WRAP    arch/sh/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
@@ -218,8 +218,8 @@
   HDRINST usr/include/linux/reboot.h
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
-  HDRINST usr/include/linux/arcfb.h
   HDRINST usr/include/linux/elf-fdpic.h
+  HDRINST usr/include/linux/arcfb.h
   HDRINST usr/include/linux/tipc.h
   HDRINST usr/include/linux/net_dropmon.h
   HDRINST usr/include/linux/time_types.h
@@ -724,8 +724,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/atmppp.h
+  HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
@@ -963,8 +963,8 @@
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
-  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/ioctl.h
+  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/msgbuf.h
