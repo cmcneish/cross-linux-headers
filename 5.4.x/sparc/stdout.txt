@@ -403,8 +403,8 @@
   HDRINST usr/include/linux/v4l2-controls.h
   HDRINST usr/include/linux/snmp.h
   HDRINST usr/include/linux/atmbr2684.h
-  HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/batadv_packet.h
+  HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/wmi.h
@@ -599,8 +599,8 @@
   HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/nfs4.h
   HDRINST usr/include/linux/baycom.h
-  HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/stddef.h
+  HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/if_infiniband.h
   HDRINST usr/include/linux/ppdev.h
   HDRINST usr/include/linux/adfs_fs.h
