@@ -8,12 +8,12 @@
   WRAP    arch/nds32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nds32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
   WRAP    arch/nds32/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/siginfo.h
@@ -474,8 +474,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
