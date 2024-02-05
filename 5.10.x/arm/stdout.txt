@@ -15,9 +15,9 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -232,8 +232,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
@@ -696,8 +696,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
