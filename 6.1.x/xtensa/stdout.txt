@@ -679,8 +679,8 @@
   HDRINST usr/include/linux/pfrut.h
   HDRINST usr/include/linux/counter.h
   HDRINST usr/include/linux/mpls_iptunnel.h
-  HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/virtio_blk.h
+  HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/sonypi.h
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
