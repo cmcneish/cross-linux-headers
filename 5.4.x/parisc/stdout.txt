@@ -10,8 +10,8 @@
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_c32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -681,8 +681,8 @@
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
   HDRINST usr/include/linux/auxvec.h
-  HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
+  HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h

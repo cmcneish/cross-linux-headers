@@ -8,14 +8,13 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/posix_types.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
   WRAP    arch/h8300/include/generated/uapi/asm/socket.h
@@ -23,6 +22,7 @@
   WRAP    arch/h8300/include/generated/uapi/asm/stat.h
   WRAP    arch/h8300/include/generated/uapi/asm/statfs.h
   WRAP    arch/h8300/include/generated/uapi/asm/swab.h
+  WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/termbits.h
   WRAP    arch/h8300/include/generated/uapi/asm/termios.h
   WRAP    arch/h8300/include/generated/uapi/asm/types.h

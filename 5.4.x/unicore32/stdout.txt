@@ -6,9 +6,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/errno.h
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
@@ -663,8 +663,8 @@
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/b1lli.h
-  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/sonypi.h
+  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
   HDRINST usr/include/linux/seg6_hmac.h

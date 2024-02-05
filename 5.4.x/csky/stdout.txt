@@ -7,8 +7,8 @@
   WRAP    arch/csky/include/generated/uapi/asm/fcntl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
-  WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
@@ -559,8 +559,8 @@
   HDRINST usr/include/linux/mei.h
   HDRINST usr/include/linux/if_phonet.h
   HDRINST usr/include/linux/xilinx-v4l2-controls.h
-  HDRINST usr/include/linux/rtnetlink.h
   HDRINST usr/include/linux/virtio_vsock.h
+  HDRINST usr/include/linux/rtnetlink.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/mic_common.h
   HDRINST usr/include/linux/virtio_rng.h

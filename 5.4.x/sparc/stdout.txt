@@ -213,8 +213,8 @@
   HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
-  HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
+  HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
@@ -744,8 +744,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
@@ -813,8 +813,8 @@
   HDRINST usr/include/rdma/rdma_user_ioctl.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_cmds.h
   HDRINST usr/include/rdma/ib_user_verbs.h
-  HDRINST usr/include/rdma/mthca-abi.h
   HDRINST usr/include/rdma/bnxt_re-abi.h
+  HDRINST usr/include/rdma/mthca-abi.h
   HDRINST usr/include/rdma/rdma_user_cm.h
   HDRINST usr/include/rdma/cxgb3-abi.h
   HDRINST usr/include/rdma/mlx5-abi.h
