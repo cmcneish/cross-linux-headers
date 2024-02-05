@@ -693,8 +693,8 @@
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
-  HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
+  HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/cn_proc.h
   HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h

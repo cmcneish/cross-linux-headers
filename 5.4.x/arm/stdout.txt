@@ -15,11 +15,11 @@
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -140,8 +140,8 @@
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
-  HDRINST usr/include/linux/byteorder/little_endian.h
   HDRINST usr/include/linux/tls.h
+  HDRINST usr/include/linux/byteorder/little_endian.h
   HDRINST usr/include/linux/byteorder/big_endian.h
   HDRINST usr/include/linux/ethtool.h
   HDRINST usr/include/linux/atmsvc.h
@@ -157,8 +157,8 @@
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
   HDRINST usr/include/linux/dqblk_xfs.h
-  HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/times.h
+  HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
