@@ -124,9 +124,9 @@
   HDRINST usr/include/linux/uvcvideo.h
   HDRINST usr/include/linux/poll.h
   HDRINST usr/include/linux/virtio_scsi.h
-  HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
+  HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
@@ -707,8 +707,8 @@
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
-  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rio_cm_cdev.h
+  HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
