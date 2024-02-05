@@ -1,9 +1,3 @@
 arch/arc/Makefile:26: ** WARNING ** CONFIG_ARC_TUNE_MCPU flag '' is unknown, fallback to ''
 gcc: error: unrecognized command-line option ‘-mmedium-calls’
 gcc: error: unrecognized command-line option ‘-mno-sdata’; did you mean ‘-fno-stats’?
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
-/bin/sh: 1: ./scripts/pahole-flags.sh: Permission denied
