@@ -11,9 +11,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
@@ -215,9 +215,9 @@
   HDRINST usr/include/linux/phonet.h
   HDRINST usr/include/linux/ila.h
   HDRINST usr/include/linux/keyboard.h
-  HDRINST usr/include/linux/mptcp.h
   HDRINST usr/include/linux/kd.h
   HDRINST usr/include/linux/reboot.h
+  HDRINST usr/include/linux/mptcp.h
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
@@ -227,8 +227,8 @@
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/tty.h
-  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/if_ether.h
+  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
   HDRINST usr/include/linux/serial_reg.h
@@ -339,8 +339,8 @@
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
-  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
+  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h

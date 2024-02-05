@@ -8,9 +8,9 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctl.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/mman.h
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
@@ -516,8 +516,8 @@
   HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/termios.h
-  HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_p.h
+  HDRINST usr/include/linux/chio.h
   HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
@@ -709,8 +709,8 @@
   HDRINST usr/include/linux/vhost.h
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
-  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/pcitest.h
+  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
