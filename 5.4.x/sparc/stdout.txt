@@ -462,8 +462,8 @@
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
-  HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/un.h
+  HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/raw.h
   HDRINST usr/include/linux/atalk.h
@@ -898,8 +898,8 @@
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
-  HDRINST usr/include/asm/psr.h
   HDRINST usr/include/asm/socket.h
+  HDRINST usr/include/asm/psr.h
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h

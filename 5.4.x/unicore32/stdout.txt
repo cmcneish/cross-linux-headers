@@ -7,9 +7,9 @@
   WRAP    arch/unicore32/include/generated/uapi/asm/fcntl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctl.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/unicore32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/unicore32/include/generated/uapi/asm/param.h
   WRAP    arch/unicore32/include/generated/uapi/asm/poll.h
@@ -910,8 +910,8 @@
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/auxvec.h
-  HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
+  HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/stat.h

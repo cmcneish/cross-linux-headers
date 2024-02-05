@@ -637,9 +637,9 @@
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
-  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
+  HDRINST usr/include/linux/timex.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h
@@ -889,8 +889,8 @@
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
-  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/bitsperlong.h
+  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h

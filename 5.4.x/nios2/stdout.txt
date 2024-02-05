@@ -7,8 +7,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
@@ -460,9 +460,9 @@
   HDRINST usr/include/linux/userfaultfd.h
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
+  HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/wimax/i2400m.h
   HDRINST usr/include/linux/bpqether.h
-  HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h

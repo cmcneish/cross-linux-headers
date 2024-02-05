@@ -883,9 +883,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/param.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/byteorder.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/ptrace.h
