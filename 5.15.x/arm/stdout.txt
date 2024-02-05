@@ -14,8 +14,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
@@ -678,8 +678,8 @@
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vfio_zdev.h
-  HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/sonypi.h
+  HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h

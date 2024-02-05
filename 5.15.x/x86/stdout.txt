@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h
@@ -138,8 +138,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/rpl_iptunnel.h
+  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
