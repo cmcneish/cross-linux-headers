@@ -122,8 +122,8 @@
   HDRINST usr/include/linux/virtio_scsi.h
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
-  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/scc.h
+  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -659,8 +659,8 @@
   HDRINST usr/include/linux/igmp.h
   HDRINST usr/include/linux/atmarp.h
   HDRINST usr/include/linux/coresight-stm.h
-  HDRINST usr/include/linux/dm-ioctl.h
   HDRINST usr/include/linux/if_team.h
+  HDRINST usr/include/linux/dm-ioctl.h
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
   HDRINST usr/include/linux/pkt_sched.h
