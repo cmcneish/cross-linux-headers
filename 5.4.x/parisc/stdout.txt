@@ -543,8 +543,8 @@
   HDRINST usr/include/linux/if_eql.h
   HDRINST usr/include/linux/mei.h
   HDRINST usr/include/linux/if_phonet.h
-  HDRINST usr/include/linux/rtnetlink.h
   HDRINST usr/include/linux/xilinx-v4l2-controls.h
+  HDRINST usr/include/linux/rtnetlink.h
   HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/mic_common.h
@@ -891,8 +891,8 @@
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h
   HDRINST usr/include/asm/bitsperlong.h
-  HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/poll.h
+  HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/resource.h

@@ -120,8 +120,8 @@
   HDRINST usr/include/linux/if_alg.h
   HDRINST usr/include/linux/hpet.h
   HDRINST usr/include/linux/elfcore.h
-  HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/lwtunnel.h
+  HDRINST usr/include/linux/parport.h
   HDRINST usr/include/linux/edd.h
   HDRINST usr/include/linux/dccp.h
   HDRINST usr/include/linux/max2175.h
@@ -792,8 +792,8 @@
   HDRINST usr/include/linux/atmdev.h
   HDRINST usr/include/linux/v4l2-mediabus.h
   HDRINST usr/include/linux/xdp_diag.h
-  HDRINST usr/include/linux/bpfilter.h
   HDRINST usr/include/linux/if_pppol2tp.h
+  HDRINST usr/include/linux/bpfilter.h
   HDRINST usr/include/linux/quota.h
   HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/ip_vs.h
