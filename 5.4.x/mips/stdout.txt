@@ -204,8 +204,8 @@
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h
   HDRINST usr/include/linux/arcfb.h
-  HDRINST usr/include/linux/elf-fdpic.h
   HDRINST usr/include/linux/tipc.h
+  HDRINST usr/include/linux/elf-fdpic.h
   HDRINST usr/include/linux/net_dropmon.h
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
