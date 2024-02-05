@@ -9,10 +9,10 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
@@ -272,8 +272,8 @@
   HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
-  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/gfs2_ondisk.h
+  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/fou.h
   HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/gameport.h
@@ -659,8 +659,8 @@
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
-  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/romfs_fs.h
+  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
