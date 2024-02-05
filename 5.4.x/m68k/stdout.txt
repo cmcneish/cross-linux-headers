@@ -7,9 +7,9 @@
   WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/mman.h
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
@@ -558,12 +558,12 @@
   HDRINST usr/include/linux/virtio_rng.h
   HDRINST usr/include/linux/am437x-vpfe.h
   HDRINST usr/include/linux/coda.h
-  HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/tcp_metrics.h
+  HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
-  HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
+  HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h

@@ -8,9 +8,9 @@
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
@@ -185,8 +185,8 @@
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
-  HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
+  HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
@@ -296,8 +296,8 @@
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_nfacct.h
-  HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/x_tables.h
+  HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_ftp.h
   HDRINST usr/include/linux/netfilter/nfnetlink_conntrack.h
@@ -425,8 +425,8 @@
   HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/batadv_packet.h
   HDRINST usr/include/linux/atm_eni.h
-  HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/posix_acl.h
+  HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
