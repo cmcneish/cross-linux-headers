@@ -145,7 +145,6 @@ def do_update(version, update):
                         f'ARCH={arch}',
                         f'INSTALL_HDR_PATH={version_arch_dir.as_posix()}',
                         'headers_install',
-                        '-j', '4',
                     ],
                     stdout=out_f,
                     stderr=err_f,
