@@ -774,8 +774,8 @@
   HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
-  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/fs.h
+  HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/spi/spi.h
   HDRINST usr/include/linux/erspan.h
