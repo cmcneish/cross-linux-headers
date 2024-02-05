@@ -9,17 +9,17 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
@@ -200,8 +200,8 @@
   HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
-  HDRINST usr/include/linux/tc_act/tc_nat.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
+  HDRINST usr/include/linux/tc_act/tc_nat.h
   HDRINST usr/include/linux/tc_act/tc_ct.h
   HDRINST usr/include/linux/tc_act/tc_mirred.h
   HDRINST usr/include/linux/tc_act/tc_vlan.h
@@ -541,8 +541,8 @@
   HDRINST usr/include/linux/if_arcnet.h
   HDRINST usr/include/linux/fscrypt.h
   HDRINST usr/include/linux/kernelcapi.h
-  HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/nfs_idmap.h
+  HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
   HDRINST usr/include/linux/xfrm.h
