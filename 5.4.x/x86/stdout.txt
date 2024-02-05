@@ -11,9 +11,9 @@
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -23,9 +23,9 @@
   HOSTCC  arch/x86/tools/relocs_64.o
   HOSTCC  arch/x86/tools/relocs_common.o
   HOSTLD  arch/x86/tools/relocs
-  HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
+  HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/statfs.h
   HDRINST usr/include/asm-generic/poll.h
   HDRINST usr/include/asm-generic/unistd.h
