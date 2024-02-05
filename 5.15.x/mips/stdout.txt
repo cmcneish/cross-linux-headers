@@ -556,8 +556,8 @@
   HDRINST usr/include/linux/efs_fs_sb.h
   HDRINST usr/include/linux/i2c.h
   HDRINST usr/include/linux/ioctl.h
-  HDRINST usr/include/linux/fpga-dfl.h
   HDRINST usr/include/linux/vhost_types.h
+  HDRINST usr/include/linux/fpga-dfl.h
   HDRINST usr/include/linux/gtp.h
   HDRINST usr/include/linux/rxrpc.h
   HDRINST usr/include/linux/virtio_pci.h

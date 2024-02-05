@@ -234,8 +234,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -253,8 +253,8 @@
   HDRINST usr/include/linux/ncsi.h
   HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
-  HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/dlm.h
+  HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/if_bridge.h
   HDRINST usr/include/linux/rds.h
   HDRINST usr/include/linux/mqueue.h

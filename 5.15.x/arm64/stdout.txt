@@ -173,8 +173,8 @@
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
-  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/kernel.h
+  HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/mctp.h
@@ -884,8 +884,8 @@
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h
-  HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
+  HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
   HDRINST usr/include/sound/sfnt_info.h

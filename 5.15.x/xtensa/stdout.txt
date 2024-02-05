@@ -461,8 +461,8 @@
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
-  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/net_namespace.h
+  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
@@ -791,8 +791,8 @@
   HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
-  HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/rpl.h
+  HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
   HDRINST usr/include/linux/ethtool_netlink.h
