@@ -1,7 +1,0 @@
-./scripts/gcc-version.sh: line 26: h8300-unknown-linux-gcc: command not found
-./scripts/gcc-version.sh: line 27: h8300-unknown-linux-gcc: command not found
-make: h8300-unknown-linux-gcc: No such file or directory
-make: h8300-unknown-linux-gcc: No such file or directory
-make: h8300-unknown-linux-gcc: No such file or directory
-make: h8300-unknown-linux-gcc: No such file or directory
-make: h8300-unknown-linux-gcc: No such file or directory
