@@ -546,8 +546,8 @@
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
-  HDRINST usr/include/linux/seccomp.h
   HDRINST usr/include/linux/genetlink.h
+  HDRINST usr/include/linux/seccomp.h
   HDRINST usr/include/linux/efs_fs_sb.h
   HDRINST usr/include/linux/i2c.h
   HDRINST usr/include/linux/ioctl.h
@@ -683,8 +683,8 @@
   HDRINST usr/include/linux/sem.h
   HDRINST usr/include/linux/igmp.h
   HDRINST usr/include/linux/atmarp.h
-  HDRINST usr/include/linux/coresight-stm.h
   HDRINST usr/include/linux/dm-ioctl.h
+  HDRINST usr/include/linux/coresight-stm.h
   HDRINST usr/include/linux/if_team.h
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
