@@ -9,8 +9,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ioctls.h
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
@@ -262,8 +262,8 @@
   HDRINST usr/include/linux/ncsi.h
   HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
-  HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/dlm.h
+  HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/if_bridge.h
   HDRINST usr/include/linux/rds.h
   HDRINST usr/include/linux/mqueue.h
