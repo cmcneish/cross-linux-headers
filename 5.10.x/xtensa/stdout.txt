@@ -169,8 +169,8 @@
   HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
-  HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/uhid.h
+  HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
@@ -556,8 +556,8 @@
   HDRINST usr/include/linux/um_timetravel.h
   HDRINST usr/include/linux/virtio_rng.h
   HDRINST usr/include/linux/am437x-vpfe.h
-  HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/coda.h
+  HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
