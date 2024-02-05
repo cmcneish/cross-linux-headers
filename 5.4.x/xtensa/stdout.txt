@@ -547,8 +547,8 @@
   HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/mic_common.h
-  HDRINST usr/include/linux/virtio_rng.h
   HDRINST usr/include/linux/am437x-vpfe.h
+  HDRINST usr/include/linux/virtio_rng.h
   HDRINST usr/include/linux/coda.h
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h

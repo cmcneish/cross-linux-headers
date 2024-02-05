@@ -7,8 +7,8 @@
   WRAP    arch/c6x/include/generated/uapi/asm/fcntl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctl.h
   WRAP    arch/c6x/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/c6x/include/generated/uapi/asm/mman.h
   WRAP    arch/c6x/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/c6x/include/generated/uapi/asm/param.h
@@ -381,8 +381,8 @@
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
   HDRINST usr/include/linux/netfilter/xt_tcpudp.h
   HDRINST usr/include/linux/netfilter/xt_RATEEST.h
-  HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
+  HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
   HDRINST usr/include/linux/uio.h
   HDRINST usr/include/linux/dlm_netlink.h
@@ -885,8 +885,8 @@
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/sigcontext.h
-  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/setup.h
+  HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h

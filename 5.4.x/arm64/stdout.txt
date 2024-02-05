@@ -7,8 +7,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/mman.h
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
-  WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
@@ -241,13 +241,13 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
   HDRINST usr/include/linux/sound.h
-  HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/if_plip.h
+  HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
   HDRINST usr/include/linux/cdrom.h
   HDRINST usr/include/linux/swab.h
