@@ -8,9 +8,9 @@
   WRAP    arch/nds32/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nds32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
@@ -714,8 +714,8 @@
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
-  HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/osd.h
+  HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
