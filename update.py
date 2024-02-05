@@ -1,6 +1,4 @@
-from enum import Enum
 import functools
-import io
 from pathlib import Path
 import shutil
 import subprocess
@@ -59,7 +57,7 @@ class TagOps:
     def get_version_stop(tags: T.List[bytes]):
         return max(tags, key=TagOps.tag_key)
 
-def get_update_range(version, tags, start, stop):
+def get_update_range(tags, start, stop):
     version_range = []
 
     sorted_tags = sorted(tags, key=TagOps.tag_key)
@@ -123,6 +121,11 @@ def do_update(version, update):
     arches = arches - arch_filter
 
     for arch in sorted(arches):
+        # riscv in v4.14.312
+        if not (linux_dir / 'arch' / arch / 'Makefile').exists():
+            print('skipping', tag, arch, 'due to no Makefile')
+            continue
+
         print('processing', tag, arch)
 
         version_arch_dir = version_dir / arch
@@ -178,7 +181,10 @@ def main():
         version_start = TagOps.get_version_start(version)
         version_stop = TagOps.get_version_stop(tags)
 
-        version_range = get_update_range(version, tags, version_start, version_stop)
+        if version_start == version_stop:
+            continue
+
+        version_range = get_update_range(tags, version_start, version_stop)
 
         print('updating', version_range[0].decode('utf-8'), '->', version_range[-1].decode('utf-8'))
 
