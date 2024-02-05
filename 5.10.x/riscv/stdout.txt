@@ -9,9 +9,9 @@
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
@@ -331,8 +331,8 @@
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
-  HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
+  HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
@@ -641,8 +641,8 @@
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
-  HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/posix_acl_xattr.h
+  HDRINST usr/include/linux/fsl_hypervisor.h
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
@@ -870,8 +870,8 @@
   HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
-  HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/hdspm.h
+  HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
   HDRINST usr/include/sound/snd_sst_tokens.h
