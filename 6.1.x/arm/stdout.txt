@@ -650,8 +650,8 @@
   HDRINST usr/include/linux/hash_info.h
   HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h
-  HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/rpmsg_types.h
+  HDRINST usr/include/linux/in6.h
   HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
   HDRINST usr/include/linux/nfsacl.h
@@ -927,9 +927,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/hwcap.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/unistd.h
+  HDRINST usr/include/asm/hwcap.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h

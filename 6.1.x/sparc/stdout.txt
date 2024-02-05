@@ -896,8 +896,8 @@
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
   HDRINST usr/include/sound/sof/fw.h
-  HDRINST usr/include/sound/sof/header.h
   HDRINST usr/include/sound/hdsp.h
+  HDRINST usr/include/sound/sof/header.h
   HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/compress_offload.h
   HDRINST usr/include/sound/firewire.h
