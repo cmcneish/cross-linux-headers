@@ -85,8 +85,8 @@
   HDRINST usr/include/drm/i810_drm.h
   HDRINST usr/include/drm/via_drm.h
   HDRINST usr/include/drm/tegra_drm.h
-  HDRINST usr/include/drm/vmwgfx_drm.h
   HDRINST usr/include/drm/savage_drm.h
+  HDRINST usr/include/drm/vmwgfx_drm.h
   HDRINST usr/include/linux/dlm_plock.h
   HDRINST usr/include/linux/gpio.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
