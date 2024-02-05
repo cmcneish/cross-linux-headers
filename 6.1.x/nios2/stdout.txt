@@ -599,8 +599,8 @@
   HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h
   HDRINST usr/include/linux/kcmp.h
-  HDRINST usr/include/linux/seg6.h
   HDRINST usr/include/linux/ppp-ioctl.h
+  HDRINST usr/include/linux/seg6.h
   HDRINST usr/include/linux/map_to_14segment.h
   HDRINST usr/include/linux/udf_fs_i.h
   HDRINST usr/include/linux/atmioc.h
