@@ -314,8 +314,8 @@
   HDRINST usr/include/linux/netfilter/xt_connmark.h
   HDRINST usr/include/linux/netfilter/xt_time.h
   HDRINST usr/include/linux/netfilter/xt_devgroup.h
-  HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_socket.h
+  HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
   HDRINST usr/include/linux/netfilter/xt_ecn.h
@@ -469,8 +469,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
@@ -774,8 +774,8 @@
   HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
-  HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
+  HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
