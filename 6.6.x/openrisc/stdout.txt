@@ -3,9 +3,9 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/openrisc/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/openrisc/include/generated/uapi/asm/bpf_perf_event.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/errno.h
   WRAP    arch/openrisc/include/generated/uapi/asm/fcntl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ioctl.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ipcbuf.h
@@ -104,8 +104,8 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ah.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6_tables.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_NPT.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
   HDRINST usr/include/linux/watch_queue.h
   HDRINST usr/include/linux/signal.h
@@ -579,8 +579,8 @@
   HDRINST usr/include/linux/if_eql.h
   HDRINST usr/include/linux/mei.h
   HDRINST usr/include/linux/if_phonet.h
-  HDRINST usr/include/linux/xilinx-v4l2-controls.h
   HDRINST usr/include/linux/rtnetlink.h
+  HDRINST usr/include/linux/xilinx-v4l2-controls.h
   HDRINST usr/include/linux/virtio_vsock.h
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/um_timetravel.h

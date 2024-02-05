@@ -3,14 +3,14 @@
   WRAP    arch/parisc/include/generated/uapi/asm/param.h
   WRAP    arch/parisc/include/generated/uapi/asm/poll.h
   WRAP    arch/parisc/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/parisc/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/parisc/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   HOSTCC  scripts/unifdef

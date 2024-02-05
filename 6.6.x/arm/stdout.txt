@@ -5,10 +5,10 @@
   WRAP    arch/arm/include/generated/uapi/asm/errno.h
   WRAP    arch/arm/include/generated/uapi/asm/ioctl.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
