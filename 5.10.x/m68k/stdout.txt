@@ -16,8 +16,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
@@ -704,8 +704,8 @@
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
-  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nvme_ioctl.h
+  HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
@@ -770,8 +770,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
@@ -834,8 +834,8 @@
   HDRINST usr/include/rdma/i40iw-abi.h
   HDRINST usr/include/rdma/rdma_user_rxe.h
   HDRINST usr/include/rdma/rvt-abi.h
-  HDRINST usr/include/rdma/efa-abi.h
   HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
+  HDRINST usr/include/rdma/efa-abi.h
   HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
