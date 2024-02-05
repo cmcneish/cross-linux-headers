@@ -2,8 +2,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/ucontext.h
   WRAP    arch/nios2/include/generated/uapi/asm/auxvec.h
   WRAP    arch/nios2/include/generated/uapi/asm/bitsperlong.h
-  WRAP    arch/nios2/include/generated/uapi/asm/bpf_perf_event.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/nios2/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/nios2/include/generated/uapi/asm/errno.h
   WRAP    arch/nios2/include/generated/uapi/asm/fcntl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h

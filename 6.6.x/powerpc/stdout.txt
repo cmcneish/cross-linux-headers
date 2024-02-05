@@ -4,11 +4,11 @@
   WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/resource.h
   WRAP    arch/powerpc/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
-  WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_64.h
+  WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
+  SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_64.h
   SYSTBL  arch/powerpc/include/generated/asm/syscall_table_spu.h

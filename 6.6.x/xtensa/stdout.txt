@@ -5,11 +5,11 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/fcntl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/ioctl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
@@ -623,8 +623,8 @@
   HDRINST usr/include/linux/sock_diag.h
   HDRINST usr/include/linux/magic.h
   HDRINST usr/include/linux/netfilter.h
-  HDRINST usr/include/linux/eventpoll.h
   HDRINST usr/include/linux/atm_nicstar.h
+  HDRINST usr/include/linux/eventpoll.h
   HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
