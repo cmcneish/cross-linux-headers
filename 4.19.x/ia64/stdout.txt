@@ -8,8 +8,8 @@
   WRAP    arch/ia64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/shmbuf.h
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (26 files)
   INSTALL include/asm-generic (37 files)
+  INSTALL include/drm (26 files)
   INSTALL include/misc (2 files)
   INSTALL include/linux (496 files)
   INSTALL include/mtd (5 files)
@@ -36,8 +36,8 @@
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
-  INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/netfilter/ipset (4 files)
+  INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
   INSTALL include/linux/sched (1 file)
