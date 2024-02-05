@@ -1,9 +1,9 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/powerpc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/powerpc/include/generated/uapi/asm/param.h
+  WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/resource.h
   WRAP    arch/powerpc/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/powerpc/include/generated/uapi/asm/unistd_32.h
