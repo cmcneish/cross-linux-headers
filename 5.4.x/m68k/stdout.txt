@@ -10,8 +10,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
+  WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
@@ -306,8 +306,8 @@
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_limit.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
   HDRINST usr/include/linux/netfilter/xt_mac.h

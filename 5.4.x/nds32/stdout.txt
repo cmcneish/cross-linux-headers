@@ -185,15 +185,15 @@
   HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
-  HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
+  HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
-  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_connmark.h
+  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
@@ -658,8 +658,8 @@
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
   HDRINST usr/include/linux/vsockmon.h
-  HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/mpls_iptunnel.h
+  HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/b1lli.h
   HDRINST usr/include/linux/sonypi.h
   HDRINST usr/include/linux/cciss_ioctl.h
