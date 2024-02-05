@@ -390,8 +390,8 @@
   HDRINST usr/include/linux/if_bonding.h
   HDRINST usr/include/linux/bpf.h
   HDRINST usr/include/linux/mempolicy.h
-  HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/virtio_gpu.h
+  HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
   HDRINST usr/include/linux/usbip.h
   HDRINST usr/include/linux/nl80211.h
@@ -524,8 +524,8 @@
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
@@ -595,8 +595,8 @@
   HDRINST usr/include/linux/msdos_fs.h
   HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
-  HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/fcntl.h
+  HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/filter.h
   HDRINST usr/include/linux/virtio_console.h
   HDRINST usr/include/linux/ivtvfb.h
