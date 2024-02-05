@@ -9,9 +9,9 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
@@ -518,9 +518,9 @@
   HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
-  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
+  HDRINST usr/include/linux/memfd.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
   HDRINST usr/include/linux/nfsd/debug.h

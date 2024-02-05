@@ -331,8 +331,8 @@
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
-  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_cpu.h
+  HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
@@ -641,8 +641,8 @@
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
-  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/fsl_hypervisor.h
+  HDRINST usr/include/linux/posix_acl_xattr.h
   HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h

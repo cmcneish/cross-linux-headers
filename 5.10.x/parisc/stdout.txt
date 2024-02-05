@@ -259,8 +259,8 @@
   HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
-  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/fou.h
+  HDRINST usr/include/linux/if_frad.h
   HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/gameport.h
   HDRINST usr/include/linux/udp.h
@@ -595,9 +595,9 @@
   HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
   HDRINST usr/include/linux/usb/cdc-wdm.h
+  HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/sunrpc/debug.h
   HDRINST usr/include/linux/sock_diag.h
-  HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/magic.h
   HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/atm_nicstar.h
