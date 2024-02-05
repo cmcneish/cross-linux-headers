@@ -13,14 +13,14 @@
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
-  WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
@@ -304,8 +304,8 @@
   HDRINST usr/include/linux/netfilter/xt_helper.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_policy.h
-  HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/xt_LOG.h
+  HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
