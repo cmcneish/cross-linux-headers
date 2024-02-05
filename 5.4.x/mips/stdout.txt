@@ -74,8 +74,8 @@
   HDRINST usr/include/drm/r128_drm.h
   HDRINST usr/include/drm/qxl_drm.h
   HDRINST usr/include/drm/omap_drm.h
-  HDRINST usr/include/drm/panfrost_drm.h
   HDRINST usr/include/drm/sis_drm.h
+  HDRINST usr/include/drm/panfrost_drm.h
   HDRINST usr/include/drm/mga_drm.h
   HDRINST usr/include/drm/i810_drm.h
   HDRINST usr/include/drm/via_drm.h
@@ -299,8 +299,8 @@
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
-  HDRINST usr/include/linux/netfilter/xt_quota.h
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
+  HDRINST usr/include/linux/netfilter/xt_quota.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h

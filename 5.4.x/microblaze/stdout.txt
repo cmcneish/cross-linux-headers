@@ -10,19 +10,19 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
@@ -331,8 +331,8 @@
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
   HDRINST usr/include/linux/netfilter/xt_connlimit.h
-  HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_TCPOPTSTRIP.h
+  HDRINST usr/include/linux/netfilter/xt_cpu.h
   HDRINST usr/include/linux/netfilter/xt_rpfilter.h
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h

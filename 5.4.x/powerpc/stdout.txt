@@ -324,8 +324,8 @@
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
@@ -724,8 +724,8 @@
   HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
-  HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
+  HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/rtc.h

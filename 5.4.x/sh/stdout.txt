@@ -16,8 +16,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
@@ -707,8 +707,8 @@
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
-  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/pci_regs.h
+  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
