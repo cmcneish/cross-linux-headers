@@ -10,14 +10,14 @@
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -561,9 +561,9 @@
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/kvm.h
+  HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
-  HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/sctp.h
   HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
