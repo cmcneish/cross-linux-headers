@@ -4,17 +4,17 @@
   WRAP    arch/ia64/include/generated/uapi/asm/ioctl.h
   WRAP    arch/ia64/include/generated/uapi/asm/ioctls.h
   WRAP    arch/ia64/include/generated/uapi/asm/ipcbuf.h
+  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/ia64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/ia64/include/generated/uapi/asm/sembuf.h
-  SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/ia64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/ia64/include/generated/uapi/asm/socket.h
-  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   WRAP    arch/ia64/include/generated/uapi/asm/sockios.h
+  SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   WRAP    arch/ia64/include/generated/uapi/asm/termbits.h
   WRAP    arch/ia64/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -495,8 +495,8 @@
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/dw100.h
-  HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/perf_event.h
+  HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h

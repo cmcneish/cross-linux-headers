@@ -4,8 +4,8 @@
   WRAP    arch/sparc/include/generated/uapi/asm/statfs.h
   WRAP    arch/sparc/include/generated/uapi/asm/types.h
   SYSHDR  arch/sparc/include/generated/uapi/asm/unistd_32.h
-  SYSHDR  arch/sparc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/sparc/include/generated/uapi/asm/unistd_64.h
   SYSTBL  arch/sparc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/sparc/include/generated/asm/syscall_table_64.h
   HOSTCC  scripts/unifdef
@@ -219,8 +219,8 @@
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
-  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
+  HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
@@ -918,8 +918,8 @@
   HDRINST usr/include/xen/privcmd.h
   HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntdev.h
-  HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
+  HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/poll.h
