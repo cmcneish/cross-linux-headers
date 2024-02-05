@@ -2,9 +2,9 @@
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/basic/fixdep
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
+  INSTALL include/drm (25 files)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
@@ -12,11 +12,11 @@
   INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
-  INSTALL include/linux/android (1 file)
   INSTALL include/video (3 files)
+  INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
-  INSTALL include/xen (4 files)
   INSTALL include/linux/caif (2 files)
+  INSTALL include/xen (4 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
   INSTALL include/linux/dvb (8 files)
@@ -30,7 +30,6 @@
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
@@ -41,4 +40,5 @@
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/asm (32 files)
