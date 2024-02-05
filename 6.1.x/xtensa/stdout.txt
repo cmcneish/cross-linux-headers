@@ -697,8 +697,8 @@
   HDRINST usr/include/linux/igmp.h
   HDRINST usr/include/linux/atmarp.h
   HDRINST usr/include/linux/coresight-stm.h
-  HDRINST usr/include/linux/dm-ioctl.h
   HDRINST usr/include/linux/if_team.h
+  HDRINST usr/include/linux/dm-ioctl.h
   HDRINST usr/include/linux/mroute6.h
   HDRINST usr/include/linux/rose.h
   HDRINST usr/include/linux/pkt_sched.h

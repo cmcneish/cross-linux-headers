@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
-  HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
+  HDRINST usr/include/linux/binfmts.h
   HDRINST usr/include/linux/virtio_gpio.h
   HDRINST usr/include/linux/dvb/osd.h
   HDRINST usr/include/linux/dvb/video.h
@@ -800,8 +800,8 @@
   HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
-  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
+  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
