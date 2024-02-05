@@ -13,10 +13,10 @@
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/resource.h
   WRAP    arch/csky/include/generated/uapi/asm/sembuf.h
   WRAP    arch/csky/include/generated/uapi/asm/setup.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/siginfo.h
   WRAP    arch/csky/include/generated/uapi/asm/signal.h
