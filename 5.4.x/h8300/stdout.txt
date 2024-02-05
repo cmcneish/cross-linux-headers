@@ -456,8 +456,8 @@
   HDRINST usr/include/linux/if_vlan.h
   HDRINST usr/include/linux/string.h
   HDRINST usr/include/linux/if_tunnel.h
-  HDRINST usr/include/linux/userfaultfd.h
   HDRINST usr/include/linux/neighbour.h
+  HDRINST usr/include/linux/userfaultfd.h
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
