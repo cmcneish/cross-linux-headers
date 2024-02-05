@@ -8,8 +8,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
   WRAP    arch/nios2/include/generated/uapi/asm/poll.h
