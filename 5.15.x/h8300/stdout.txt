@@ -246,8 +246,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
@@ -457,8 +457,8 @@
   HDRINST usr/include/linux/toshiba.h
   HDRINST usr/include/linux/android/binder.h
   HDRINST usr/include/linux/android/binderfs.h
-  HDRINST usr/include/linux/btrfs.h
   HDRINST usr/include/linux/isst_if.h
+  HDRINST usr/include/linux/btrfs.h
   HDRINST usr/include/linux/openvswitch.h
   HDRINST usr/include/linux/tc_ematch/tc_em_text.h
   HDRINST usr/include/linux/tc_ematch/tc_em_ipt.h
@@ -474,8 +474,8 @@
   HDRINST usr/include/linux/userfaultfd.h
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
-  HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/bpqether.h
+  HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
