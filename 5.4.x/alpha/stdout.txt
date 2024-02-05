@@ -414,8 +414,8 @@
   HDRINST usr/include/linux/vtpm_proxy.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mmc/ioctl.h
-  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
+  HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
   HDRINST usr/include/linux/apm_bios.h
