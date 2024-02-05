@@ -9,18 +9,18 @@
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -434,8 +434,8 @@
   HDRINST usr/include/linux/apm_bios.h
   HDRINST usr/include/linux/resource.h
   HDRINST usr/include/linux/kexec.h
-  HDRINST usr/include/linux/hdlcdrv.h
   HDRINST usr/include/linux/toshiba.h
+  HDRINST usr/include/linux/hdlcdrv.h
   HDRINST usr/include/linux/android/binder.h
   HDRINST usr/include/linux/android/binderfs.h
   HDRINST usr/include/linux/isst_if.h
@@ -826,8 +826,8 @@
   HDRINST usr/include/rdma/rdma_user_ioctl.h
   HDRINST usr/include/rdma/mlx5_user_ioctl_cmds.h
   HDRINST usr/include/rdma/ib_user_verbs.h
-  HDRINST usr/include/rdma/bnxt_re-abi.h
   HDRINST usr/include/rdma/mthca-abi.h
+  HDRINST usr/include/rdma/bnxt_re-abi.h
   HDRINST usr/include/rdma/rdma_user_cm.h
   HDRINST usr/include/rdma/cxgb3-abi.h
   HDRINST usr/include/rdma/mlx5-abi.h

@@ -247,8 +247,8 @@
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
   HDRINST usr/include/linux/ncsi.h
-  HDRINST usr/include/linux/swab.h
   HDRINST usr/include/linux/cdrom.h
+  HDRINST usr/include/linux/swab.h
   HDRINST usr/include/linux/posix_types.h
   HDRINST usr/include/linux/dlm.h
   HDRINST usr/include/linux/if_bridge.h
@@ -880,8 +880,8 @@
   HDRINST usr/include/asm/virtio-ccw.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ipcbuf.h
-  HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/perf_regs.h
+  HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/chpid.h
   HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/bpf_perf_event.h

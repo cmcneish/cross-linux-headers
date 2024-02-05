@@ -12,8 +12,8 @@
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
-  WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
+  WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
@@ -858,8 +858,8 @@
   HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
-  HDRINST usr/include/sound/snd_sst_tokens.h
   HDRINST usr/include/sound/emu10k1.h
+  HDRINST usr/include/sound/snd_sst_tokens.h
   HDRINST usr/include/sound/asoc.h
   HDRINST usr/include/sound/sof/tokens.h
   HDRINST usr/include/sound/sof/abi.h
