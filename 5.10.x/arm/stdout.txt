@@ -12,12 +12,12 @@
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -699,8 +699,8 @@
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
   HDRINST usr/include/linux/nfs3.h
-  HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
+  HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
