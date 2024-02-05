@@ -911,8 +911,8 @@
   HDRINST usr/include/sound/compress_offload.h
   HDRINST usr/include/sound/firewire.h
   HDRINST usr/include/sound/asequencer.h
-  HDRINST usr/include/sound/tlv.h
   HDRINST usr/include/sound/sb16_csp.h
+  HDRINST usr/include/sound/tlv.h
   HDRINST usr/include/video/edid.h
   HDRINST usr/include/video/uvesafb.h
   HDRINST usr/include/video/sisfb.h

@@ -8,8 +8,8 @@
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h

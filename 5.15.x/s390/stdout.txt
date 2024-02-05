@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -708,8 +708,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h

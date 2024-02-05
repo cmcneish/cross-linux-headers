@@ -927,8 +927,8 @@
   HDRINST usr/include/asm/setup.h
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/stat.h
-  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/statfs.h
+  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termios.h
