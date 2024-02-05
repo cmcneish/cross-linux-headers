@@ -4,15 +4,15 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/hexagon/include/generated/uapi/asm/errno.h
   WRAP    arch/hexagon/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ioctl.h
+  WRAP    arch/hexagon/include/generated/uapi/asm/ioctls.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/mman.h
   WRAP    arch/hexagon/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/poll.h
   WRAP    arch/hexagon/include/generated/uapi/asm/posix_types.h
-  WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/sembuf.h
+  WRAP    arch/hexagon/include/generated/uapi/asm/resource.h
   WRAP    arch/hexagon/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/hexagon/include/generated/uapi/asm/shmparam.h
   WRAP    arch/hexagon/include/generated/uapi/asm/siginfo.h
@@ -25,9 +25,9 @@
   WRAP    arch/hexagon/include/generated/uapi/asm/types.h
   WRAP    arch/hexagon/include/generated/uapi/asm/ucontext.h
   HOSTCC  scripts/unifdef
+  INSTALL include/drm (26 files)
   INSTALL include/asm-generic (37 files)
   INSTALL include/misc (2 files)
-  INSTALL include/drm (26 files)
   INSTALL include/linux (497 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (25 files)
@@ -53,6 +53,7 @@
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_ipv6 (13 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
@@ -60,7 +61,6 @@
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/tc_ematch (5 files)
   INSTALL include/linux/usb (13 files)
   INSTALL include/linux/wimax (1 file)
