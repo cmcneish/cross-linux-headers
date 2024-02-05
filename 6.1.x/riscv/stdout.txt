@@ -935,9 +935,9 @@
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/perf_regs.h
+  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/kvm.h
-  HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h

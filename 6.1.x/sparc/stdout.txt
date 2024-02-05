@@ -175,8 +175,8 @@
   HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/ioam6.h
-  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
+  HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
   HDRINST usr/include/linux/tc_act/tc_gact.h
@@ -296,8 +296,8 @@
   HDRINST usr/include/linux/netfilter/xt_u32.h
   HDRINST usr/include/linux/netfilter/xt_conntrack.h
   HDRINST usr/include/linux/netfilter/xt_helper.h
-  HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_policy.h
+  HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_LOG.h
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
