@@ -12,14 +12,14 @@
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
-  WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
+  WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -173,8 +173,8 @@
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
   HDRINST usr/include/linux/kernel.h
-  HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/hdlc/ioctl.h
+  HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
