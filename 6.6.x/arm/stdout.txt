@@ -5,15 +5,15 @@
   WRAP    arch/arm/include/generated/uapi/asm/errno.h
   WRAP    arch/arm/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arm/include/generated/uapi/asm/ipcbuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/param.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
@@ -550,8 +550,8 @@
   HDRINST usr/include/linux/nfs_idmap.h
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
-  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/qrtr.h
+  HDRINST usr/include/linux/xfrm.h
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/virtio_bt.h
   HDRINST usr/include/linux/map_to_7segment.h
@@ -918,8 +918,8 @@
   HDRINST usr/include/sound/hdsp.h
   HDRINST usr/include/sound/asound.h
   HDRINST usr/include/sound/compress_offload.h
-  HDRINST usr/include/sound/firewire.h
   HDRINST usr/include/sound/asequencer.h
+  HDRINST usr/include/sound/firewire.h
   HDRINST usr/include/sound/intel/avs/tokens.h
   HDRINST usr/include/sound/tlv.h
   HDRINST usr/include/sound/sb16_csp.h

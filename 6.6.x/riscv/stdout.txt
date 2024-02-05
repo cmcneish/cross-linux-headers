@@ -3,9 +3,9 @@
   WRAP    arch/riscv/include/generated/uapi/asm/fcntl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctls.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
@@ -229,9 +229,9 @@
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/aspeed-video.h
   HDRINST usr/include/linux/tiocl.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/reiserfs_fs.h
@@ -333,8 +333,8 @@
   HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
-  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
+  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
@@ -345,8 +345,8 @@
   HDRINST usr/include/linux/netfilter/xt_cluster.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_common.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
@@ -503,8 +503,8 @@
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/dw100.h
-  HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/perf_event.h
+  HDRINST usr/include/linux/reiserfs_xattr.h
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h

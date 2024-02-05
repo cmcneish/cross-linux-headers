@@ -4,22 +4,22 @@
   WRAP    arch/m68k/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ioctl.h
-  WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/mman.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -599,9 +599,9 @@
   HDRINST usr/include/linux/atmioc.h
   HDRINST usr/include/linux/if_x25.h
   HDRINST usr/include/linux/nfs_mount.h
-  HDRINST usr/include/linux/psp-dbc.h
   HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/openat2.h
+  HDRINST usr/include/linux/psp-dbc.h
   HDRINST usr/include/linux/rio_mport_cdev.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
   HDRINST usr/include/linux/wireguard.h
@@ -843,8 +843,8 @@
   HDRINST usr/include/linux/atmdev.h
   HDRINST usr/include/linux/v4l2-mediabus.h
   HDRINST usr/include/linux/xdp_diag.h
-  HDRINST usr/include/linux/virtio_i2c.h
   HDRINST usr/include/linux/bpfilter.h
+  HDRINST usr/include/linux/virtio_i2c.h
   HDRINST usr/include/linux/if_pppol2tp.h
   HDRINST usr/include/linux/quota.h
   HDRINST usr/include/linux/personality.h
