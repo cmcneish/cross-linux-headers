@@ -275,8 +275,8 @@
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/ppp-comp.h
-  HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
+  HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
   HDRINST usr/include/linux/netfilter/xt_nfacct.h
@@ -871,8 +871,8 @@
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/opal-prd.h
-  HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/unistd.h
+  HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/nvram.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/cputable.h
