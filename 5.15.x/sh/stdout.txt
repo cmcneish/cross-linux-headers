@@ -14,13 +14,13 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
@@ -247,12 +247,12 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
@@ -314,8 +314,8 @@
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
-  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
+  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
@@ -364,8 +364,8 @@
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
-  HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
+  HDRINST usr/include/linux/netfilter/xt_set.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
   HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
@@ -795,8 +795,8 @@
   HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
-  HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/mtio.h
+  HDRINST usr/include/linux/hid.h
   HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h

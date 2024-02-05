@@ -3,10 +3,13 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/microblaze/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/microblaze/include/generated/uapi/asm/errno.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/fcntl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ioctl.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ioctls.h
   WRAP    arch/microblaze/include/generated/uapi/asm/ipcbuf.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
@@ -14,17 +17,14 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -480,8 +480,8 @@
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
-  HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/nitro_enclaves.h
+  HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/fanotify.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
@@ -933,8 +933,8 @@
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
-  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/ipcbuf.h
+  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/mman.h
