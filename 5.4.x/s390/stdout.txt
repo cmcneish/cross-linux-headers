@@ -13,8 +13,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
@@ -513,8 +513,8 @@
   HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
   HDRINST usr/include/linux/uleds.h
-  HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/if_macsec.h
+  HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/hysdn_if.h
   HDRINST usr/include/linux/vm_sockets.h
