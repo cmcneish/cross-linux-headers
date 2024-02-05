@@ -554,8 +554,8 @@
   HDRINST usr/include/linux/i2c.h
   HDRINST usr/include/linux/ioctl.h
   HDRINST usr/include/linux/vhost_types.h
-  HDRINST usr/include/linux/gtp.h
   HDRINST usr/include/linux/fpga-dfl.h
+  HDRINST usr/include/linux/gtp.h
   HDRINST usr/include/linux/rxrpc.h
   HDRINST usr/include/linux/virtio_pci.h
   HDRINST usr/include/linux/v4l2-common.h
@@ -794,8 +794,8 @@
   HDRINST usr/include/linux/atmmpc.h
   HDRINST usr/include/linux/soundcard.h
   HDRINST usr/include/linux/taskstats.h
-  HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h
+  HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/iommu.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
@@ -860,8 +860,8 @@
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
-  HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
+  HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
   HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h
