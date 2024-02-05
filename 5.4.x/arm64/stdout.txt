@@ -10,8 +10,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
@@ -412,8 +412,8 @@
   HDRINST usr/include/linux/ultrasound.h
   HDRINST usr/include/linux/mman.h
   HDRINST usr/include/linux/v4l2-controls.h
-  HDRINST usr/include/linux/snmp.h
   HDRINST usr/include/linux/atmbr2684.h
+  HDRINST usr/include/linux/snmp.h
   HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/batadv_packet.h
   HDRINST usr/include/linux/atm_eni.h
@@ -629,8 +629,8 @@
   HDRINST usr/include/linux/qemu_fw_cfg.h
   HDRINST usr/include/linux/ipx.h
   HDRINST usr/include/linux/fsl_hypervisor.h
-  HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/posix_acl_xattr.h
+  HDRINST usr/include/linux/atmclip.h
   HDRINST usr/include/linux/nfs2.h
   HDRINST usr/include/linux/connector.h
   HDRINST usr/include/linux/timex.h
