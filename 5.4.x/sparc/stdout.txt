@@ -205,8 +205,8 @@
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/gigaset_dev.h
   HDRINST usr/include/linux/aio_abi.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/netlink.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
@@ -218,8 +218,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -320,8 +320,8 @@
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
-  HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_l2tp.h
+  HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
@@ -375,8 +375,8 @@
   HDRINST usr/include/linux/fiemap.h
   HDRINST usr/include/linux/nfs4_mount.h
   HDRINST usr/include/linux/random.h
-  HDRINST usr/include/linux/v4l2-dv-timings.h
   HDRINST usr/include/linux/sync_file.h
+  HDRINST usr/include/linux/v4l2-dv-timings.h
   HDRINST usr/include/linux/nbd-netlink.h
   HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/kcov.h
