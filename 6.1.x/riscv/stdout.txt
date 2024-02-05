@@ -12,8 +12,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
-  WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
@@ -864,8 +864,8 @@
   HDRINST usr/include/mtd/mtd-user.h
   HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/rdma/ib_user_ioctl_verbs.h
-  HDRINST usr/include/rdma/rdma_user_rxe.h
   HDRINST usr/include/rdma/mlx4-abi.h
+  HDRINST usr/include/rdma/rdma_user_rxe.h
   HDRINST usr/include/rdma/rvt-abi.h
   HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
   HDRINST usr/include/rdma/efa-abi.h

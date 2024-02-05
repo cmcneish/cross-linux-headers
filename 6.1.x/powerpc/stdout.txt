@@ -1,8 +1,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/powerpc/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/powerpc/include/generated/uapi/asm/param.h
   WRAP    arch/powerpc/include/generated/uapi/asm/poll.h
   WRAP    arch/powerpc/include/generated/uapi/asm/resource.h
+  WRAP    arch/powerpc/include/generated/uapi/asm/param.h
   WRAP    arch/powerpc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/powerpc/include/generated/uapi/asm/sockios.h
   WRAP    arch/powerpc/include/generated/uapi/asm/statfs.h
@@ -487,8 +487,8 @@
   HDRINST usr/include/linux/un.h
   HDRINST usr/include/linux/nfs_fs.h
   HDRINST usr/include/linux/vt.h
-  HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/atalk.h
+  HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/sev-guest.h
   HDRINST usr/include/linux/ndctl.h
   HDRINST usr/include/linux/virtio_9p.h
