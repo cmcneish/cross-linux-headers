@@ -146,8 +146,8 @@
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
-  HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
+  HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/big_endian.h
   HDRINST usr/include/linux/ethtool.h
   HDRINST usr/include/linux/atmsvc.h
@@ -538,8 +538,8 @@
   HDRINST usr/include/linux/seg6_local.h
   HDRINST usr/include/linux/atm_idt77105.h
   HDRINST usr/include/linux/qrtr.h
-  HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/xfrm.h
+  HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
   HDRINST usr/include/linux/genetlink.h
@@ -729,8 +729,8 @@
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
   HDRINST usr/include/linux/atmapi.h
-  HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h
+  HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
