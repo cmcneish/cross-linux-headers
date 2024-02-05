@@ -918,9 +918,9 @@
   HDRINST usr/include/asm/hwcap.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/unistd.h
-  HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/swab.h
+  HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/types.h

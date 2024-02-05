@@ -11,9 +11,9 @@
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
@@ -723,8 +723,8 @@
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
-  HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h
+  HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h
@@ -755,8 +755,8 @@
   HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
-  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
+  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/vduse.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
