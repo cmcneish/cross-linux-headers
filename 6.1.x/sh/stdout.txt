@@ -11,16 +11,16 @@
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
@@ -586,8 +586,8 @@
   HDRINST usr/include/linux/kfd_sysfs.h
   HDRINST usr/include/linux/coda.h
   HDRINST usr/include/linux/tcp_metrics.h
-  HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/securebits.h
+  HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
