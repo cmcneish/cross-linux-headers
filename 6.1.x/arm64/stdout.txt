@@ -241,8 +241,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -795,8 +795,8 @@
   HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
   HDRINST usr/include/linux/stat.h
-  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
+  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
   HDRINST usr/include/linux/bpf_common.h
