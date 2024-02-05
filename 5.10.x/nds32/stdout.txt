@@ -9,9 +9,9 @@
   WRAP    arch/nds32/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/mman.h
   WRAP    arch/nds32/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/poll.h
   WRAP    arch/nds32/include/generated/uapi/asm/posix_types.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/resource.h
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
@@ -284,8 +284,8 @@
   HDRINST usr/include/linux/errqueue.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
-  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
+  HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
@@ -439,8 +439,8 @@
   HDRINST usr/include/linux/mmc/ioctl.h
   HDRINST usr/include/linux/iio/types.h
   HDRINST usr/include/linux/iio/events.h
-  HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/dcbnl.h
+  HDRINST usr/include/linux/types.h
   HDRINST usr/include/linux/apm_bios.h
   HDRINST usr/include/linux/resource.h
   HDRINST usr/include/linux/kexec.h
