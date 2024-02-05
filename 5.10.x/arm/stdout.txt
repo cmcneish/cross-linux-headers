@@ -16,8 +16,8 @@
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -240,8 +240,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
@@ -468,16 +468,16 @@
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/nitro_enclaves.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/fanotify.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ah.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ECN.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_TTL.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h

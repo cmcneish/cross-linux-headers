@@ -9,11 +9,11 @@
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/resource.h
   WRAP    arch/csky/include/generated/uapi/asm/sembuf.h
   WRAP    arch/csky/include/generated/uapi/asm/setup.h
@@ -189,8 +189,8 @@
   HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
   HDRINST usr/include/linux/zorro.h
-  HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
+  HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
   HDRINST usr/include/linux/tc_act/tc_gate.h
   HDRINST usr/include/linux/tc_act/tc_ife.h
@@ -371,8 +371,8 @@
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
-  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_multiport.h
+  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_recent.h
   HDRINST usr/include/linux/netfilter/xt_dccp.h
   HDRINST usr/include/linux/netfilter/xt_osf.h
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
-  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/rfkill.h
+  HDRINST usr/include/linux/dlmconstants.h
   HDRINST usr/include/linux/nfs.h
   HDRINST usr/include/linux/netrom.h
   HDRINST usr/include/linux/bcache.h
@@ -906,8 +906,8 @@
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/ptrace.h
-  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
+  HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sembuf.h
