@@ -15,8 +15,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
-  WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
   WRAP    arch/h8300/include/generated/uapi/asm/socket.h
   WRAP    arch/h8300/include/generated/uapi/asm/sockios.h

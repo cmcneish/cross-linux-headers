@@ -239,8 +239,8 @@
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
@@ -390,8 +390,8 @@
   HDRINST usr/include/linux/netfilter/xt_connlabel.h
   HDRINST usr/include/linux/netfilter/nf_log.h
   HDRINST usr/include/linux/netfilter/xt_LED.h
-  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/uio.h
+  HDRINST usr/include/linux/dlm_netlink.h
   HDRINST usr/include/linux/kfd_ioctl.h
   HDRINST usr/include/linux/fd.h
   HDRINST usr/include/linux/auto_dev-ioctl.h
@@ -806,8 +806,8 @@
   HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
   HDRINST usr/include/linux/hiddev.h
-  HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
+  HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/ethtool_netlink.h
   HDRINST usr/include/linux/vfio.h
   HDRINST usr/include/linux/misc/bcm_vk.h
