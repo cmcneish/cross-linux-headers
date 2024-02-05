@@ -815,8 +815,8 @@
   HDRINST usr/include/linux/net.h
   HDRINST usr/include/linux/cyclades.h
   HDRINST usr/include/linux/time.h
-  HDRINST usr/include/linux/virtio_ring.h
   HDRINST usr/include/linux/fuse.h
+  HDRINST usr/include/linux/virtio_ring.h
   HDRINST usr/include/linux/atmdev.h
   HDRINST usr/include/linux/v4l2-mediabus.h
   HDRINST usr/include/linux/xdp_diag.h

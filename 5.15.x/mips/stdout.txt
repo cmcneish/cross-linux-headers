@@ -918,8 +918,8 @@
   HDRINST usr/include/asm/hwcap.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/sgidefs.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/reg.h
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/sembuf.h
