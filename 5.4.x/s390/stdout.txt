@@ -12,9 +12,9 @@
   WRAP    arch/s390/include/generated/uapi/asm/siginfo.h
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
@@ -585,8 +585,8 @@
   HDRINST usr/include/linux/usb/ch9.h
   HDRINST usr/include/linux/usb/ch11.h
   HDRINST usr/include/linux/usb/charger.h
-  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/g_printer.h
+  HDRINST usr/include/linux/usb/functionfs.h
   HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
