@@ -124,8 +124,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/atm_tcp.h
+  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -274,8 +274,8 @@
   HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
-  HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/sched/types.h
+  HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
@@ -310,8 +310,8 @@
   HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
-  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
+  HDRINST usr/include/linux/netfilter/xt_ecn.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
