@@ -881,16 +881,16 @@
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
-  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/display7seg.h
+  HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/psrcompat.h
   HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/uctx.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/fcntl.h
-  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/watchdog.h
+  HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/openpromio.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/apc.h
