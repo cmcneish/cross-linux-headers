@@ -129,8 +129,8 @@
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
-  HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
+  HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/byteorder/little_endian.h
   HDRINST usr/include/linux/byteorder/big_endian.h
   HDRINST usr/include/linux/ethtool.h
@@ -213,9 +213,9 @@
   HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
-  HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/reiserfs_fs.h
   HDRINST usr/include/linux/i8k.h
+  HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
