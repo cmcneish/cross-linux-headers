@@ -7,8 +7,8 @@
   HOSTCC  arch/mips/boot/tools/relocs_main.o
   HOSTLD  arch/mips/boot/tools/relocs
   HOSTCC  scripts/unifdef
-  INSTALL include/drm (26 files)
   INSTALL include/asm-generic (37 files)
+  INSTALL include/drm (26 files)
   INSTALL include/misc (2 files)
   INSTALL include/linux (498 files)
   INSTALL include/mtd (5 files)
@@ -42,8 +42,8 @@
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/tc_ematch (5 files)
   INSTALL include/linux/usb (13 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (42 files)
