@@ -223,8 +223,8 @@
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/reiserfs_fs.h
-  HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/i8k.h
+  HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
@@ -233,8 +233,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
