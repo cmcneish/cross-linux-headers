@@ -10,13 +10,13 @@
   WRAP    arch/arm/include/generated/uapi/asm/poll.h
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
@@ -820,8 +820,8 @@
   HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
   HDRINST usr/include/rdma/efa-abi.h
   HDRINST usr/include/rdma/ib_user_sa.h
-  HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
   HDRINST usr/include/rdma/ocrdma-abi.h
+  HDRINST usr/include/rdma/mlx5_user_ioctl_verbs.h
   HDRINST usr/include/rdma/siw-abi.h
   HDRINST usr/include/rdma/rdma_netlink.h
   HDRINST usr/include/rdma/rdma_user_ioctl.h
