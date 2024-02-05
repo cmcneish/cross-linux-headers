@@ -715,9 +715,9 @@
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
+  HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
   HDRINST usr/include/linux/rio_cm_cdev.h
-  HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
@@ -780,8 +780,8 @@
   HDRINST usr/include/linux/taskstats.h
   HDRINST usr/include/linux/uuid.h
   HDRINST usr/include/linux/target_core_user.h
-  HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/iommu.h
+  HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h
   HDRINST usr/include/linux/if_cablemodem.h
