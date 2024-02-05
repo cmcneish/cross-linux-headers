@@ -128,8 +128,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/atm_tcp.h
+  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
@@ -244,8 +244,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
-  HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
+  HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
@@ -923,8 +923,8 @@
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/termbits.h
-  HDRINST usr/include/asm/perf_event.h
   HDRINST usr/include/asm/termios.h
+  HDRINST usr/include/asm/perf_event.h
   HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/epapr_hcalls.h
   HDRINST usr/include/asm/tm.h

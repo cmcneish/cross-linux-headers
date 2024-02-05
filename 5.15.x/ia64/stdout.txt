@@ -245,8 +245,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
-  HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
+  HDRINST usr/include/linux/dma-heap.h
   HDRINST usr/include/linux/sound.h
   HDRINST usr/include/linux/if_plip.h
   HDRINST usr/include/linux/inet_diag.h
@@ -392,8 +392,8 @@
   HDRINST usr/include/linux/random.h
   HDRINST usr/include/linux/sync_file.h
   HDRINST usr/include/linux/v4l2-dv-timings.h
-  HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/nbd-netlink.h
+  HDRINST usr/include/linux/io_uring.h
   HDRINST usr/include/linux/kcov.h
   HDRINST usr/include/linux/in.h
   HDRINST usr/include/linux/ipmi_msgdefs.h
@@ -726,9 +726,9 @@
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
+  HDRINST usr/include/linux/pci_regs.h
   HDRINST usr/include/linux/virtio_scmi.h
   HDRINST usr/include/linux/serial_core.h
-  HDRINST usr/include/linux/pci_regs.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h

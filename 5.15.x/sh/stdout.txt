@@ -275,8 +275,8 @@
   HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
-  HDRINST usr/include/linux/fou.h
   HDRINST usr/include/linux/minix_fs.h
+  HDRINST usr/include/linux/fou.h
   HDRINST usr/include/linux/gameport.h
   HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/sed-opal.h

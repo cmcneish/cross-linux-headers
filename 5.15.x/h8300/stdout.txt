@@ -14,8 +14,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/h8300/include/generated/uapi/asm/setup.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
   WRAP    arch/h8300/include/generated/uapi/asm/socket.h
@@ -199,8 +199,8 @@
   HDRINST usr/include/linux/tc_act/tc_skbmod.h
   HDRINST usr/include/linux/tc_act/tc_csum.h
   HDRINST usr/include/linux/tc_act/tc_connmark.h
-  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_mpls.h
+  HDRINST usr/include/linux/tc_act/tc_sample.h
   HDRINST usr/include/linux/tc_act/tc_bpf.h
   HDRINST usr/include/linux/tc_act/tc_pedit.h
   HDRINST usr/include/linux/tc_act/tc_nat.h
@@ -246,8 +246,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
@@ -474,8 +474,8 @@
   HDRINST usr/include/linux/userfaultfd.h
   HDRINST usr/include/linux/meye.h
   HDRINST usr/include/linux/virtio_ids.h
-  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/tipc_netlink.h
+  HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
