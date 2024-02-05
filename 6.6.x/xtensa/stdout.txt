@@ -5,11 +5,11 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/fcntl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/ioctl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
-  WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
   SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
@@ -231,8 +231,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
