@@ -269,8 +269,8 @@
   HDRINST usr/include/linux/mqueue.h
   HDRINST usr/include/linux/major.h
   HDRINST usr/include/linux/virtio_types.h
-  HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/route.h
+  HDRINST usr/include/linux/aspeed-p2a-ctrl.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
   HDRINST usr/include/linux/if_frad.h
@@ -520,8 +520,8 @@
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h
-  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/cld.h
+  HDRINST usr/include/linux/tee.h
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
   HDRINST usr/include/linux/nfsd/debug.h

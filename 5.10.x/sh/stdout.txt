@@ -11,8 +11,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   UPD     include/generated/uapi/linux/version.h
@@ -20,8 +20,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h

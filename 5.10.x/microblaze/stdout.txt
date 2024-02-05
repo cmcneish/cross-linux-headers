@@ -10,18 +10,18 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/mman.h
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
@@ -899,8 +899,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/unistd.h
-  HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/posix_types.h
+  HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/auxvec.h
