@@ -11,18 +11,18 @@
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -139,8 +139,8 @@
   HDRINST usr/include/linux/stm.h
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
-  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/atm_tcp.h
+  HDRINST usr/include/linux/rpl_iptunnel.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
