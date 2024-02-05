@@ -9,8 +9,8 @@
   WRAP    arch/openrisc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/openrisc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/openrisc/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/msgbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/openrisc/include/generated/uapi/asm/poll.h
   WRAP    arch/openrisc/include/generated/uapi/asm/posix_types.h
   WRAP    arch/openrisc/include/generated/uapi/asm/resource.h
@@ -927,8 +927,8 @@
   HDRINST usr/include/asm/auxvec.h
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
-  HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/setup.h
+  HDRINST usr/include/asm/socket.h
   HDRINST usr/include/asm/stat.h
   HDRINST usr/include/asm/bitsperlong.h
   INSTALL /tmp/cross-linux-headers/5.10.x/openrisc/include
