@@ -209,8 +209,8 @@
   HDRINST usr/include/linux/time_types.h
   HDRINST usr/include/linux/joystick.h
   HDRINST usr/include/linux/tty.h
-  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/if_ether.h
+  HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
   HDRINST usr/include/linux/serial_reg.h
@@ -705,8 +705,8 @@
   HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
-  HDRINST usr/include/linux/dvb/frontend.h
   HDRINST usr/include/linux/dvb/version.h
+  HDRINST usr/include/linux/dvb/frontend.h
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/kcm.h
   HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
-  HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/netfilter_decnet.h
+  HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
