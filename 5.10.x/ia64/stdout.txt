@@ -282,8 +282,8 @@
   HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/netfilter/xt_string.h
-  HDRINST usr/include/linux/netfilter/xt_nfacct.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
+  HDRINST usr/include/linux/netfilter/xt_nfacct.h
   HDRINST usr/include/linux/netfilter/xt_SYNPROXY.h
   HDRINST usr/include/linux/netfilter/x_tables.h
   HDRINST usr/include/linux/netfilter/nfnetlink_compat.h
@@ -651,8 +651,8 @@
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
-  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
+  HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/zorro_ids.h
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h

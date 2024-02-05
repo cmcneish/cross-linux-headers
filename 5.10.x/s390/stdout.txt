@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -900,8 +900,8 @@
   HDRINST usr/include/asm/perf_regs.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/chpid.h
-  HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/bpf_perf_event.h
+  HDRINST usr/include/asm/cmb.h
   HDRINST usr/include/asm/chsc.h
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/runtime_instr.h
