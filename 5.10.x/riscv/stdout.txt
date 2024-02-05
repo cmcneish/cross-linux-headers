@@ -13,8 +13,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
@@ -414,6 +414,7 @@
   HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
   HDRINST usr/include/linux/atmsap.h
+  HDRINST usr/include/linux/f2fs.h
   HDRINST usr/include/linux/gsmmux.h
   HDRINST usr/include/linux/seg6_iptunnel.h
   HDRINST usr/include/linux/ultrasound.h

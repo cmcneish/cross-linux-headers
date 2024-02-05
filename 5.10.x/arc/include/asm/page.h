@@ -33,5 +33,4 @@
 
 #define PAGE_MASK	(~(PAGE_SIZE-1))
 
-
 #endif /* __ASM_ARC_PAGE_H */

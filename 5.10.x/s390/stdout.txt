@@ -15,8 +15,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
-  UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
+  UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -407,6 +407,7 @@
   HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
   HDRINST usr/include/linux/atmsap.h
+  HDRINST usr/include/linux/f2fs.h
   HDRINST usr/include/linux/gsmmux.h
   HDRINST usr/include/linux/seg6_iptunnel.h
   HDRINST usr/include/linux/ultrasound.h
@@ -753,9 +754,9 @@
   HDRINST usr/include/linux/nbd.h
   HDRINST usr/include/linux/timerfd.h
   HDRINST usr/include/linux/screen_info.h
+  HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/netdevice.h
   HDRINST usr/include/linux/spi/spidev.h
-  HDRINST usr/include/linux/fs.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
   HDRINST usr/include/linux/ptrace.h

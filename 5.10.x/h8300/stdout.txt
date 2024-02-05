@@ -405,8 +405,8 @@
   HDRINST usr/include/linux/ipmi_msgdefs.h
   HDRINST usr/include/linux/v4l2-subdev.h
   HDRINST usr/include/linux/if_bonding.h
-  HDRINST usr/include/linux/mempolicy.h
   HDRINST usr/include/linux/bpf.h
+  HDRINST usr/include/linux/mempolicy.h
   HDRINST usr/include/linux/virtio_gpu.h
   HDRINST usr/include/linux/falloc.h
   HDRINST usr/include/linux/wireless.h
@@ -416,6 +416,7 @@
   HDRINST usr/include/linux/shm.h
   HDRINST usr/include/linux/batman_adv.h
   HDRINST usr/include/linux/atmsap.h
+  HDRINST usr/include/linux/f2fs.h
   HDRINST usr/include/linux/gsmmux.h
   HDRINST usr/include/linux/seg6_iptunnel.h
   HDRINST usr/include/linux/ultrasound.h
@@ -700,8 +701,8 @@
   HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
-  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
+  HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
   HDRINST usr/include/linux/fb.h
