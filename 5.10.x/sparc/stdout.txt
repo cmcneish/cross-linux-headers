@@ -270,8 +270,8 @@
   HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
   HDRINST usr/include/linux/kernel-page-flags.h
-  HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
+  HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/ppp-comp.h
@@ -352,9 +352,9 @@
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
-  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_multiport.h
   HDRINST usr/include/linux/netfilter/xt_recent.h
+  HDRINST usr/include/linux/netfilter/xt_cgroup.h
   HDRINST usr/include/linux/netfilter/xt_dccp.h
   HDRINST usr/include/linux/netfilter/xt_osf.h
   HDRINST usr/include/linux/netfilter/xt_esp.h
@@ -589,8 +589,8 @@
   HDRINST usr/include/linux/usb/g_printer.h
   HDRINST usr/include/linux/usb/gadgetfs.h
   HDRINST usr/include/linux/usb/midi.h
-  HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/usb/cdc.h
+  HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/sunrpc/debug.h
   HDRINST usr/include/linux/sock_diag.h
@@ -715,8 +715,8 @@
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
   HDRINST usr/include/linux/virtio_mmio.h
-  HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/remoteproc_cdev.h
+  HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
