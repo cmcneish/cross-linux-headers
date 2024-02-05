@@ -957,8 +957,8 @@
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/hwcap2.h
   HDRINST usr/include/asm/kvm.h
-  HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/ptrace-abi.h
+  HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/ldt.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/mce.h

@@ -12,10 +12,10 @@
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/dvb/audio.h
   HDRINST usr/include/linux/dvb/ca.h
   HDRINST usr/include/linux/dvb/frontend.h
-  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/dmx.h
+  HDRINST usr/include/linux/dvb/version.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
