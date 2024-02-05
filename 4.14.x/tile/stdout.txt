@@ -3,8 +3,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/tile/include/generated/uapi/asm/errno.h
   WRAP    arch/tile/include/generated/uapi/asm/fcntl.h
-  WRAP    arch/tile/include/generated/uapi/asm/ioctl.h
   WRAP    arch/tile/include/generated/uapi/asm/ioctls.h
+  WRAP    arch/tile/include/generated/uapi/asm/ioctl.h
   WRAP    arch/tile/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/tile/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/tile/include/generated/uapi/asm/param.h
@@ -53,13 +53,13 @@
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/sched (1 file)
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/wimax (1 file)
   INSTALL include/arch (17 files)
   INSTALL include/asm (35 files)
