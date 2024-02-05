@@ -910,8 +910,8 @@
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/unistd.h
-  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
+  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ipcbuf.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
