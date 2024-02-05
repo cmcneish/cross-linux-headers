@@ -229,8 +229,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
@@ -629,8 +629,8 @@
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
   HDRINST usr/include/linux/cciss_defs.h
-  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
+  HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
