@@ -484,8 +484,8 @@
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/reiserfs_xattr.h
-  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
+  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
   HDRINST usr/include/linux/if_xdp.h
@@ -898,8 +898,8 @@
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/byteorder.h
-  HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/errno.h
+  HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/pdc.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/msgbuf.h
