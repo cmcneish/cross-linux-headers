@@ -3,11 +3,11 @@
   WRAP    arch/arc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/arc/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/arc/include/generated/uapi/asm/bpf_perf_event.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/errno.h
   WRAP    arch/arc/include/generated/uapi/asm/fcntl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
@@ -842,7 +842,6 @@
   HDRINST usr/include/rdma/ib_user_mad.h
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
-  HDRINST usr/include/rdma/nes-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h

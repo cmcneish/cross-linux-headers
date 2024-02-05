@@ -124,8 +124,8 @@
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
-  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
+  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
@@ -222,8 +222,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -826,7 +826,6 @@
   HDRINST usr/include/rdma/ib_user_mad.h
   HDRINST usr/include/rdma/cxgb4-abi.h
   HDRINST usr/include/rdma/hns-abi.h
-  HDRINST usr/include/rdma/nes-abi.h
   HDRINST usr/include/rdma/qedr-abi.h
   HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h
