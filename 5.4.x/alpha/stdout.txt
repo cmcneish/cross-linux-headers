@@ -435,8 +435,8 @@
   HDRINST usr/include/linux/tc_ematch/tc_em_meta.h
   HDRINST usr/include/linux/const.h
   HDRINST usr/include/linux/pg.h
-  HDRINST usr/include/linux/string.h
   HDRINST usr/include/linux/if_vlan.h
+  HDRINST usr/include/linux/string.h
   HDRINST usr/include/linux/if_tunnel.h
   HDRINST usr/include/linux/neighbour.h
   HDRINST usr/include/linux/userfaultfd.h
@@ -500,8 +500,8 @@
   HDRINST usr/include/linux/nfsd/export.h
   HDRINST usr/include/linux/nfsd/nfsfh.h
   HDRINST usr/include/linux/nfsd/debug.h
-  HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/nfsd/stats.h
+  HDRINST usr/include/linux/hidraw.h
   HDRINST usr/include/linux/lirc.h
   HDRINST usr/include/linux/uleds.h
   HDRINST usr/include/linux/if_macsec.h
