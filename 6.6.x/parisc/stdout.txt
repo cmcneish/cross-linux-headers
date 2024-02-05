@@ -5,8 +5,8 @@
   WRAP    arch/parisc/include/generated/uapi/asm/resource.h
   WRAP    arch/parisc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
   WRAP    arch/parisc/include/generated/uapi/asm/termios.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
@@ -361,8 +361,8 @@
   HDRINST usr/include/linux/netfilter/xt_addrtype.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
-  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_CONNSECMARK.h
+  HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h
   HDRINST usr/include/linux/netfilter/xt_tcpmss.h
   HDRINST usr/include/linux/netfilter/xt_HMARK.h
   HDRINST usr/include/linux/netfilter/xt_cgroup.h
@@ -935,8 +935,8 @@
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/termbits.h
-  HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/byteorder.h
+  HDRINST usr/include/asm/ioctl.h
   HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/pdc.h

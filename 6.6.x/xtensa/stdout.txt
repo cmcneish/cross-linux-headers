@@ -5,14 +5,14 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/fcntl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/ioctl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
+  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -202,9 +202,9 @@
   HDRINST usr/include/linux/phonet.h
   HDRINST usr/include/linux/ila.h
   HDRINST usr/include/linux/eventfd.h
-  HDRINST usr/include/linux/keyboard.h
   HDRINST usr/include/linux/mptcp.h
   HDRINST usr/include/linux/kd.h
+  HDRINST usr/include/linux/keyboard.h
   HDRINST usr/include/linux/reboot.h
   HDRINST usr/include/linux/unix_diag.h
   HDRINST usr/include/linux/wait.h

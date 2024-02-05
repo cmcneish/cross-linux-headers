@@ -3,8 +3,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/fcntl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctl.h
   WRAP    arch/riscv/include/generated/uapi/asm/ioctls.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/mman.h
   WRAP    arch/riscv/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
@@ -229,9 +229,9 @@
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
   HDRINST usr/include/linux/netlink.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/aspeed-video.h
   HDRINST usr/include/linux/tiocl.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
   HDRINST usr/include/linux/reiserfs_fs.h
@@ -333,8 +333,8 @@
   HDRINST usr/include/linux/netfilter/xt_ipcomp.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
   HDRINST usr/include/linux/netfilter/xt_ecn.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_acct.h
   HDRINST usr/include/linux/netfilter/nfnetlink_queue.h
   HDRINST usr/include/linux/netfilter/xt_length.h
   HDRINST usr/include/linux/netfilter/nf_nat.h
@@ -503,8 +503,8 @@
   HDRINST usr/include/linux/virtio_9p.h
   HDRINST usr/include/linux/ip.h
   HDRINST usr/include/linux/dw100.h
-  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/reiserfs_xattr.h
+  HDRINST usr/include/linux/perf_event.h
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
@@ -733,8 +733,8 @@
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
   HDRINST usr/include/linux/cn_proc.h
-  HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/fsi.h
+  HDRINST usr/include/linux/nvme_ioctl.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
   HDRINST usr/include/linux/vbox_vmmdev_types.h

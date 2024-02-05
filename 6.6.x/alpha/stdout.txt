@@ -4,8 +4,8 @@
   WRAP    arch/alpha/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/poll.h
   WRAP    arch/alpha/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/alpha/include/generated/uapi/asm/shmbuf.h
   SYSHDR  arch/alpha/include/generated/uapi/asm/unistd_32.h
+  WRAP    arch/alpha/include/generated/uapi/asm/shmbuf.h
   SYSTBL  arch/alpha/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef

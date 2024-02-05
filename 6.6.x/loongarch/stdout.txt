@@ -3,8 +3,8 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/loongarch/include/generated/uapi/asm/errno.h
   WRAP    arch/loongarch/include/generated/uapi/asm/fcntl.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ioctl.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ioctls.h
   WRAP    arch/loongarch/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/mman.h
@@ -729,8 +729,8 @@
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
-  HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/bcm933xx_hcs.h
+  HDRINST usr/include/linux/nfs3.h
   HDRINST usr/include/linux/fb.h
   HDRINST usr/include/linux/auxvec.h
   HDRINST usr/include/linux/blkzoned.h
