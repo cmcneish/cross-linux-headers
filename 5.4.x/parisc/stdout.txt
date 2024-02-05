@@ -149,8 +149,8 @@
   HDRINST usr/include/linux/elf.h
   HDRINST usr/include/linux/radeonfb.h
   HDRINST usr/include/linux/dqblk_xfs.h
-  HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/times.h
+  HDRINST usr/include/linux/sdla.h
   HDRINST usr/include/linux/bfs_fs.h
   HDRINST usr/include/linux/can/error.h
   HDRINST usr/include/linux/can/netlink.h
@@ -226,8 +226,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_stp.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_limit.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_m.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arpreply.h
@@ -637,8 +637,8 @@
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
-  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
+  HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
   HDRINST usr/include/linux/acct.h
   HDRINST usr/include/linux/ipc.h
