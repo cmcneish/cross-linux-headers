@@ -8,8 +8,8 @@
   WRAP    arch/nios2/include/generated/uapi/asm/ioctl.h
   WRAP    arch/nios2/include/generated/uapi/asm/ioctls.h
   WRAP    arch/nios2/include/generated/uapi/asm/ipcbuf.h
-  WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
   WRAP    arch/nios2/include/generated/uapi/asm/poll.h
@@ -338,8 +338,8 @@
   HDRINST usr/include/linux/netfilter/ipset/ip_set_bitmap.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_hash.h
-  HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/ipset/ip_set_list.h
+  HDRINST usr/include/linux/netfilter/xt_l2tp.h
   HDRINST usr/include/linux/netfilter/xt_pkttype.h
   HDRINST usr/include/linux/netfilter/xt_TEE.h
   HDRINST usr/include/linux/netfilter/nf_tables_compat.h
@@ -374,8 +374,8 @@
   HDRINST usr/include/linux/netfilter/xt_esp.h
   HDRINST usr/include/linux/netfilter/xt_owner.h
   HDRINST usr/include/linux/netfilter/xt_NFLOG.h
-  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_synproxy.h
+  HDRINST usr/include/linux/netfilter/xt_SECMARK.h
   HDRINST usr/include/linux/netfilter/nf_tables.h
   HDRINST usr/include/linux/netfilter/xt_CONNMARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cttimeout.h
@@ -508,8 +508,8 @@
   HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
-  HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/if_pppox.h
+  HDRINST usr/include/linux/xattr.h
   HDRINST usr/include/linux/netfilter_bridge.h
   HDRINST usr/include/linux/bt-bmc.h
   HDRINST usr/include/linux/memfd.h

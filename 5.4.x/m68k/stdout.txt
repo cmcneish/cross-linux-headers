@@ -9,17 +9,17 @@
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
+  SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -652,8 +652,8 @@
   HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/a.out.h
   HDRINST usr/include/linux/zorro_ids.h
-  HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vsockmon.h
+  HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/virtio_blk.h
   HDRINST usr/include/linux/b1lli.h
   HDRINST usr/include/linux/sonypi.h
@@ -735,8 +735,8 @@
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
-  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
+  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
@@ -882,8 +882,8 @@
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/bootinfo-mac.h
   HDRINST usr/include/asm/cachectl.h
-  HDRINST usr/include/asm/bootinfo-apollo.h
   HDRINST usr/include/asm/ioctls.h
+  HDRINST usr/include/asm/bootinfo-apollo.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/bootinfo-atari.h
