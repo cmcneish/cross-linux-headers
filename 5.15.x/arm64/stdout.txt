@@ -16,8 +16,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
-  WRAP    arch/arm64/include/generated/uapi/asm/types.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
+  WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -222,8 +222,8 @@
   HDRINST usr/include/linux/if_ether.h
   HDRINST usr/include/linux/nvram.h
   HDRINST usr/include/linux/aio_abi.h
-  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/netlink.h
+  HDRINST usr/include/linux/serial_reg.h
   HDRINST usr/include/linux/tiocl.h
   HDRINST usr/include/linux/phantom.h
   HDRINST usr/include/linux/qnx4_fs.h
@@ -283,8 +283,8 @@
   HDRINST usr/include/linux/fsl_mc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
   HDRINST usr/include/linux/limits.h
-  HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
+  HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h

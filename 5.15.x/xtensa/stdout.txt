@@ -737,8 +737,8 @@
   HDRINST usr/include/linux/ioprio.h
   HDRINST usr/include/linux/virtio_mmio.h
   HDRINST usr/include/linux/remoteproc_cdev.h
-  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/rio_cm_cdev.h
+  HDRINST usr/include/linux/ioam6_iptunnel.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
@@ -759,8 +759,8 @@
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
   HDRINST usr/include/linux/cfm_bridge.h
-  HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/rtc.h
+  HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
   HDRINST usr/include/linux/media-bus-format.h
