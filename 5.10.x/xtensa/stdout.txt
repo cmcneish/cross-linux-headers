@@ -623,8 +623,8 @@
   HDRINST usr/include/linux/hash_info.h
   HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h
-  HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/in6.h
+  HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
