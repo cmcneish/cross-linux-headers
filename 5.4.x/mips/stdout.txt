@@ -902,9 +902,9 @@
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/kvm_para.h
+  HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/sysmips.h
   HDRINST usr/include/asm/auxvec.h
-  HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
