@@ -13,8 +13,8 @@
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
-  WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h
   HOSTCC  scripts/unifdef
@@ -93,8 +93,8 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_opts.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ah.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6_tables.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_NPT.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_NPT.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
   HDRINST usr/include/linux/signal.h
@@ -133,8 +133,8 @@
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/atm_tcp.h
-  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
+  HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
@@ -279,8 +279,8 @@
   HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/udmabuf.h
   HDRINST usr/include/linux/lp.h
-  HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/ppp-comp.h
+  HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
   HDRINST usr/include/linux/netfilter/xt_string.h
   HDRINST usr/include/linux/netfilter/xt_connbytes.h
@@ -920,8 +920,8 @@
   HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/poll.h
-  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/unistd_32.h
+  HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/swab.h
   HDRINST usr/include/asm/mman.h
   HDRINST usr/include/asm/resource.h
