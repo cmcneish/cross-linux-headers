@@ -5,7 +5,6 @@
   WRAP    arch/s390/include/generated/uapi/asm/mman.h
   WRAP    arch/s390/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/s390/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/poll.h
   WRAP    arch/s390/include/generated/uapi/asm/resource.h
   WRAP    arch/s390/include/generated/uapi/asm/sembuf.h
@@ -14,6 +13,7 @@
   WRAP    arch/s390/include/generated/uapi/asm/socket.h
   WRAP    arch/s390/include/generated/uapi/asm/sockios.h
   WRAP    arch/s390/include/generated/uapi/asm/swab.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/s390/include/generated/uapi/asm/termbits.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_32.h
   UPD     arch/s390/include/generated/uapi/asm/unistd_64.h

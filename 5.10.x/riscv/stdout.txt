@@ -922,8 +922,8 @@
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
-  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/fcntl.h
+  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
