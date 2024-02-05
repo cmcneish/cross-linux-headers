@@ -744,8 +744,8 @@
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
-  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
+  HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
@@ -867,8 +867,8 @@
   HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/poll.h
-  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/utrap.h
+  HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/traps.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
