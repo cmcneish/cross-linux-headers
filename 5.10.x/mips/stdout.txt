@@ -938,6 +938,6 @@
   HDRINST usr/include/asm/unistd_nr_o32.h
   HDRINST usr/include/asm/unistd_nr_n32.h
   HDRINST usr/include/asm/unistd_o32.h
-  HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/unistd_n64.h
+  HDRINST usr/include/asm/kvm_para.h
   INSTALL /tmp/cross-linux-headers/5.10.x/mips/include
