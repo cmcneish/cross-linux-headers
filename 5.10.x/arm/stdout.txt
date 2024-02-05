@@ -11,8 +11,8 @@
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   UPD     include/generated/uapi/linux/version.h
@@ -317,8 +317,8 @@
   HDRINST usr/include/linux/netfilter/xt_connmark.h
   HDRINST usr/include/linux/netfilter/xt_time.h
   HDRINST usr/include/linux/netfilter/xt_devgroup.h
-  HDRINST usr/include/linux/netfilter/xt_socket.h
   HDRINST usr/include/linux/netfilter/xt_ipcomp.h
+  HDRINST usr/include/linux/netfilter/xt_socket.h
   HDRINST usr/include/linux/netfilter/xt_AUDIT.h
   HDRINST usr/include/linux/netfilter/xt_comment.h
   HDRINST usr/include/linux/netfilter/xt_ecn.h
@@ -767,8 +767,8 @@
   HDRINST usr/include/linux/fdreg.h
   HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
-  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/stat.h
+  HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
   HDRINST usr/include/linux/kdev_t.h
   HDRINST usr/include/linux/keyctl.h
@@ -920,8 +920,8 @@
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
-  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/sockios.h
+  HDRINST usr/include/asm/errno.h
   HDRINST usr/include/asm/unistd-eabi.h
   HDRINST usr/include/asm/unistd-oabi.h
   HDRINST usr/include/asm/kvm_para.h
