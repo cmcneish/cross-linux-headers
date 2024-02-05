@@ -68,6 +68,6 @@
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
-  INSTALL include/linux/wimax (1 file)
   INSTALL include/linux/netfilter/ipset (4 files)
+  INSTALL include/linux/wimax (1 file)
   INSTALL include/asm (33 files)
