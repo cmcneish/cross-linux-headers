@@ -3,8 +3,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/cris/include/generated/uapi/asm/auxvec.h
   WRAP    arch/cris/include/generated/uapi/asm/bitsperlong.h
-  WRAP    arch/cris/include/generated/uapi/asm/fcntl.h
   WRAP    arch/cris/include/generated/uapi/asm/errno.h
+  WRAP    arch/cris/include/generated/uapi/asm/fcntl.h
   WRAP    arch/cris/include/generated/uapi/asm/ioctl.h
   WRAP    arch/cris/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/cris/include/generated/uapi/asm/kvm_para.h
@@ -35,8 +35,8 @@
   INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
-  INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
+  INSTALL include/linux/can (6 files)
   INSTALL include/linux/dvb (8 files)
   INSTALL include/linux/genwqe (1 file)
   INSTALL include/linux/hdlc (1 file)
@@ -53,12 +53,12 @@
   INSTALL include/linux/raid (2 files)
   INSTALL include/linux/sched (1 file)
   INSTALL include/linux/spi (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
   INSTALL include/linux/wimax (1 file)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/arch-v10 (0 file)
   INSTALL include/arch-v32 (0 file)
   INSTALL include/asm (40 files)
