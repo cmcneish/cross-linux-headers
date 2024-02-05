@@ -7,9 +7,9 @@
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
   SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
