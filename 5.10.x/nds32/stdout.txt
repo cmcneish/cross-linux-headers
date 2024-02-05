@@ -15,9 +15,9 @@
   WRAP    arch/nds32/include/generated/uapi/asm/sembuf.h
   WRAP    arch/nds32/include/generated/uapi/asm/setup.h
   WRAP    arch/nds32/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/siginfo.h
   WRAP    arch/nds32/include/generated/uapi/asm/signal.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nds32/include/generated/uapi/asm/socket.h
   WRAP    arch/nds32/include/generated/uapi/asm/sockios.h
   WRAP    arch/nds32/include/generated/uapi/asm/stat.h
