@@ -7,9 +7,9 @@
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h
   HDRINST usr/include/linux/kcm.h
-  HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/pci.h
+  HDRINST usr/include/linux/fadvise.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h

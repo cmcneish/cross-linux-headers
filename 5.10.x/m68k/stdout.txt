@@ -13,10 +13,10 @@
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
@@ -201,8 +201,8 @@
   HDRINST usr/include/linux/tc_act/tc_ipt.h
   HDRINST usr/include/linux/tc_act/tc_skbedit.h
   HDRINST usr/include/linux/tc_act/tc_defact.h
-  HDRINST usr/include/linux/mroute.h
   HDRINST usr/include/linux/phonet.h
+  HDRINST usr/include/linux/mroute.h
   HDRINST usr/include/linux/ila.h
   HDRINST usr/include/linux/keyboard.h
   HDRINST usr/include/linux/mptcp.h
@@ -645,9 +645,9 @@
   HDRINST usr/include/linux/watchdog.h
   HDRINST usr/include/linux/vfio_ccw.h
   HDRINST usr/include/linux/dns_resolver.h
-  HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
+  HDRINST usr/include/linux/cciss_defs.h
   HDRINST usr/include/linux/iso_fs.h
   HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
