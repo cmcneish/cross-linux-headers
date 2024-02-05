@@ -12,8 +12,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
-  WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
@@ -100,8 +100,8 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_NPT.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_HL.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
   HDRINST usr/include/linux/signal.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
   HDRINST usr/include/linux/nfc.h
   HDRINST usr/include/linux/serial.h
   HDRINST usr/include/linux/ip6_tunnel.h
