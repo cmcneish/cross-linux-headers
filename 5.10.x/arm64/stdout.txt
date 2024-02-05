@@ -12,10 +12,10 @@
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
@@ -599,8 +599,8 @@
   HDRINST usr/include/linux/usb/raw_gadget.h
   HDRINST usr/include/linux/usb/g_printer.h
   HDRINST usr/include/linux/usb/gadgetfs.h
-  HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
+  HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/sunrpc/debug.h
