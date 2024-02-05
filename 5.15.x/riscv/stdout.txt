@@ -12,8 +12,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
@@ -578,8 +578,8 @@
   HDRINST usr/include/linux/if_ltalk.h
   HDRINST usr/include/linux/um_timetravel.h
   HDRINST usr/include/linux/virtio_rng.h
-  HDRINST usr/include/linux/am437x-vpfe.h
   HDRINST usr/include/linux/coda.h
+  HDRINST usr/include/linux/am437x-vpfe.h
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/errno.h
