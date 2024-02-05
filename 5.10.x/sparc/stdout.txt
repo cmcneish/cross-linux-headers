@@ -335,8 +335,8 @@
   HDRINST usr/include/linux/netfilter/xt_TCPMSS.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_tuple_common.h
   HDRINST usr/include/linux/netfilter/xt_bpf.h
-  HDRINST usr/include/linux/netfilter/nfnetlink_cthelper.h
   HDRINST usr/include/linux/netfilter/xt_rateest.h
+  HDRINST usr/include/linux/netfilter/nfnetlink_cthelper.h
   HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
   HDRINST usr/include/linux/netfilter/xt_dscp.h

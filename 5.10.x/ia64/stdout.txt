@@ -340,8 +340,8 @@
   HDRINST usr/include/linux/netfilter/nf_conntrack_tuple_common.h
   HDRINST usr/include/linux/netfilter/xt_bpf.h
   HDRINST usr/include/linux/netfilter/xt_rateest.h
-  HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/nfnetlink_cthelper.h
+  HDRINST usr/include/linux/netfilter/xt_MARK.h
   HDRINST usr/include/linux/netfilter/xt_TPROXY.h
   HDRINST usr/include/linux/netfilter/xt_dscp.h
   HDRINST usr/include/linux/netfilter/xt_NFQUEUE.h
@@ -685,8 +685,8 @@
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
   HDRINST usr/include/linux/pcitest.h
-  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/hyperv.h
+  HDRINST usr/include/linux/bsg.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
   HDRINST usr/include/linux/libc-compat.h
