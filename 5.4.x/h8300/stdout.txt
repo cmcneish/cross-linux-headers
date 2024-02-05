@@ -9,8 +9,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/mman.h
   WRAP    arch/h8300/include/generated/uapi/asm/msgbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/param.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/posix_types.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
@@ -569,8 +569,8 @@
   HDRINST usr/include/linux/errno.h
   HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
-  HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/sctp.h
+  HDRINST usr/include/linux/virtio_balloon.h
   HDRINST usr/include/linux/ptp_clock.h
   HDRINST usr/include/linux/input-event-codes.h
   HDRINST usr/include/linux/kcmp.h
@@ -578,8 +578,8 @@
   HDRINST usr/include/linux/ppp-ioctl.h
   HDRINST usr/include/linux/udf_fs_i.h
   HDRINST usr/include/linux/atmioc.h
-  HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/if_x25.h
+  HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/rio_mport_cdev.h
   HDRINST usr/include/linux/genwqe/genwqe_card.h
