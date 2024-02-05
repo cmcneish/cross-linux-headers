@@ -867,8 +867,8 @@
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
-  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/ia64regs.h
+  HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/ptrace_offsets.h

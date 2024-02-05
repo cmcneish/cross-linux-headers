@@ -15,8 +15,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
-  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
@@ -90,8 +90,8 @@
   HDRINST usr/include/linux/gpio.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_srh.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_hl.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_hl.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_frag.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_LOG.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_opts.h
