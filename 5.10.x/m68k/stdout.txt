@@ -13,13 +13,13 @@
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -889,8 +889,8 @@
   HDRINST usr/include/video/uvesafb.h
   HDRINST usr/include/video/sisfb.h
   HDRINST usr/include/xen/privcmd.h
-  HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntdev.h
+  HDRINST usr/include/xen/evtchn.h
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
