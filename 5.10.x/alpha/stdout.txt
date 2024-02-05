@@ -185,8 +185,8 @@
   HDRINST usr/include/linux/tc_act/tc_nat.h
   HDRINST usr/include/linux/tc_act/tc_ct.h
   HDRINST usr/include/linux/tc_act/tc_mirred.h
-  HDRINST usr/include/linux/tc_act/tc_vlan.h
   HDRINST usr/include/linux/tc_act/tc_ipt.h
+  HDRINST usr/include/linux/tc_act/tc_vlan.h
   HDRINST usr/include/linux/tc_act/tc_skbedit.h
   HDRINST usr/include/linux/tc_act/tc_defact.h
   HDRINST usr/include/linux/mroute.h
@@ -262,8 +262,8 @@
   HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/sed-opal.h
   HDRINST usr/include/linux/elf-em.h
-  HDRINST usr/include/linux/cec-funcs.h
   HDRINST usr/include/linux/errqueue.h
+  HDRINST usr/include/linux/cec-funcs.h
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
@@ -293,8 +293,8 @@
   HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
-  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
+  HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h

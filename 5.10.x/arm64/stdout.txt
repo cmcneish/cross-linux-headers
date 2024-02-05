@@ -12,8 +12,8 @@
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm64/include/generated/uapi/asm/socket.h
   WRAP    arch/arm64/include/generated/uapi/asm/sockios.h
-  WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/arm64/include/generated/uapi/asm/stat.h
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
@@ -649,9 +649,9 @@
   HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
+  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
-  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
@@ -669,8 +669,8 @@
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
-  HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/netfilter_ipv4.h
+  HDRINST usr/include/linux/seg6_hmac.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
   HDRINST usr/include/linux/vboxguest.h

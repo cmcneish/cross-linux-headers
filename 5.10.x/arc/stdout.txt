@@ -12,9 +12,9 @@
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
   WRAP    arch/arc/include/generated/uapi/asm/poll.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/posix_types.h
   WRAP    arch/arc/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arc/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/siginfo.h
@@ -112,8 +112,8 @@
   HDRINST usr/include/linux/ip6_tunnel.h
   HDRINST usr/include/linux/ipv6_route.h
   HDRINST usr/include/linux/scif_ioctl.h
-  HDRINST usr/include/linux/psci.h
   HDRINST usr/include/linux/uinput.h
+  HDRINST usr/include/linux/psci.h
   HDRINST usr/include/linux/futex.h
   HDRINST usr/include/linux/param.h
   HDRINST usr/include/linux/suspend_ioctls.h
@@ -144,8 +144,8 @@
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
-  HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/audit.h
+  HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
   HDRINST usr/include/linux/byteorder/big_endian.h
@@ -674,8 +674,8 @@
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
-  HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/seg6_hmac.h
+  HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
   HDRINST usr/include/linux/vboxguest.h
@@ -914,8 +914,8 @@
   HDRINST usr/include/asm/posix_types.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/mman.h
-  HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/types.h
+  HDRINST usr/include/asm/resource.h
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
