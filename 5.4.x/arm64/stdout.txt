@@ -8,7 +8,6 @@
   WRAP    arch/arm64/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/poll.h
   WRAP    arch/arm64/include/generated/uapi/asm/resource.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/arm64/include/generated/uapi/asm/siginfo.h
@@ -18,6 +17,7 @@
   WRAP    arch/arm64/include/generated/uapi/asm/swab.h
   WRAP    arch/arm64/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm64/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm64/include/generated/uapi/asm/types.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
@@ -176,8 +176,8 @@
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/if_hippi.h
-  HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/hdreg.h
+  HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
   HDRINST usr/include/linux/tc_act/tc_ctinfo.h
@@ -560,8 +560,8 @@
   HDRINST usr/include/linux/tcp_metrics.h
   HDRINST usr/include/linux/securebits.h
   HDRINST usr/include/linux/kvm.h
-  HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/errno.h
+  HDRINST usr/include/linux/netlink_diag.h
   HDRINST usr/include/linux/adb.h
   HDRINST usr/include/linux/sctp.h
   HDRINST usr/include/linux/virtio_balloon.h
