@@ -11,18 +11,18 @@
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -433,8 +433,8 @@
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/virtio_mem.h
-  HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/wmi.h
+  HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/hw_breakpoint.h
@@ -892,8 +892,8 @@
   HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h
-  HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/sfnt_info.h
+  HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
   HDRINST usr/include/sound/snd_sst_tokens.h
   HDRINST usr/include/sound/emu10k1.h
