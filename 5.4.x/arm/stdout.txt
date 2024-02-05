@@ -11,13 +11,13 @@
   WRAP    arch/arm/include/generated/uapi/asm/resource.h
   WRAP    arch/arm/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arm/include/generated/uapi/asm/shmbuf.h
-  WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
@@ -912,7 +912,7 @@
   HDRINST usr/include/asm/kvm_para.h
   HDRINST usr/include/asm/msgbuf.h
   HDRINST usr/include/asm/siginfo.h
-  HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/socket.h
+  HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/bitsperlong.h
   INSTALL /tmp/cross-linux-headers/5.4.x/arm/include
