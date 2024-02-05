@@ -907,9 +907,9 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/statfs.h
   HDRINST usr/include/asm/ia64regs.h
+  HDRINST usr/include/asm/param.h
   HDRINST usr/include/asm/unistd.h
   HDRINST usr/include/asm/ptrace_offsets.h
   HDRINST usr/include/asm/intel_intrin.h

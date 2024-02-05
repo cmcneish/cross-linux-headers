@@ -2,15 +2,15 @@
   WRAP    arch/parisc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/parisc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/parisc/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/parisc/include/generated/uapi/asm/poll.h
   WRAP    arch/parisc/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/parisc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/parisc/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
   WRAP    arch/parisc/include/generated/uapi/asm/swab.h
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
+  SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
+  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
   HOSTCC  scripts/unifdef
@@ -168,8 +168,8 @@
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
   HDRINST usr/include/linux/dma-buf.h
-  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
+  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
   HDRINST usr/include/linux/mctp.h
@@ -623,9 +623,9 @@
   HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/fcntl.h
   HDRINST usr/include/linux/filter.h
-  HDRINST usr/include/linux/virtio_console.h
   HDRINST usr/include/linux/ivtvfb.h
   HDRINST usr/include/linux/nfs4.h
+  HDRINST usr/include/linux/virtio_console.h
   HDRINST usr/include/linux/baycom.h
   HDRINST usr/include/linux/sockios.h
   HDRINST usr/include/linux/stddef.h
