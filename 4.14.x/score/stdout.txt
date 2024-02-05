@@ -3,14 +3,14 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/score/include/generated/uapi/asm/siginfo.h
   HOSTCC  scripts/unifdef
-  INSTALL include/misc (1 file)
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
+  INSTALL include/misc (1 file)
   INSTALL include/linux (484 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
-  INSTALL include/scsi (4 files)
   INSTALL include/rdma/hfi (2 files)
+  INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
