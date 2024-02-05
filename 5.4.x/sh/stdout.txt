@@ -8,8 +8,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
@@ -91,8 +91,8 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_srh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_frag.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_hl.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_frag.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_LOG.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_opts.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_ah.h
