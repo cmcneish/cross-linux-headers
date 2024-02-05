@@ -84,8 +84,8 @@
   HDRINST usr/include/linux/virtio_pcidev.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_rt.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_srh.h
-  HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_hl.h
+  HDRINST usr/include/linux/netfilter_ipv6/ip6t_ipv6header.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_frag.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_LOG.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_opts.h
