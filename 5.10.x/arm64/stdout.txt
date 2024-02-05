@@ -176,8 +176,8 @@
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
-  HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/hdreg.h
+  HDRINST usr/include/linux/if_hippi.h
   HDRINST usr/include/linux/zorro.h
   HDRINST usr/include/linux/oom.h
   HDRINST usr/include/linux/tc_act/tc_tunnel_key.h
@@ -738,8 +738,8 @@
   HDRINST usr/include/linux/socket.h
   HDRINST usr/include/linux/x25.h
   HDRINST usr/include/linux/kcm.h
-  HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/fadvise.h
+  HDRINST usr/include/linux/pci.h
   HDRINST usr/include/linux/netfilter_decnet.h
   HDRINST usr/include/linux/ipmi_bmc.h
   HDRINST usr/include/linux/virtio_crypto.h
