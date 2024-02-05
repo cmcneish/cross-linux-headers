@@ -415,8 +415,8 @@
   HDRINST usr/include/linux/atm_eni.h
   HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/virtio_mem.h
-  HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/utsname.h
+  HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/hw_breakpoint.h
@@ -456,8 +456,8 @@
   HDRINST usr/include/linux/wimax/i2400m.h
   HDRINST usr/include/linux/bpqether.h
   HDRINST usr/include/linux/net_namespace.h
-  HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/firewire-constants.h
+  HDRINST usr/include/linux/atmlec.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/nitro_enclaves.h
   HDRINST usr/include/linux/fanotify.h
