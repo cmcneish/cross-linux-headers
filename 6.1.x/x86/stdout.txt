@@ -9,11 +9,11 @@
   WRAP    arch/x86/include/generated/uapi/asm/poll.h
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
-  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
+  SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_x32.h

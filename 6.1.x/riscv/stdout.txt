@@ -13,8 +13,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/signal.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/riscv/include/generated/uapi/asm/socket.h
   WRAP    arch/riscv/include/generated/uapi/asm/sockios.h
   WRAP    arch/riscv/include/generated/uapi/asm/stat.h
@@ -897,9 +897,9 @@
   HDRINST usr/include/scsi/fc/fc_els.h
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
-  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/scsi/scsi_bsg_mpi3mr.h
   HDRINST usr/include/scsi/scsi_netlink.h
+  HDRINST usr/include/scsi/fc/fc_fs.h
   HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
   HDRINST usr/include/sound/hdspm.h

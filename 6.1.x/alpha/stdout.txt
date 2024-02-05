@@ -1,13 +1,13 @@
   HOSTCC  scripts/basic/fixdep
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/alpha/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/alpha/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/poll.h
+  SYSHDR  arch/alpha/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/alpha/include/generated/uapi/asm/sembuf.h
   WRAP    arch/alpha/include/generated/uapi/asm/shmbuf.h
-  SYSHDR  arch/alpha/include/generated/uapi/asm/unistd_32.h
   SYSTBL  arch/alpha/include/generated/asm/syscall_table.h
-  UPD     include/generated/uapi/linux/version.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -262,8 +262,8 @@
   HDRINST usr/include/linux/route.h
   HDRINST usr/include/linux/ivtv.h
   HDRINST usr/include/linux/gfs2_ondisk.h
-  HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/fou.h
+  HDRINST usr/include/linux/minix_fs.h
   HDRINST usr/include/linux/gameport.h
   HDRINST usr/include/linux/udp.h
   HDRINST usr/include/linux/sed-opal.h
