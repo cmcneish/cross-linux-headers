@@ -11,19 +11,19 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
-  WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
@@ -606,8 +606,8 @@
   HDRINST usr/include/linux/usb/raw_gadget.h
   HDRINST usr/include/linux/usb/g_printer.h
   HDRINST usr/include/linux/usb/gadgetfs.h
-  HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc.h
+  HDRINST usr/include/linux/usb/midi.h
   HDRINST usr/include/linux/usb/cdc-wdm.h
   HDRINST usr/include/linux/dm-log-userspace.h
   HDRINST usr/include/linux/sunrpc/debug.h
@@ -821,8 +821,8 @@
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
-  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/habanalabs.h
+  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h
@@ -922,8 +922,8 @@
   HDRINST usr/include/asm/termbits.h
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/ioctl.h
-  HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/errno.h
+  HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/fcntl.h
   HDRINST usr/include/asm/sockios.h
   HDRINST usr/include/asm/msgbuf.h
