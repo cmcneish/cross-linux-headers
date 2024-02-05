@@ -288,8 +288,8 @@
   HDRINST usr/include/linux/netfilter/xt_helper.h
   HDRINST usr/include/linux/netfilter/nf_conntrack_sctp.h
   HDRINST usr/include/linux/netfilter/xt_policy.h
-  HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/xt_LOG.h
+  HDRINST usr/include/linux/netfilter/xt_realm.h
   HDRINST usr/include/linux/netfilter/nfnetlink_log.h
   HDRINST usr/include/linux/netfilter/xt_hashlimit.h
   HDRINST usr/include/linux/netfilter/xt_quota.h
@@ -611,8 +611,8 @@
   HDRINST usr/include/linux/hash_info.h
   HDRINST usr/include/linux/can.h
   HDRINST usr/include/linux/omap3isp.h
-  HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/in6.h
+  HDRINST usr/include/linux/affs_hardblocks.h
   HDRINST usr/include/linux/input.h
   HDRINST usr/include/linux/nfsacl.h
   HDRINST usr/include/linux/qemu_fw_cfg.h
@@ -630,8 +630,8 @@
   HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
-  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
+  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h

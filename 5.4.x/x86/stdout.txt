@@ -10,9 +10,9 @@
   WRAP    arch/x86/include/generated/uapi/asm/resource.h
   WRAP    arch/x86/include/generated/uapi/asm/socket.h
   WRAP    arch/x86/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/termbits.h
   WRAP    arch/x86/include/generated/uapi/asm/termios.h
+  SYSTBL  arch/x86/include/generated/asm/syscalls_32.h
   WRAP    arch/x86/include/generated/uapi/asm/types.h
   SYSHDR  arch/x86/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
