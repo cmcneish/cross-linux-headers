@@ -408,8 +408,8 @@
   HDRINST usr/include/linux/atmbr2684.h
   HDRINST usr/include/linux/smc_diag.h
   HDRINST usr/include/linux/batadv_packet.h
-  HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/atm_eni.h
+  HDRINST usr/include/linux/posix_acl.h
   HDRINST usr/include/linux/wmi.h
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
@@ -800,8 +800,8 @@
   HDRINST usr/include/misc/fastrpc.h
   HDRINST usr/include/misc/ocxl.h
   HDRINST usr/include/mtd/nftl-user.h
-  HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/mtd-abi.h
+  HDRINST usr/include/mtd/inftl-user.h
   HDRINST usr/include/mtd/mtd-user.h
   HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/rdma/ib_user_ioctl_verbs.h

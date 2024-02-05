@@ -488,8 +488,8 @@
   HDRINST usr/include/linux/mii.h
   HDRINST usr/include/linux/media.h
   HDRINST usr/include/linux/membarrier.h
-  HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/if_xdp.h
+  HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
   HDRINST usr/include/linux/blkpg.h
   HDRINST usr/include/linux/fib_rules.h
