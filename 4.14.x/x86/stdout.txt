@@ -10,19 +10,19 @@
   HOSTCC  arch/x86/tools/relocs_common.o
   HOSTLD  arch/x86/tools/relocs
   HOSTCC  scripts/unifdef
-  INSTALL include/misc (1 file)
-  INSTALL include/drm (25 files)
   INSTALL include/asm-generic (36 files)
+  INSTALL include/drm (25 files)
+  INSTALL include/misc (1 file)
   INSTALL include/linux (486 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (20 files)
   INSTALL include/rdma/hfi (2 files)
-  INSTALL include/linux/android (1 file)
   INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
   INSTALL include/xen (4 files)
+  INSTALL include/linux/android (1 file)
   INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)
