@@ -637,8 +637,8 @@
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
   HDRINST usr/include/linux/i2o-dev.h
-  HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
+  HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
@@ -772,8 +772,8 @@
   HDRINST usr/include/linux/target_core_user.h
   HDRINST usr/include/linux/n_r3964.h
   HDRINST usr/include/linux/iommu.h
-  HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/hsi/hsi_char.h
+  HDRINST usr/include/linux/hsi/cs-protocol.h
   HDRINST usr/include/linux/if_cablemodem.h
   HDRINST usr/include/linux/ipv6.h
   HDRINST usr/include/linux/cec.h
