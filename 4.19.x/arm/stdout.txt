@@ -2,8 +2,8 @@
   HOSTCC  scripts/basic/fixdep
   WRAP    arch/arm/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/arm/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/arm/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arm/include/generated/uapi/asm/errno.h
+  WRAP    arch/arm/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arm/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arm/include/generated/uapi/asm/param.h
@@ -26,9 +26,9 @@
   INSTALL include/linux (498 files)
   INSTALL include/mtd (5 files)
   INSTALL include/rdma (25 files)
+  INSTALL include/rdma/hfi (2 files)
   INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
-  INSTALL include/rdma/hfi (2 files)
   INSTALL include/sound (16 files)
   INSTALL include/video (3 files)
   INSTALL include/xen (4 files)
@@ -46,7 +46,6 @@
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (88 files)
   INSTALL include/linux/netfilter_arp (2 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (13 files)
@@ -54,6 +53,7 @@
   INSTALL include/linux/raid (2 files)
   INSTALL include/linux/sched (1 file)
   INSTALL include/linux/spi (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/sunrpc (1 file)
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (5 files)
