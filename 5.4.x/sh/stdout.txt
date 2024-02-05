@@ -16,8 +16,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/siginfo.h
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h

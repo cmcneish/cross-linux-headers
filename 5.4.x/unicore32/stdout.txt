@@ -822,8 +822,8 @@
   HDRINST usr/include/rdma/mlx4-abi.h
   HDRINST usr/include/rdma/i40iw-abi.h
   HDRINST usr/include/rdma/rdma_user_rxe.h
-  HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
   HDRINST usr/include/rdma/rvt-abi.h
+  HDRINST usr/include/rdma/rdma_user_ioctl_cmds.h
   HDRINST usr/include/rdma/efa-abi.h
   HDRINST usr/include/rdma/ib_user_sa.h
   HDRINST usr/include/rdma/ocrdma-abi.h
