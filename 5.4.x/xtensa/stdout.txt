@@ -511,9 +511,9 @@
   HDRINST usr/include/linux/if_macsec.h
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
+  HDRINST usr/include/linux/hysdn_if.h
   HDRINST usr/include/linux/vm_sockets.h
   HDRINST usr/include/linux/nsfs.h
-  HDRINST usr/include/linux/hysdn_if.h
   HDRINST usr/include/linux/omapfb.h
   HDRINST usr/include/linux/vm_sockets_diag.h
   HDRINST usr/include/linux/nubus.h
@@ -706,8 +706,8 @@
   HDRINST usr/include/linux/tipc_config.h
   HDRINST usr/include/linux/arm_sdei.h
   HDRINST usr/include/linux/loop.h
-  HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/virtio_mmio.h
+  HDRINST usr/include/linux/rio_cm_cdev.h
   HDRINST usr/include/linux/switchtec_ioctl.h
   HDRINST usr/include/linux/rfkill.h
   HDRINST usr/include/linux/dlmconstants.h
@@ -739,8 +739,8 @@
   HDRINST usr/include/linux/spi/spidev.h
   HDRINST usr/include/linux/erspan.h
   HDRINST usr/include/linux/veth.h
-  HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/ptrace.h
+  HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
   HDRINST usr/include/linux/netconf.h

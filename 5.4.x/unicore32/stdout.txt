@@ -430,8 +430,8 @@
   HDRINST usr/include/linux/utsname.h
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
-  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/vtpm_proxy.h
+  HDRINST usr/include/linux/hw_breakpoint.h
   HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mmc/ioctl.h
   HDRINST usr/include/linux/iio/types.h
@@ -714,8 +714,8 @@
   HDRINST usr/include/linux/dvb/dmx.h
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
-  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/pci_regs.h
+  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
@@ -849,8 +849,8 @@
   HDRINST usr/include/scsi/scsi_bsg_fc.h
   HDRINST usr/include/scsi/scsi_netlink_fc.h
   HDRINST usr/include/scsi/scsi_bsg_ufs.h
-  HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_els.h
+  HDRINST usr/include/scsi/cxlflash_ioctl.h
   HDRINST usr/include/scsi/fc/fc_ns.h
   HDRINST usr/include/scsi/fc/fc_gs.h
   HDRINST usr/include/scsi/fc/fc_fs.h

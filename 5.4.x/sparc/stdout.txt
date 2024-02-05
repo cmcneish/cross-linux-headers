@@ -893,8 +893,8 @@
   HDRINST usr/include/asm/sigcontext.h
   HDRINST usr/include/asm/openpromio.h
   HDRINST usr/include/asm/msgbuf.h
-  HDRINST usr/include/asm/apc.h
   HDRINST usr/include/asm/auxvec.h
+  HDRINST usr/include/asm/apc.h
   HDRINST usr/include/asm/siginfo.h
   HDRINST usr/include/asm/shmbuf.h
   HDRINST usr/include/asm/psr.h

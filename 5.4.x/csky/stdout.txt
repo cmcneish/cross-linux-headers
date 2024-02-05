@@ -8,10 +8,10 @@
   WRAP    arch/csky/include/generated/uapi/asm/ioctl.h
   WRAP    arch/csky/include/generated/uapi/asm/ioctls.h
   WRAP    arch/csky/include/generated/uapi/asm/ipcbuf.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/mman.h
   WRAP    arch/csky/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/csky/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/csky/include/generated/uapi/asm/poll.h
   WRAP    arch/csky/include/generated/uapi/asm/posix_types.h
   WRAP    arch/csky/include/generated/uapi/asm/resource.h
