@@ -19,14 +19,14 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/signal.h
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -597,8 +597,8 @@
   HDRINST usr/include/linux/seg6.h
   HDRINST usr/include/linux/ppp-ioctl.h
   HDRINST usr/include/linux/udf_fs_i.h
-  HDRINST usr/include/linux/atmioc.h
   HDRINST usr/include/linux/if_x25.h
+  HDRINST usr/include/linux/atmioc.h
   HDRINST usr/include/linux/nfs_mount.h
   HDRINST usr/include/linux/tcp.h
   HDRINST usr/include/linux/openat2.h
@@ -844,8 +844,8 @@
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
   HDRINST usr/include/linux/selinux_netlink.h
-  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/habanalabs.h
+  HDRINST usr/include/misc/uacce/uacce.h
   HDRINST usr/include/misc/uacce/hisi_qm.h
   HDRINST usr/include/misc/xilinx_sdfec.h
   HDRINST usr/include/misc/cxl.h

@@ -694,8 +694,8 @@
   HDRINST usr/include/linux/vhost.h
   HDRINST usr/include/linux/netfilter_arp.h
   HDRINST usr/include/linux/coff.h
-  HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/bsg.h
+  HDRINST usr/include/linux/pcitest.h
   HDRINST usr/include/linux/hyperv.h
   HDRINST usr/include/linux/close_range.h
   HDRINST usr/include/linux/atmppp.h
@@ -784,8 +784,8 @@
   HDRINST usr/include/linux/bpf_common.h
   HDRINST usr/include/linux/blktrace_api.h
   HDRINST usr/include/linux/mtio.h
-  HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/hid.h
+  HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
   HDRINST usr/include/linux/rpl.h
