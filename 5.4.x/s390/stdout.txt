@@ -894,8 +894,8 @@
   HDRINST usr/include/asm/dasd.h
   HDRINST usr/include/asm/pkey.h
   HDRINST usr/include/asm/kvm_perf.h
-  HDRINST usr/include/asm/guarded_storage.h
   HDRINST usr/include/asm/byteorder.h
+  HDRINST usr/include/asm/guarded_storage.h
   HDRINST usr/include/asm/kvm.h
   HDRINST usr/include/asm/ucontext.h
   HDRINST usr/include/asm/hypfs.h

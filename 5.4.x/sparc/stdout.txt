@@ -905,8 +905,8 @@
   HDRINST usr/include/asm/bitsperlong.h
   HDRINST usr/include/asm/perfctr.h
   HDRINST usr/include/asm/oradax.h
-  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/asi.h
+  HDRINST usr/include/asm/unistd_32.h
   HDRINST usr/include/asm/bpf_perf_event.h
   HDRINST usr/include/asm/types.h
   HDRINST usr/include/asm/unistd_64.h

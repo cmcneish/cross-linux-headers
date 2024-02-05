@@ -155,14 +155,14 @@
   HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
-  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/can/j1939.h
+  HDRINST usr/include/linux/can/raw.h
   HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
   HDRINST usr/include/linux/pr.h
-  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/dma-buf.h
+  HDRINST usr/include/linux/kernel.h
   HDRINST usr/include/linux/hdlc/ioctl.h
   HDRINST usr/include/linux/fsmap.h
   HDRINST usr/include/linux/uhid.h
@@ -459,8 +459,8 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
-  HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
+  HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
