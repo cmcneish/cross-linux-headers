@@ -301,8 +301,8 @@
   HDRINST usr/include/linux/netfilter/xt_CLASSIFY.h
   HDRINST usr/include/linux/netfilter/xt_mark.h
   HDRINST usr/include/linux/netfilter/xt_physdev.h
-  HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/nfnetlink_osf.h
+  HDRINST usr/include/linux/netfilter/xt_limit.h
   HDRINST usr/include/linux/netfilter/xt_ipvs.h
   HDRINST usr/include/linux/netfilter/xt_CHECKSUM.h
   HDRINST usr/include/linux/netfilter/xt_mac.h
@@ -498,8 +498,8 @@
   HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/termios.h
   HDRINST usr/include/linux/chio.h
-  HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/raid/md_p.h
+  HDRINST usr/include/linux/raid/md_u.h
   HDRINST usr/include/linux/if_fc.h
   HDRINST usr/include/linux/netfilter_ipv6.h
   HDRINST usr/include/linux/if_pppox.h
