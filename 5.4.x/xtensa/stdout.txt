@@ -221,8 +221,8 @@
   HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
   HDRINST usr/include/linux/ppp_defs.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_among.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_ip6.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_log.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_mark_t.h
@@ -640,14 +640,14 @@
   HDRINST usr/include/linux/i2c-dev.h
   HDRINST usr/include/linux/utime.h
   HDRINST usr/include/linux/aspeed-lpc-ctrl.h
-  HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/acct.h
+  HDRINST usr/include/linux/ipc.h
   HDRINST usr/include/linux/zorro_ids.h
   HDRINST usr/include/linux/vsockmon.h
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/virtio_blk.h
-  HDRINST usr/include/linux/b1lli.h
   HDRINST usr/include/linux/sonypi.h
+  HDRINST usr/include/linux/b1lli.h
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
