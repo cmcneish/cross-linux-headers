@@ -467,9 +467,9 @@
   HDRINST usr/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ttl.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_LOG.h
-  HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/netfilter_ipv4/ipt_ecn.h
   HDRINST usr/include/linux/netfilter_ipv4/ip_tables.h
+  HDRINST usr/include/linux/netfilter_ipv4/ipt_REJECT.h
   HDRINST usr/include/linux/pidfd.h
   HDRINST usr/include/linux/signalfd.h
   HDRINST usr/include/linux/if_addr.h
@@ -858,8 +858,8 @@
   HDRINST usr/include/scsi/scsi_netlink.h
   HDRINST usr/include/sound/usb_stream.h
   HDRINST usr/include/sound/compress_params.h
-  HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/hdspm.h
+  HDRINST usr/include/sound/sfnt_info.h
   HDRINST usr/include/sound/skl-tplg-interface.h
   HDRINST usr/include/sound/asound_fm.h
   HDRINST usr/include/sound/snd_sst_tokens.h
