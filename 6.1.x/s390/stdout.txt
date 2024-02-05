@@ -854,8 +854,8 @@
   HDRINST usr/include/misc/fastrpc.h
   HDRINST usr/include/misc/ocxl.h
   HDRINST usr/include/mtd/nftl-user.h
-  HDRINST usr/include/mtd/mtd-abi.h
   HDRINST usr/include/mtd/inftl-user.h
+  HDRINST usr/include/mtd/mtd-abi.h
   HDRINST usr/include/mtd/mtd-user.h
   HDRINST usr/include/mtd/ubi-user.h
   HDRINST usr/include/rdma/ib_user_ioctl_verbs.h
