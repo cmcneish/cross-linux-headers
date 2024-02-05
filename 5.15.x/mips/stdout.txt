@@ -467,8 +467,8 @@
   HDRINST usr/include/linux/virtio_ids.h
   HDRINST usr/include/linux/tipc_netlink.h
   HDRINST usr/include/linux/bpqether.h
-  HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/atmlec.h
+  HDRINST usr/include/linux/net_namespace.h
   HDRINST usr/include/linux/firewire-constants.h
   HDRINST usr/include/linux/icmpv6.h
   HDRINST usr/include/linux/nitro_enclaves.h
