@@ -272,8 +272,8 @@
   HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
-  HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/limits.h
+  HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
   HDRINST usr/include/linux/udmabuf.h
@@ -757,8 +757,8 @@
   HDRINST usr/include/linux/atm_zatm.h
   HDRINST usr/include/linux/videodev2.h
   HDRINST usr/include/linux/fdreg.h
-  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/seg6_genl.h
+  HDRINST usr/include/linux/netconf.h
   HDRINST usr/include/linux/stat.h
   HDRINST usr/include/linux/atm.h
   HDRINST usr/include/linux/hsr_netlink.h
