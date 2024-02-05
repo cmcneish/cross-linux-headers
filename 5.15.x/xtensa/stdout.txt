@@ -679,8 +679,8 @@
   HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
-  HDRINST usr/include/linux/vboxguest.h
   HDRINST usr/include/linux/qnxtypes.h
+  HDRINST usr/include/linux/vboxguest.h
   HDRINST usr/include/linux/ax25.h
   HDRINST usr/include/linux/sonet.h
   HDRINST usr/include/linux/sem.h
@@ -758,8 +758,8 @@
   HDRINST usr/include/linux/dn.h
   HDRINST usr/include/linux/smiapp.h
   HDRINST usr/include/linux/virtio_pmem.h
-  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/cfm_bridge.h
+  HDRINST usr/include/linux/rtc.h
   HDRINST usr/include/linux/auto_fs.h
   HDRINST usr/include/linux/auto_fs4.h
   HDRINST usr/include/linux/tipc_sockets_diag.h
