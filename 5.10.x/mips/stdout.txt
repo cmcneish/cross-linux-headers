@@ -426,8 +426,8 @@
   HDRINST usr/include/linux/ipsec.h
   HDRINST usr/include/linux/rseq.h
   HDRINST usr/include/linux/hw_breakpoint.h
-  HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/vtpm_proxy.h
+  HDRINST usr/include/linux/if_slip.h
   HDRINST usr/include/linux/mrp_bridge.h
   HDRINST usr/include/linux/mmc/ioctl.h
   HDRINST usr/include/linux/iio/types.h
