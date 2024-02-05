@@ -155,8 +155,8 @@
   HDRINST usr/include/linux/can/vxcan.h
   HDRINST usr/include/linux/can/gw.h
   HDRINST usr/include/linux/can/bcm.h
-  HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/can/raw.h
+  HDRINST usr/include/linux/can/j1939.h
   HDRINST usr/include/linux/vbox_err.h
   HDRINST usr/include/linux/matroxfb.h
   HDRINST usr/include/linux/gen_stats.h
