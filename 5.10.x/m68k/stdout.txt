@@ -2,22 +2,22 @@
   WRAP    arch/m68k/include/generated/uapi/asm/auxvec.h
   WRAP    arch/m68k/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/m68k/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ioctl.h
+  WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/mman.h
   WRAP    arch/m68k/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/resource.h
   WRAP    arch/m68k/include/generated/uapi/asm/sembuf.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/siginfo.h
   WRAP    arch/m68k/include/generated/uapi/asm/socket.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/sockios.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
