@@ -3,8 +3,8 @@
   WRAP    arch/m68k/include/generated/uapi/asm/auxvec.h
   WRAP    arch/m68k/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/m68k/include/generated/uapi/asm/bpf_perf_event.h
-  WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ioctl.h
+  WRAP    arch/m68k/include/generated/uapi/asm/errno.h
   WRAP    arch/m68k/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/m68k/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/m68k/include/generated/uapi/asm/mman.h
