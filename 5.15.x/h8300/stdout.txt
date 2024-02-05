@@ -14,8 +14,8 @@
   WRAP    arch/h8300/include/generated/uapi/asm/poll.h
   WRAP    arch/h8300/include/generated/uapi/asm/resource.h
   WRAP    arch/h8300/include/generated/uapi/asm/sembuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/setup.h
+  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/h8300/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/h8300/include/generated/uapi/asm/siginfo.h
   WRAP    arch/h8300/include/generated/uapi/asm/socket.h
@@ -146,8 +146,8 @@
   HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
   HDRINST usr/include/linux/isdn/capicmd.h
-  HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/ccs.h
+  HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
   HDRINST usr/include/linux/tls.h
   HDRINST usr/include/linux/byteorder/little_endian.h
@@ -255,8 +255,8 @@
   HDRINST usr/include/linux/netfilter_bridge/ebt_pkttype.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_arp.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nflog.h
-  HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_vlan.h
+  HDRINST usr/include/linux/netfilter_bridge/ebt_802_3.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_redirect.h
   HDRINST usr/include/linux/netfilter_bridge/ebtables.h
   HDRINST usr/include/linux/dma-heap.h

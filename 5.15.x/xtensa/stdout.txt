@@ -94,8 +94,8 @@
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_mh.h
   HDRINST usr/include/linux/netfilter_ipv6/ip6t_REJECT.h
   HDRINST usr/include/linux/watch_queue.h
-  HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/nfc.h
+  HDRINST usr/include/linux/signal.h
   HDRINST usr/include/linux/serial.h
   HDRINST usr/include/linux/ip6_tunnel.h
   HDRINST usr/include/linux/ipv6_route.h
@@ -726,8 +726,8 @@
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
-  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/virtio_scmi.h
+  HDRINST usr/include/linux/serial_core.h
   HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
