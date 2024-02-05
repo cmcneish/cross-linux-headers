@@ -4,8 +4,8 @@
   WRAP    arch/m32r/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/m32r/include/generated/uapi/asm/siginfo.h
   HOSTCC  scripts/unifdef
-  INSTALL include/asm-generic (36 files)
   INSTALL include/drm (25 files)
+  INSTALL include/asm-generic (36 files)
   INSTALL include/misc (1 file)
   INSTALL include/linux (483 files)
   INSTALL include/mtd (5 files)
@@ -13,11 +13,11 @@
   INSTALL include/rdma/hfi (2 files)
   INSTALL include/scsi (4 files)
   INSTALL include/scsi/fc (4 files)
-  INSTALL include/linux/android (1 file)
   INSTALL include/sound (15 files)
   INSTALL include/video (3 files)
-  INSTALL include/linux/byteorder (2 files)
   INSTALL include/xen (4 files)
+  INSTALL include/linux/android (1 file)
+  INSTALL include/linux/byteorder (2 files)
   INSTALL include/linux/caif (2 files)
   INSTALL include/linux/can (6 files)
   INSTALL include/linux/cifs (1 file)
@@ -41,6 +41,6 @@
   INSTALL include/linux/tc_act (15 files)
   INSTALL include/linux/tc_ematch (4 files)
   INSTALL include/linux/usb (12 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/wimax (1 file)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/asm (31 files)
