@@ -670,8 +670,8 @@
   HDRINST usr/include/linux/mpls_iptunnel.h
   HDRINST usr/include/linux/vfio_zdev.h
   HDRINST usr/include/linux/virtio_blk.h
-  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/sonypi.h
+  HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
   HDRINST usr/include/linux/seg6_hmac.h
@@ -896,8 +896,8 @@
   HDRINST usr/include/xen/gntalloc.h
   HDRINST usr/include/linux/version.h
   HDRINST usr/include/asm/signal.h
-  HDRINST usr/include/asm/page.h
   HDRINST usr/include/asm/unistd.h
+  HDRINST usr/include/asm/page.h
   HDRINST usr/include/asm/elf.h
   HDRINST usr/include/asm/cachectl.h
   HDRINST usr/include/asm/swab.h

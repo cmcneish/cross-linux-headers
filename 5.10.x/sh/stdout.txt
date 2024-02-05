@@ -21,8 +21,8 @@
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
@@ -139,8 +139,8 @@
   HDRINST usr/include/linux/patchkey.h
   HDRINST usr/include/linux/scc.h
   HDRINST usr/include/linux/rpl_iptunnel.h
-  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/virtio_config.h
+  HDRINST usr/include/linux/atm_tcp.h
   HDRINST usr/include/linux/isdn/capicmd.h
   HDRINST usr/include/linux/audit.h
   HDRINST usr/include/linux/btf.h
@@ -531,8 +531,8 @@
   HDRINST usr/include/linux/rpmsg.h
   HDRINST usr/include/linux/cifs/cifs_mount.h
   HDRINST usr/include/linux/vm_sockets.h
-  HDRINST usr/include/linux/omapfb.h
   HDRINST usr/include/linux/nsfs.h
+  HDRINST usr/include/linux/omapfb.h
   HDRINST usr/include/linux/vm_sockets_diag.h
   HDRINST usr/include/linux/nubus.h
   HDRINST usr/include/linux/if_arcnet.h
