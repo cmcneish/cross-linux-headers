@@ -638,9 +638,9 @@
   HDRINST usr/include/linux/cramfs_fs.h
   HDRINST usr/include/linux/mount.h
   HDRINST usr/include/linux/iso_fs.h
-  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/psp-sev.h
   HDRINST usr/include/linux/if_arp.h
+  HDRINST usr/include/linux/tty_flags.h
   HDRINST usr/include/linux/i2o-dev.h
   HDRINST usr/include/linux/romfs_fs.h
   HDRINST usr/include/linux/kvm_para.h
@@ -891,8 +891,8 @@
   HDRINST usr/include/asm/sclp_ctl.h
   HDRINST usr/include/asm/termios.h
   HDRINST usr/include/asm/sie.h
-  HDRINST usr/include/asm/dasd.h
   HDRINST usr/include/asm/pkey.h
+  HDRINST usr/include/asm/dasd.h
   HDRINST usr/include/asm/kvm_perf.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/guarded_storage.h
