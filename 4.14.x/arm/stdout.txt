@@ -14,10 +14,10 @@
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-common.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   HOSTCC  scripts/unifdef
   INSTALL include/asm-generic (36 files)
@@ -45,13 +45,13 @@
   INSTALL include/linux/isdn (1 file)
   INSTALL include/linux/mmc (1 file)
   INSTALL include/linux/netfilter (87 files)
-  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/netfilter_arp (2 files)
   INSTALL include/linux/netfilter_bridge (17 files)
   INSTALL include/linux/netfilter_ipv4 (9 files)
   INSTALL include/linux/netfilter_ipv6 (12 files)
   INSTALL include/linux/nfsd (5 files)
   INSTALL include/linux/raid (2 files)
+  INSTALL include/linux/netfilter/ipset (4 files)
   INSTALL include/linux/sched (1 file)
   INSTALL include/linux/spi (1 file)
   INSTALL include/linux/sunrpc (1 file)
