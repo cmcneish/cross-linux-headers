@@ -937,8 +937,8 @@
   HDRINST usr/include/asm/msr.h
   HDRINST usr/include/asm/vsyscall.h
   HDRINST usr/include/asm/kvm_perf.h
-  HDRINST usr/include/asm/posix_types_32.h
   HDRINST usr/include/asm/vm86.h
+  HDRINST usr/include/asm/posix_types_32.h
   HDRINST usr/include/asm/byteorder.h
   HDRINST usr/include/asm/hwcap2.h
   HDRINST usr/include/asm/kvm.h
