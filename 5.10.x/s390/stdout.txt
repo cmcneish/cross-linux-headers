@@ -226,8 +226,8 @@
   HDRINST usr/include/linux/i8k.h
   HDRINST usr/include/linux/l2tp.h
   HDRINST usr/include/linux/if.h
-  HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/vmcore.h
+  HDRINST usr/include/linux/smc.h
   HDRINST usr/include/linux/ppp_defs.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_nat.h
   HDRINST usr/include/linux/netfilter_bridge/ebt_among.h

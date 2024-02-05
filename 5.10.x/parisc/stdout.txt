@@ -275,8 +275,8 @@
   HDRINST usr/include/linux/kernel-page-flags.h
   HDRINST usr/include/linux/sched.h
   HDRINST usr/include/linux/atm_he.h
-  HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/udmabuf.h
+  HDRINST usr/include/linux/lp.h
   HDRINST usr/include/linux/ppp-comp.h
   HDRINST usr/include/linux/sched/types.h
   HDRINST usr/include/linux/pmu.h
@@ -699,8 +699,8 @@
   HDRINST usr/include/linux/fsi.h
   HDRINST usr/include/linux/nilfs2_api.h
   HDRINST usr/include/linux/inotify.h
-  HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/binfmts.h
+  HDRINST usr/include/linux/vbox_vmmdev_types.h
   HDRINST usr/include/linux/dvb/osd.h
   HDRINST usr/include/linux/dvb/video.h
   HDRINST usr/include/linux/dvb/audio.h
