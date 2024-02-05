@@ -9,8 +9,8 @@
   WRAP    arch/riscv/include/generated/uapi/asm/param.h
   WRAP    arch/riscv/include/generated/uapi/asm/poll.h
   WRAP    arch/riscv/include/generated/uapi/asm/posix_types.h
-  WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   UPD     include/generated/uapi/linux/version.h
+  WRAP    arch/riscv/include/generated/uapi/asm/resource.h
   WRAP    arch/riscv/include/generated/uapi/asm/sembuf.h
   WRAP    arch/riscv/include/generated/uapi/asm/setup.h
   WRAP    arch/riscv/include/generated/uapi/asm/shmbuf.h
@@ -547,8 +547,8 @@
   HDRINST usr/include/linux/virtio_iommu.h
   HDRINST usr/include/linux/map_to_7segment.h
   HDRINST usr/include/linux/llc.h
-  HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/seccomp.h
+  HDRINST usr/include/linux/genetlink.h
   HDRINST usr/include/linux/efs_fs_sb.h
   HDRINST usr/include/linux/i2c.h
   HDRINST usr/include/linux/ioctl.h
@@ -723,8 +723,8 @@
   HDRINST usr/include/linux/dvb/net.h
   HDRINST usr/include/linux/jffs2.h
   HDRINST usr/include/linux/pci_regs.h
-  HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/serial_core.h
+  HDRINST usr/include/linux/if_addrlabel.h
   HDRINST usr/include/linux/module.h
   HDRINST usr/include/linux/synclink.h
   HDRINST usr/include/linux/tipc_config.h
