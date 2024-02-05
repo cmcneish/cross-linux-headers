@@ -281,8 +281,8 @@
   HDRINST usr/include/linux/elf-em.h
   HDRINST usr/include/linux/cec-funcs.h
   HDRINST usr/include/linux/errqueue.h
-  HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/ublk_cmd.h
+  HDRINST usr/include/linux/cuda.h
   HDRINST usr/include/linux/hdlc.h
   HDRINST usr/include/linux/fsl_mc.h
   HDRINST usr/include/linux/nilfs2_ondisk.h
@@ -806,8 +806,8 @@
   HDRINST usr/include/linux/thermal.h
   HDRINST usr/include/linux/capability.h
   HDRINST usr/include/linux/fsverity.h
-  HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/rpl.h
+  HDRINST usr/include/linux/hiddev.h
   HDRINST usr/include/linux/firewire-cdev.h
   HDRINST usr/include/linux/virtio_net.h
   HDRINST usr/include/linux/ethtool_netlink.h

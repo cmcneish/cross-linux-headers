@@ -834,8 +834,8 @@
   HDRINST usr/include/linux/virtio_i2c.h
   HDRINST usr/include/linux/bpfilter.h
   HDRINST usr/include/linux/if_pppol2tp.h
-  HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/quota.h
+  HDRINST usr/include/linux/personality.h
   HDRINST usr/include/linux/ip_vs.h
   HDRINST usr/include/linux/irqnr.h
   HDRINST usr/include/linux/virtio_input.h
