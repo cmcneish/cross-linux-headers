@@ -74,8 +74,8 @@
   HDRINST usr/include/drm/r128_drm.h
   HDRINST usr/include/drm/qxl_drm.h
   HDRINST usr/include/drm/omap_drm.h
-  HDRINST usr/include/drm/sis_drm.h
   HDRINST usr/include/drm/panfrost_drm.h
+  HDRINST usr/include/drm/sis_drm.h
   HDRINST usr/include/drm/mga_drm.h
   HDRINST usr/include/drm/i810_drm.h
   HDRINST usr/include/drm/via_drm.h
@@ -489,8 +489,8 @@
   HDRINST usr/include/linux/mmtimer.h
   HDRINST usr/include/linux/icmp.h
   HDRINST usr/include/linux/blkpg.h
-  HDRINST usr/include/linux/cycx_cfm.h
   HDRINST usr/include/linux/fib_rules.h
+  HDRINST usr/include/linux/cycx_cfm.h
   HDRINST usr/include/linux/mpls.h
   HDRINST usr/include/linux/userio.h
   HDRINST usr/include/linux/termios.h
