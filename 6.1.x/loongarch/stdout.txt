@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/loongarch/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/loongarch/include/generated/uapi/asm/errno.h
   WRAP    arch/loongarch/include/generated/uapi/asm/fcntl.h
@@ -13,7 +14,6 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/resource.h
   WRAP    arch/loongarch/include/generated/uapi/asm/sembuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/setup.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/loongarch/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/loongarch/include/generated/uapi/asm/siginfo.h
   WRAP    arch/loongarch/include/generated/uapi/asm/socket.h
@@ -24,7 +24,7 @@
   WRAP    arch/loongarch/include/generated/uapi/asm/termbits.h
   WRAP    arch/loongarch/include/generated/uapi/asm/termios.h
   WRAP    arch/loongarch/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h

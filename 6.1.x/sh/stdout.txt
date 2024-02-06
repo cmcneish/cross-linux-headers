@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/sh/include/generated/uapi/asm/ucontext.h
   WRAP    arch/sh/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/sh/include/generated/uapi/asm/bpf_perf_event.h
@@ -18,12 +19,11 @@
   WRAP    arch/sh/include/generated/uapi/asm/socket.h
   WRAP    arch/sh/include/generated/uapi/asm/statfs.h
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   UPD     include/generated/uapi/linux/version.h
-  HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
@@ -496,8 +496,8 @@
   HDRINST usr/include/linux/if_addr.h
   HDRINST usr/include/linux/serio.h
   HDRINST usr/include/linux/un.h
-  HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/nfs_fs.h
+  HDRINST usr/include/linux/vt.h
   HDRINST usr/include/linux/atalk.h
   HDRINST usr/include/linux/if_tun.h
   HDRINST usr/include/linux/sev-guest.h

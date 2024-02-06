@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/microblaze/include/generated/uapi/asm/ucontext.h
   WRAP    arch/microblaze/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/microblaze/include/generated/uapi/asm/bpf_perf_event.h
@@ -12,7 +13,6 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/param.h
   WRAP    arch/microblaze/include/generated/uapi/asm/poll.h
   WRAP    arch/microblaze/include/generated/uapi/asm/resource.h
-  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sembuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/shmbuf.h
   WRAP    arch/microblaze/include/generated/uapi/asm/siginfo.h
@@ -20,14 +20,14 @@
   WRAP    arch/microblaze/include/generated/uapi/asm/socket.h
   WRAP    arch/microblaze/include/generated/uapi/asm/sockios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/stat.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/microblaze/include/generated/uapi/asm/statfs.h
   WRAP    arch/microblaze/include/generated/uapi/asm/swab.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termbits.h
-  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
   WRAP    arch/microblaze/include/generated/uapi/asm/termios.h
   WRAP    arch/microblaze/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  SYSHDR  arch/microblaze/include/generated/uapi/asm/unistd_32.h
+  SYSTBL  arch/microblaze/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
@@ -638,8 +638,8 @@
   HDRINST usr/include/linux/netfilter.h
   HDRINST usr/include/linux/atm_nicstar.h
   HDRINST usr/include/linux/eventpoll.h
-  HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/msdos_fs.h
+  HDRINST usr/include/linux/cgroupstats.h
   HDRINST usr/include/linux/virtio_fs.h
   HDRINST usr/include/linux/cryptouser.h
   HDRINST usr/include/linux/fcntl.h
@@ -943,8 +943,8 @@
   HDRINST usr/include/asm/ptrace.h
   HDRINST usr/include/asm/signal.h
   HDRINST usr/include/asm/param.h
-  HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/statfs.h
+  HDRINST usr/include/asm/poll.h
   HDRINST usr/include/asm/sembuf.h
   HDRINST usr/include/asm/ioctls.h
   HDRINST usr/include/asm/unistd_32.h

@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/arm/include/generated/uapi/asm/kvm_para.h
   WRAP    arch/arm/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/arm/include/generated/uapi/asm/bpf_perf_event.h
@@ -14,12 +15,11 @@
   WRAP    arch/arm/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arm/include/generated/uapi/asm/socket.h
   WRAP    arch/arm/include/generated/uapi/asm/sockios.h
-  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   WRAP    arch/arm/include/generated/uapi/asm/termbits.h
   WRAP    arch/arm/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/arm/include/generated/uapi/asm/unistd-oabi.h
   SYSHDR  arch/arm/include/generated/uapi/asm/unistd-eabi.h
   UPD     include/generated/uapi/linux/version.h
-  HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
