@@ -1,10 +1,10 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/arc/include/generated/uapi/asm/ucontext.h
   WRAP    arch/arc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/arc/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/arc/include/generated/uapi/asm/errno.h
   WRAP    arch/arc/include/generated/uapi/asm/fcntl.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctl.h
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
@@ -24,7 +24,7 @@
   WRAP    arch/arc/include/generated/uapi/asm/termbits.h
   WRAP    arch/arc/include/generated/uapi/asm/termios.h
   WRAP    arch/arc/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
@@ -698,8 +698,8 @@
   HDRINST usr/include/linux/cciss_ioctl.h
   HDRINST usr/include/linux/caif/caif_socket.h
   HDRINST usr/include/linux/caif/if_caif.h
-  HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/seg6_hmac.h
+  HDRINST usr/include/linux/netfilter_ipv4.h
   HDRINST usr/include/linux/usbdevice_fs.h
   HDRINST usr/include/linux/idxd.h
   HDRINST usr/include/linux/vboxguest.h

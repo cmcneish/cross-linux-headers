@@ -1,19 +1,19 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/xtensa/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/xtensa/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/xtensa/include/generated/uapi/asm/errno.h
   WRAP    arch/xtensa/include/generated/uapi/asm/fcntl.h
   WRAP    arch/xtensa/include/generated/uapi/asm/ioctl.h
-  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/xtensa/include/generated/uapi/asm/resource.h
   WRAP    arch/xtensa/include/generated/uapi/asm/siginfo.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/xtensa/include/generated/uapi/asm/socket.h
   WRAP    arch/xtensa/include/generated/uapi/asm/statfs.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termbits.h
   WRAP    arch/xtensa/include/generated/uapi/asm/termios.h
+  SYSHDR  arch/xtensa/include/generated/uapi/asm/unistd_32.h
   SYSTBL  arch/xtensa/include/generated/asm/syscall_table.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h

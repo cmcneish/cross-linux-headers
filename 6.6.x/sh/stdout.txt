@@ -1,19 +1,17 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/sh/include/generated/uapi/asm/ucontext.h
   WRAP    arch/sh/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/sh/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/sh/include/generated/uapi/asm/errno.h
   WRAP    arch/sh/include/generated/uapi/asm/fcntl.h
-  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
   WRAP    arch/sh/include/generated/uapi/asm/ioctl.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/sh/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/mman.h
   WRAP    arch/sh/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/sh/include/generated/uapi/asm/param.h
   WRAP    arch/sh/include/generated/uapi/asm/poll.h
   WRAP    arch/sh/include/generated/uapi/asm/resource.h
-  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
   WRAP    arch/sh/include/generated/uapi/asm/sembuf.h
   WRAP    arch/sh/include/generated/uapi/asm/setup.h
   WRAP    arch/sh/include/generated/uapi/asm/shmbuf.h
@@ -23,7 +21,9 @@
   WRAP    arch/sh/include/generated/uapi/asm/termbits.h
   WRAP    arch/sh/include/generated/uapi/asm/termios.h
   WRAP    arch/sh/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  SYSHDR  arch/sh/include/generated/uapi/asm/unistd_32.h
+  SYSTBL  arch/sh/include/generated/asm/syscall_table.h
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
