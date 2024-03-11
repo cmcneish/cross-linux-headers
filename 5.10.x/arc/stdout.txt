@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/arc/include/generated/uapi/asm/ucontext.h
   WRAP    arch/arc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/arc/include/generated/uapi/asm/bitsperlong.h
@@ -16,7 +17,6 @@
   WRAP    arch/arc/include/generated/uapi/asm/resource.h
   WRAP    arch/arc/include/generated/uapi/asm/sembuf.h
   WRAP    arch/arc/include/generated/uapi/asm/shmbuf.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/siginfo.h
   WRAP    arch/arc/include/generated/uapi/asm/socket.h
   WRAP    arch/arc/include/generated/uapi/asm/sockios.h
@@ -25,7 +25,7 @@
   WRAP    arch/arc/include/generated/uapi/asm/termbits.h
   WRAP    arch/arc/include/generated/uapi/asm/termios.h
   WRAP    arch/arc/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
@@ -360,8 +360,8 @@
   HDRINST usr/include/linux/netfilter/nf_conntrack_tcp.h
   HDRINST usr/include/linux/netfilter/xt_statistic.h
   HDRINST usr/include/linux/netfilter/xt_CT.h
-  HDRINST usr/include/linux/netfilter/xt_addrtype.h
   HDRINST usr/include/linux/netfilter/xt_set.h
+  HDRINST usr/include/linux/netfilter/xt_addrtype.h
   HDRINST usr/include/linux/netfilter/xt_iprange.h
   HDRINST usr/include/linux/netfilter/xt_DSCP.h
   HDRINST usr/include/linux/netfilter/xt_IDLETIMER.h

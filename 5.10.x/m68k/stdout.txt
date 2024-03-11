@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/m68k/include/generated/uapi/asm/auxvec.h
   WRAP    arch/m68k/include/generated/uapi/asm/bitsperlong.h
   WRAP    arch/m68k/include/generated/uapi/asm/bpf_perf_event.h
@@ -16,11 +17,10 @@
   WRAP    arch/m68k/include/generated/uapi/asm/statfs.h
   WRAP    arch/m68k/include/generated/uapi/asm/termbits.h
   WRAP    arch/m68k/include/generated/uapi/asm/termios.h
-  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   WRAP    arch/m68k/include/generated/uapi/asm/types.h
+  SYSTBL  arch/m68k/include/generated/asm/syscall_table.h
   SYSHDR  arch/m68k/include/generated/uapi/asm/unistd_32.h
   UPD     include/generated/uapi/linux/version.h
-  HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h

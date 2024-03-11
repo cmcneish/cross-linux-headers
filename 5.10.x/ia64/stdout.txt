@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/ia64/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/ia64/include/generated/uapi/asm/errno.h
   WRAP    arch/ia64/include/generated/uapi/asm/ioctl.h
@@ -13,7 +14,6 @@
   SYSTBL  arch/ia64/include/generated/asm/syscall_table.h
   SYSHDR  arch/ia64/include/generated/uapi/asm/unistd_64.h
   UPD     include/generated/uapi/linux/version.h
-  HOSTCC  scripts/unifdef
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
