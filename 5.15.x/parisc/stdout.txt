@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/parisc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/parisc/include/generated/uapi/asm/bpf_perf_event.h
   WRAP    arch/parisc/include/generated/uapi/asm/param.h
@@ -10,10 +11,9 @@
   WRAP    arch/parisc/include/generated/uapi/asm/types.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_32.h
   SYSHDR  arch/parisc/include/generated/uapi/asm/unistd_64.h
-  UPD     include/generated/uapi/linux/version.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_32.h
   SYSTBL  arch/parisc/include/generated/asm/syscall_table_64.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
