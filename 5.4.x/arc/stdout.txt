@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/arc/include/generated/uapi/asm/ucontext.h
   WRAP    arch/arc/include/generated/uapi/asm/auxvec.h
   WRAP    arch/arc/include/generated/uapi/asm/bitsperlong.h
@@ -9,7 +10,6 @@
   WRAP    arch/arc/include/generated/uapi/asm/ioctls.h
   WRAP    arch/arc/include/generated/uapi/asm/ipcbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/mman.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/arc/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/arc/include/generated/uapi/asm/param.h
   WRAP    arch/arc/include/generated/uapi/asm/poll.h
@@ -25,7 +25,7 @@
   WRAP    arch/arc/include/generated/uapi/asm/termbits.h
   WRAP    arch/arc/include/generated/uapi/asm/termios.h
   WRAP    arch/arc/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h

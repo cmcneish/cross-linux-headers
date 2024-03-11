@@ -1,4 +1,5 @@
   HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/unifdef
   WRAP    arch/nios2/include/generated/uapi/asm/ucontext.h
   WRAP    arch/nios2/include/generated/uapi/asm/auxvec.h
   WRAP    arch/nios2/include/generated/uapi/asm/bitsperlong.h
@@ -11,7 +12,6 @@
   WRAP    arch/nios2/include/generated/uapi/asm/mman.h
   WRAP    arch/nios2/include/generated/uapi/asm/msgbuf.h
   WRAP    arch/nios2/include/generated/uapi/asm/param.h
-  UPD     include/generated/uapi/linux/version.h
   WRAP    arch/nios2/include/generated/uapi/asm/poll.h
   WRAP    arch/nios2/include/generated/uapi/asm/posix_types.h
   WRAP    arch/nios2/include/generated/uapi/asm/resource.h
@@ -26,7 +26,7 @@
   WRAP    arch/nios2/include/generated/uapi/asm/termbits.h
   WRAP    arch/nios2/include/generated/uapi/asm/termios.h
   WRAP    arch/nios2/include/generated/uapi/asm/types.h
-  HOSTCC  scripts/unifdef
+  UPD     include/generated/uapi/linux/version.h
   HDRINST usr/include/asm-generic/mman-common.h
   HDRINST usr/include/asm-generic/signal.h
   HDRINST usr/include/asm-generic/param.h
